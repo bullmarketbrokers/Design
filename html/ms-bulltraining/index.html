@@ -60,7 +60,22 @@
     <div class="contact">
     	<div class="container">
         	<h1>Consultas</h1>
-            <iframe class="form" src="form.html"></iframe>
+             <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
+                <input type="hidden" name="about" value="BullTraining" />
+                <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/error.html" />
+                <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/contactoRes.html" />
+                <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar" />
+                <div class="col-xs-12 col-sm-6">
+                	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />
+                </div>
+                <div class="col-xs-12">
+                	<textarea placeholder="Comentarios" name="body" class="required"></textarea>
+                    <button type="submit" class="btn blueBtn">Enviar Consulta <i class="fa fa-paper-plane"></i></button>
+                </div>
+             </form>
         </div>
     </div>
     <footer>
@@ -110,7 +125,12 @@
         </div>
     </footer>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.validate.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/custom.js"></script>
+	<script type="text/javascript">
+    $(document).ready(function() {
+        $("#commentForm").validate();
+    });
+    </script>    
   </body>
 </html>
