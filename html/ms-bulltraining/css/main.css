@@ -11,6 +11,7 @@ body {font-family: 'Lato', sans-serif;color:#1f6ead;font-size:24px;text-align:ce
 .fullWidth {width:100%!important}
 .center {text-align:center!important}
 h1 {font-size:40px;font-weight:700;margin-bottom:30px}
+h1.big {font-size:60px}
 h2 {font-size:32px;font-weight:700;margin-bottom:20px}
 .blueBg {background:#1f6ead;color:#fff}
 form input, form textarea {font-family: 'Lato', sans-serif;border:1px solid #ccc;color:#1f6ead;margin-bottom:15px;padding:10px;width:100%}
@@ -20,15 +21,19 @@ form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;
 .blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
 
 /* header */
-header {padding:16px 0;background: #f2f2f2;background: -moz-linear-gradient(top,  #f2f2f2 0%, #cccccc 100%);background: -webkit-linear-gradient(top,  #f2f2f2 0%,#cccccc 100%);background: linear-gradient(to bottom,  #f2f2f2 0%,#cccccc 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#cccccc',GradientType=0 );border-bottom:1px solid #bbb}
+header {padding:16px 0;position:relative}
+header .line {position:absolute;background:#eee;height:40px;top:44px;width:100%;border-bottom:1px solid #fce126}
+header img {position:relative;z-index:2}
 
 /* content */
-.top {background:url(../images/top.jpg) top center no-repeat;background-size:cover;font-size:24px;font-weight:700;padding:40px 0 60px;color:#333}
+.top {background:url(../images/top.jpg) top center no-repeat;background-size:cover;font-size:24px;font-weight:700;padding:87px 0 60px;color:#333;margin-top:-47px}
+.topAn1 {background-image:url(../images/topAn1.jpg)}
 .top p {margin-top:40px;padding:0 20px}
 .arrow {top:-30px;font-size:60px!important;text-align:center;width:60px;height:60px;border-radius:60px;border:3px solid #1f6ead; color:#1f6ead;background:#fff;position:relative}
 .course {position:relative;font-weight:100;padding-bottom:80px}
 .course b {font-weight:400;font-size:30px}
-.btn {padding:12px 20px;font-weight:700;font-size:24px;margin:40px 5px 0 5px}
+.btn {padding:12px 20px;font-weight:700;font-size:24px;margin:40px 5px 0 5px;border:none}
+.btn-primary:hover {background-color:#337ab7}
 .btn i {margin-left:10px}
 .whiteBtn, .whiteBtn:hover {background:#fff;color:#1f6ead}
 .borderBtn, .borderBtn:hover {border:1px solid #fff;color:#fff}
@@ -37,9 +42,17 @@ header {padding:16px 0;background: #f2f2f2;background: -moz-linear-gradient(top,
 .freddy {background:#eee;padding:40px 0}
 .freddy img {margin-bottom:40px;box-shadow:0 0 10px #999;border:2px solid #fff}
 .freddy span {font-weight:100;color:#000}
+.courses {border-top:1px solid #ccc}
+.borderBox {border:1px solid #cdcdcd;padding:0 0 56px;margin-top:20px;position:relative;background:#fff;} 
+.borderBox img {width:100%}
+.borderBox h4 {background:#1f6ead;padding:10px;color:#fff;margin:-1px -1px 0;font-size:24px}
+.borderBox h5 {font-size:16px;background:#f6f6f6;padding:14px 0;margin:0;border-top:1px solid #cdcdcd;font-weight:600}
+.borderBox h4 a {color:#fff;text-decoration:none}
+.borderBox p {padding:10px;color:#333;font-weight:600;font-size:16px;margin:16px 0 0}
+.borderBox .btn {position:absolute;bottom:0;left:0;border:none;border-top:1px solid #cdcdcd;border-radius:0;margin:0;color:#1f6ead}
 
 /* footer */
-footer {text-align:left;font-size:11px;margin:40px 0;color:#333}
+footer {text-align:left;font-size:11px;margin:40px 0;color:#333;border-top:1px solid #cdcdcd;padding-top:40px}
 footer .bmb {padding: 12px 15px}
 .footerSocial {padding-right:0}
 .footerSocial a {color:#fff;background:#000;text-align:center;width:18%;margin-right:2px;padding:4px;font-size:20px;float:left}
