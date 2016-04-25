@@ -1,0 +1,934 @@
+{
+  "childrenAccountingAccount": [
+    {
+      "accountName": "Estado de situación financiera, corriente/no corriente - Estados financieros consolidados",
+      "total": 417108000000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Estado de situación financiera",
+          "total": 417108000000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Activos",
+              "total": 208554000000,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Activos no corrientes",
+                  "total": 166454000000,
+                  "childrenAccountingAccount": [
+                    {
+                      "accountName": "Propiedades, planta y equipo",
+                      "total": 156930000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3359
+                    },
+                    {
+                      "accountName": "Propiedad de inversión ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3360
+                    },
+                    {
+                      "accountName": "Plusvalía (llave de negocio)",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3361
+                    },
+                    {
+                      "accountName": "Otros activos intangibles (excepto plusvalía o llave de negocio)",
+                      "total": 4393000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3362
+                    },
+                    {
+                      "accountName": "Inversiones contabilizadas por el método de la participación",
+                      "total": 3177000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3363
+                    },
+                    {
+                      "accountName": "Activos biológicos no corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3364
+                    },
+                    {
+                      "accountName": "Cuentas por cobrar no corrientes",
+                      "total": 1710000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Cuentas por cobrar no corrientes debidas por partes relacionadas",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3365,
+                          "id": 3366
+                        },
+                        {
+                          "accountName": "Cuentas por cobrar no corrientes debidas por terceros",
+                          "total": 1710000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3365,
+                          "id": 3367
+                        },
+                        {
+                          "accountName": "Cuentas por cobrar no corrientes que surgen de ingresos devengados pendientes de facturar",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3365,
+                          "id": 3368
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3365
+                    },
+                    {
+                      "accountName": "Inventarios no corrientes",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3370
+                    },
+                    {
+                      "accountName": "Activos por impuestos diferidos ",
+                      "total": 244000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3371
+                    },
+                    {
+                      "accountName": "Impuestos por recuperar no corrientes",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3372
+                    },
+                    {
+                      "accountName": "Otros activos financieros no corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3373
+                    },
+                    {
+                      "accountName": "Otros activos no financieros no corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3358,
+                      "id": 3374
+                    }
+                  ],
+                  "indentLevel": 3,
+                  "parentId": 3357,
+                  "id": 3358
+                },
+                {
+                  "accountName": "Activos corrientes",
+                  "total": 42100000000,
+                  "childrenAccountingAccount": [
+                    {
+                      "accountName": "Inventarios corrientes",
+                      "total": 13001000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3377
+                    },
+                    {
+                      "accountName": "Cuentas por cobrar comerciales y otras cuentas por cobrar corrientes",
+                      "total": 19341000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Cuentas por cobrar comerciales y otras cuentas por cobrar corrientes debidas por partes relacionadas",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3378,
+                          "id": 3379
+                        },
+                        {
+                          "accountName": "Cuentas por cobrar comerciales y otras cuentas por cobrar corrientes debidas por terceros",
+                          "total": 19341000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3378,
+                          "id": 3380
+                        },
+                        {
+                          "accountName": "Cuentas por cobrar comerciales y otras cuentas por cobrar corrientes que surgen de ingresos devengados pendientes de facturar",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3378,
+                          "id": 3381
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3378
+                    },
+                    {
+                      "accountName": "Impuestos por recuperar corrientes",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3383
+                    },
+                    {
+                      "accountName": "Activos biológicos corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3384
+                    },
+                    {
+                      "accountName": "Otros activos financieros corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3385
+                    },
+                    {
+                      "accountName": "Otros activos no financieros corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3386
+                    },
+                    {
+                      "accountName": "Efectivo y equivalentes al efectivo ",
+                      "total": 9758000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3387
+                    },
+                    {
+                      "accountName": "Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o  mantenidos para distribuir a los propietarios",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3376,
+                      "id": 3389
+                    }
+                  ],
+                  "indentLevel": 3,
+                  "parentId": 3357,
+                  "id": 3376
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3356,
+              "id": 3357
+            },
+            {
+              "accountName": "Patrimonio Neto",
+              "total": 72781000000,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Patrimonio atribuible a los propietarios de la controladora",
+                  "total": 72630000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3392,
+                  "id": 3393
+                },
+                {
+                  "accountName": "Participaciones no controladoras",
+                  "total": 151000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3392,
+                  "id": 3394
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3356,
+              "id": 3392
+            },
+            {
+              "accountName": "Pasivos",
+              "total": 135773000000,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Pasivos no corrientes",
+                  "total": 82407000000,
+                  "childrenAccountingAccount": [
+                    {
+                      "accountName": "Provisiones no corrientes",
+                      "total": 26564000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Provisiones no corrientes por beneficios al personal",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3398,
+                          "id": 3399
+                        },
+                        {
+                          "accountName": "Otras provisiones no corrientes ",
+                          "total": 26564000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3398,
+                          "id": 3400
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3398
+                    },
+                    {
+                      "accountName": "Cuentas por pagar no corrientes",
+                      "total": 566000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Cuentas por pagar no corrientes con proveedores",
+                          "total": 566000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3402,
+                          "id": 3403
+                        },
+                        {
+                          "accountName": "Cuentas por pagar no corrientes con partes relacionadas",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3402,
+                          "id": 3404
+                        },
+                        {
+                          "accountName": "Ingresos diferidos clasificados como no corrientes",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3402,
+                          "id": 3405
+                        },
+                        {
+                          "accountName": "Cuentas por pagar  devengadas clasificadas como no corrientes",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3402,
+                          "id": 3406
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3402
+                    },
+                    {
+                      "accountName": "Pasivos por impuestos diferidos",
+                      "total": 18948000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3408
+                    },
+                    {
+                      "accountName": "Pasivos por impuestos no corrientes",
+                      "total": 299000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3409
+                    },
+                    {
+                      "accountName": "Otros pasivos financieros no corrientes ",
+                      "total": 36030000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3410
+                    },
+                    {
+                      "accountName": "Otros pasivos no financieros no corrientes ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3397,
+                      "id": 3411
+                    }
+                  ],
+                  "indentLevel": 3,
+                  "parentId": 3396,
+                  "id": 3397
+                },
+                {
+                  "accountName": "Pasivos corrientes",
+                  "total": 53366000000,
+                  "childrenAccountingAccount": [
+                    {
+                      "accountName": "Provisiones corrientes",
+                      "total": 2399000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Provisiones corrientes por beneficios al personal ",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3414,
+                          "id": 3415
+                        },
+                        {
+                          "accountName": "Otras provisiones corrientes",
+                          "total": 2399000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3414,
+                          "id": 3416
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3414
+                    },
+                    {
+                      "accountName": "Cuentas por pagar comerciales y otras cuentas por pagar corrientes",
+                      "total": 30406000000,
+                      "childrenAccountingAccount": [
+                        {
+                          "accountName": "Cuentas por pagar comerciales y otras cuentas por pagar corrientes a proveedores",
+                          "total": 30406000000,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3418,
+                          "id": 3419
+                        },
+                        {
+                          "accountName": "Cuentas por pagar comerciales y otras cuentas por pagar corrientes a partes relacionadas",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3418,
+                          "id": 3420
+                        },
+                        {
+                          "accountName": "Ingresos diferidos clasificados como corrientes",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3418,
+                          "id": 3421
+                        },
+                        {
+                          "accountName": "Cuentas por Pagar devengadas clasificadas como corrientes",
+                          "total": 0,
+                          "childrenAccountingAccount": [],
+                          "indentLevel": 5,
+                          "parentId": 3418,
+                          "id": 3422
+                        }
+                      ],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3418
+                    },
+                    {
+                      "accountName": "Pasivos por impuestos corrientes ",
+                      "total": 5383000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3424
+                    },
+                    {
+                      "accountName": "Otros pasivos financieros corrientes ",
+                      "total": 13275000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3425
+                    },
+                    {
+                      "accountName": "Otros pasivos no financieros corrientes ",
+                      "total": 1903000000,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3426
+                    },
+                    {
+                      "accountName": "Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta ",
+                      "total": 0,
+                      "childrenAccountingAccount": [],
+                      "indentLevel": 4,
+                      "parentId": 3413,
+                      "id": 3428
+                    }
+                  ],
+                  "indentLevel": 3,
+                  "parentId": 3396,
+                  "id": 3413
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3356,
+              "id": 3396
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 3355,
+          "id": 3356
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 3355
+    },
+    {
+      "accountName": "Estado del resultado integral, por función de gasto - Estados financieros consolidados",
+      "total": 156061000000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Estado de resultados integral",
+          "total": 105811000000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Ganancia (pérdida)",
+              "total": 105811000000,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Ingresos de actividades ordinarias ",
+                  "total": 141942000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3435
+                },
+                {
+                  "accountName": "Costo de ventas ",
+                  "total": -104492000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3436
+                },
+                {
+                  "accountName": "Ganancia (Pérdida) bruta ",
+                  "total": 37450000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3437
+                },
+                {
+                  "accountName": "Otros Ingresos",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3438
+                },
+                {
+                  "accountName": "Costos de distribución ",
+                  "total": -10114000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3439
+                },
+                {
+                  "accountName": "Gastos de Administración",
+                  "total": -4530000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3440
+                },
+                {
+                  "accountName": "Otros gastos ",
+                  "total": -2034000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3441
+                },
+                {
+                  "accountName": "Otras ganancias (pérdidas) ",
+                  "total": -1030000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3442
+                },
+                {
+                  "accountName": "Ganancia (pérdida) de actividades operativas",
+                  "total": 19742000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3443
+                },
+                {
+                  "accountName": "Diferencias entre el importe en libros de activos distribuidos (excepto efectivo) e importe en libros de dividendos por pagar",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3444
+                },
+                {
+                  "accountName": "Ganancias (pérdidas) derivadas de la posición monetaria neta (diferencias de cambio)",
+                  "total": 7782000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3445
+                },
+                {
+                  "accountName": "Ganancias (Perdidas) provenientes de la baja en cuentas de activos financieros medidos al costo amortizado",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3446
+                },
+                {
+                  "accountName": "Ingresos financieros ",
+                  "total": 1326000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3447
+                },
+                {
+                  "accountName": "Costos financieros ",
+                  "total": -7336000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3448
+                },
+                {
+                  "accountName": "Participación en las ganancias (pérdidas) de asociadas y negocios conjuntos contabilizados por el método de la participación",
+                  "total": 558000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3449
+                },
+                {
+                  "accountName": "Ganancias (pérdidas)  provenientes de diferencias entre el importes en libros y el valor razonable de activos financieros reclasificados como medidos al valor razonable",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3450
+                },
+                {
+                  "accountName": "Ganancia (pérdida), antes de impuestos ",
+                  "total": 22072000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3451
+                },
+                {
+                  "accountName": "Ingreso (gasto) por impuestos a las ganancias",
+                  "total": -13223000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3452
+                },
+                {
+                  "accountName": "Ganancia (pérdida) procedente de operaciones continuadas ",
+                  "total": 8849000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3453
+                },
+                {
+                  "accountName": "Ganancia (pérdida) procedente de operaciones discontinuadas ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3454
+                },
+                {
+                  "accountName": "Ganancia (pérdida)  del período / ejercicio",
+                  "total": 8849000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3434,
+                  "id": 3455
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3433,
+              "id": 3434
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 3432,
+          "id": 3433
+        },
+        {
+          "accountName": "Otro resultado integral ( Neto de Impuesto) ",
+          "total": 16276000000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Items que nunca se reclasifican a pérdidas y ganancias",
+              "total": 0,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Otro resultado integral, neto de impuestos, ganancias (pérdidas) por revaluación ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3457,
+                  "id": 3458
+                },
+                {
+                  "accountName": "Otro resultado integral, neto de impuestos, ganancias (pérdidas) actuariales por planes de beneficios definidos ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3457,
+                  "id": 3459
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3456,
+              "id": 3457
+            },
+            {
+              "accountName": "Items que se pueden reclasificar a pérdidas y ganancias",
+              "total": 16276000000,
+              "childrenAccountingAccount": [
+                {
+                  "accountName": "Ganancias (pérdidas) por diferencias de cambio de conversión, netas de impuestos ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3461
+                },
+                {
+                  "accountName": "Ganancias (pérdidas) por nuevas mediciones de activos financieros disponibles para la venta, netas de impuestos ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3462
+                },
+                {
+                  "accountName": "Ganancias (pérdidas) por coberturas de flujos de efectivo, neto de impuestos ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3463
+                },
+                {
+                  "accountName": "Ganancias (pérdidas) por coberturas de inversiones netas en negocios en el extranjero, neto de impuestos ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3464
+                },
+                {
+                  "accountName": "Otro resultado integral, neto de impuestos, ganancias (pérdidas) de inversiones en instrumentos de patrimonio ",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3465
+                },
+                {
+                  "accountName": "Participación en el otro resultado integral de asociadas y negocios conjuntos contabilizados  por el método de la participación",
+                  "total": 0,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3466
+                },
+                {
+                  "accountName": "Otros resultados integrales",
+                  "total": 16276000000,
+                  "childrenAccountingAccount": [],
+                  "indentLevel": 3,
+                  "parentId": 3460,
+                  "id": 3467
+                }
+              ],
+              "indentLevel": 2,
+              "parentId": 3456,
+              "id": 3460
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 3432,
+          "id": 3456
+        },
+        {
+          "accountName": "Resultado integral total  del ejercicio /período",
+          "total": 25125000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3432,
+          "id": 3468
+        },
+        {
+          "accountName": "Ganancia (pérdida), atribuible a",
+          "total": 8849000000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Ganancia (pérdida)  del período / ejercicio , atribuible a los propietarios de la controladora",
+              "total": 9002000000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 3469,
+              "id": 3470
+            },
+            {
+              "accountName": "Ganancia (pérdida), atribuible a participaciones no controladoras",
+              "total": -153000000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 3469,
+              "id": 3471
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 3432,
+          "id": 3469
+        },
+        {
+          "accountName": "Resultado integral atribuible a",
+          "total": 0,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Resultado integral atribuible a los propietarios de la controladora",
+              "total": 0,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 3472,
+              "id": 3473
+            },
+            {
+              "accountName": "Resultado integral atribuible a participaciones no controladoras",
+              "total": 0,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 3472,
+              "id": 3474
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 3432,
+          "id": 3472
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 3432
+    },
+    {
+      "accountName": "Estado de flujos de efectivo",
+      "total": 16296000000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Flujos de efectivo procedentes de (utilizados en) actividades de operación",
+          "total": 46154000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3476
+        },
+        {
+          "accountName": "Flujos de efectivo procedentes de (utilizados en) actividades de inversión",
+          "total": -53405000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3477
+        },
+        {
+          "accountName": "Flujos de efectivo procedentes de (utilizados en) actividades de financiación",
+          "total": 4986000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3478
+        },
+        {
+          "accountName": "Incremento (disminución) en el efectivo y equivalentes al efectivo, antes del efecto de los cambios en la tasa de cambio",
+          "total": -2265000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3479
+        },
+        {
+          "accountName": "Efectos de la variación en la tasa de cambio sobre el efectivo y equivalentes al efectivo",
+          "total": 1310000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3480
+        },
+        {
+          "accountName": "Incremento (disminución) neto de efectivo y equivalentes al efectivo",
+          "total": -955000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3481
+        },
+        {
+          "accountName": "Efectivo y equivalentes al efectivo al principio del periodo",
+          "total": 10713000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3482
+        },
+        {
+          "accountName": "Efectivo y equivalentes al efectivo al final del período",
+          "total": 9758000000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 3475,
+          "id": 3483
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 3475
+    }
+  ],
+  "date": "2014-12-31T00:00:00",
+  "stockId": 21
+}

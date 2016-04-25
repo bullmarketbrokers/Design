@@ -1,0 +1,380 @@
+{
+  "childrenAccountingAccount": [
+    {
+      "accountName": "Estado de Situación Patrimonial Consolidado",
+      "total": 263966008000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Activo",
+          "total": 131983004000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Disponibilidades",
+              "total": 10875468000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2859
+            },
+            {
+              "accountName": "Títulos Públicos y Privados",
+              "total": 19660902000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2860
+            },
+            {
+              "accountName": "Préstamos (Cap. e Intereses)",
+              "total": 79661673000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2861
+            },
+            {
+              "accountName": "Previsiones",
+              "total": 0,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2862
+            },
+            {
+              "accountName": "Otros Créditos por Intermediación Financiera",
+              "total": 13988769000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2863
+            },
+            {
+              "accountName": "Créditos por Arrendamientos Financieros",
+              "total": 1014060000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2864
+            },
+            {
+              "accountName": "Participación en Otras Sociedades",
+              "total": 50803000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2865
+            },
+            {
+              "accountName": "Créditos Diversos",
+              "total": 2290553000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2866
+            },
+            {
+              "accountName": "Bienes de Uso",
+              "total": 1612233000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2867
+            },
+            {
+              "accountName": "Bienes Diversos",
+              "total": 585932000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2868
+            },
+            {
+              "accountName": "Bienes Intangibles",
+              "total": 1871560000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2869
+            },
+            {
+              "accountName": "Filiales en el Exterior",
+              "total": 0,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2870
+            },
+            {
+              "accountName": "Partidas Pendientes de Imputación",
+              "total": 371051000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2858,
+              "id": 2871
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 2857,
+          "id": 2858
+        },
+        {
+          "accountName": "Pasivo",
+          "total": 119929773000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Depósitos",
+              "total": 77240842000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2874
+            },
+            {
+              "accountName": "Otras Obligaciones por Intermediación Financiera",
+              "total": 35152975000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2875
+            },
+            {
+              "accountName": "Obligaciones Diversas",
+              "total": 3539849000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2876
+            },
+            {
+              "accountName": "Previsiones",
+              "total": 399684000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2877
+            },
+            {
+              "accountName": "Partidas Pendientes de Imputación",
+              "total": 455275000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2878
+            },
+            {
+              "accountName": "Obligaciones Subordinadas",
+              "total": 2249802000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2879
+            },
+            {
+              "accountName": "Participación de Terceros en Sociedades Controladas",
+              "total": 891346000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2873,
+              "id": 2881
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 2857,
+          "id": 2873
+        },
+        {
+          "accountName": "Patrimonio Neto",
+          "total": 12053231000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2857,
+          "id": 2882
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 2857
+    },
+    {
+      "accountName": "Estado de Resultados Consolidados",
+      "total": 1906807000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Ingresos Financieros",
+          "total": 11388257000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2884
+        },
+        {
+          "accountName": "Egresos Financieros",
+          "total": -5967479000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2885
+        },
+        {
+          "accountName": "Cargo por Incobrabilidad",
+          "total": -1074740000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2886
+        },
+        {
+          "accountName": "Ingresos por Servicios",
+          "total": 5196106000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2887
+        },
+        {
+          "accountName": "Egresos por Servicios",
+          "total": -1565842000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2888
+        },
+        {
+          "accountName": "Resultado Monetario por Intermediación Financiera",
+          "total": 0,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2889
+        },
+        {
+          "accountName": "Gastos de Administración",
+          "total": -5845833000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2890
+        },
+        {
+          "accountName": "Resultado Monetario por otras Operaciones",
+          "total": 0,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2891
+        },
+        {
+          "accountName": "Utilidades Diversas",
+          "total": 1355596000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2892
+        },
+        {
+          "accountName": "Pérdidas Diversas",
+          "total": -221434000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2893
+        },
+        {
+          "accountName": "Resultado Monetario por Egresos Operativos",
+          "total": 0,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2894
+        },
+        {
+          "accountName": "Resultado por Participación de Terceros",
+          "total": -148411000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2895
+        },
+        {
+          "accountName": "Resultado Filiales en el Exterior",
+          "total": 0,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2896
+        },
+        {
+          "accountName": "Impuesto a las Ganancias",
+          "total": -1209413000,
+          "childrenAccountingAccount": [],
+          "indentLevel": 1,
+          "parentId": 2883,
+          "id": 2897
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 2883
+    },
+    {
+      "accountName": "Estado de flujo de efectivo y sus equivalentes consolidados",
+      "total": 71749613000,
+      "childrenAccountingAccount": [
+        {
+          "accountName": "Variación de los fondos consolidados",
+          "total": 71749613000,
+          "childrenAccountingAccount": [
+            {
+              "accountName": "Fondos al Inicio del Ejercicio",
+              "total": 23054015000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2899,
+              "id": 2900
+            },
+            {
+              "accountName": "Modificación de Ejercicios Anteriores",
+              "total": 0,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2899,
+              "id": 2901
+            },
+            {
+              "accountName": "Fondos Modificados de Ejercicios Anteriores",
+              "total": 23054015000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2899,
+              "id": 2902
+            },
+            {
+              "accountName": "Aumento/Disminución de Fondos",
+              "total": 1293784000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2899,
+              "id": 2903
+            },
+            {
+              "accountName": "Fondos al Cierre del Período/Ejercicio",
+              "total": 24347799000,
+              "childrenAccountingAccount": [],
+              "indentLevel": 2,
+              "parentId": 2899,
+              "id": 2904
+            }
+          ],
+          "indentLevel": 1,
+          "parentId": 2898,
+          "id": 2899
+        }
+      ],
+      "indentLevel": 0,
+      "parentId": 0,
+      "id": 2898
+    }
+  ],
+  "date": "2015-06-30T00:00:00",
+  "stockId": 10
+}

@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+
+    <link href="../Content/styles/bootstrap-multiselect.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap-select.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap-select.min.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap.css" rel="stylesheet" />
+    <link href="../Content/styles/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/styles/datepicker.css" rel="stylesheet" />
+    <link href="../Content/styles/jasny-bootstrap.css" rel="stylesheet" />
+    <link href="../Content/styles/jasny-bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/styles/jqtree.css" rel="stylesheet" />
+    <link href="../Content/styles/select2-bootstrap.css" rel="stylesheet" />
+    <link href="../Content/styles/select2.css" rel="stylesheet" />
+    <link href="../Content/styles/Site.css" rel="stylesheet" />
+
+    <script src="../Scripts/bootstrap-datepicker.js"></script>
+    <script src="../Scripts/bootstrap-multiselect.js"></script>
+    <script src="../Scripts/bootstrap-select.js"></script>
+    <script src="../Scripts/bootstrap-select.min.js"></script>
+    <script src="../Scripts/bootstrap.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/form.helper.js"></script>
+    <script src="../Scripts/general.js"></script>
+    <script src="../Scripts/handlebars.amd.js"></script>
+    <script src="../Scripts/handlebars.amd.min.js"></script>
+    <script src="../Scripts/handlebars.js"></script>
+    <script src="../Scripts/handlebars.min.js"></script>
+    <script src="../Scripts/handlebars.runtime.amd.js"></script>
+    <script src="../Scripts/handlebars.runtime.amd.min.js"></script>
+    <script src="../Scripts/handlebars.runtime.js"></script>
+    <script src="../Scripts/handlebars.runtime.min.js"></script>
+    <script src="../Scripts/Index.js"></script>
+    <script src="../Scripts/jasny-bootstrap.js"></script>
+    <script src="../Scripts/jasny-bootstrap.min.js"></script>
+    <script src="../Scripts/jqTreeContextMenu.js"></script>
+    <script src="../Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="../Scripts/jquery-1.10.2.js"></script>
+    <script src="../Scripts/jquery-1.10.2.min.js"></script>
+    <script src="../Scripts/jquery.maskMoney.js"></script>
+    <script src="../Scripts/jquery.signalR-2.0.3.js"></script>
+    <script src="../Scripts/jquery.signalR-2.0.3.min.js"></script>
+    <script src="../Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="../Scripts/jquery.validate.js"></script>
+    <script src="../Scripts/jquery.validate.min.js"></script>
+    <script src="../Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="../Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="../Scripts/linq-vsdoc.js"></script>
+    <script src="../Scripts/linq.js"></script>
+    <script src="../Scripts/linq.min.js"></script>
+    <script src="../Scripts/loading-overlay.js"></script>
+    <script src="../Scripts/login.js"></script>
+    <script src="../Scripts/modernizr-2.6.2.js"></script>
+    <script src="../Scripts/notifications.js"></script>
+    <script src="../Scripts/pagination.js"></script>
+    <script src="../Scripts/respond.js"></script>
+    <script src="../Scripts/respond.min.js"></script>
+    <script src="../Scripts/select2.js"></script>
+    <script src="../Scripts/select2.min.js"></script>
+    <script src="../Scripts/signalRHandler.js"></script>
+    <script src="../Scripts/tree.jquery.js"></script>
+    <script src="../Scripts/typeahead.bundle.js"></script>
+    <script src="../Scripts/typeahead.bundle.min.js"></script>
+    <script src="../Scripts/typeahead.jquery.js"></script>
+    <script src="../Scripts/typeahead.jquery.min.js"></script>
+    <script src="../Scripts/ZeroClipboard.js"></script>
+    <script src="../Scripts/ZeroClipboard.min.js"></script>
+    
+</head>
+<body>
+    <div class="navbar" style="background-color: transparent;" id="div_menu ">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="#">
+                    <img src="../Content/img/logo-bull.jpg" style="width: 223px; height: 108px;" alt="Bull Market Brokers" />
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <div style="margin-top: 20px; color: #5F5F61; background-color: #CDCDCD; ">
+                    <div class="pull-right top-menu">Contáctenos</div>
+                    <div class="pull-right top-menu">Abrir cuenta</div>
+                    <div class="pull-right top-menu">
+                        <a href="#" role="button" onclick="showLoginModal()">LogIn</a>
+                    </div>
+                    <div class="pull-right top-menu"><span class="glyphicon glyphicon-earphone"></span> 0.800.345.0223</div>
+
+                </div>
+                <div style="margin-top: 68px;">
+
+                    <div class="pull-left bottom-menu dropdownNavigation">
+                        <a id="@item.MenuId" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">asdasd1<b class="caret"></b></a>
+                        <ul class="dropdownNavigation-menu" role="menu">
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 1</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 2</a></li>
+                        </ul>
+                    </div>
+                    <div class="pull-left bottom-menu dropdownNavigation">
+                        <a id="@item.MenuId" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">asdasd2<b class="caret"></b></a>
+                        <ul class="dropdownNavigation-menu" role="menu">
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 1</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 2</a></li>
+                        </ul>
+                    </div>
+                    <div class="pull-left bottom-menu dropdownNavigation">
+                        <a id="@item.MenuId" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">asdasd3<b class="caret"></b></a>
+                        <ul class="dropdownNavigation-menu" role="menu">
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 1</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 2</a></li>
+                        </ul>
+                    </div>
+                    <div class="pull-left bottom-menu dropdownNavigation">
+                        <a id="@item.MenuId" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">asdasd4<b class="caret"></b></a>
+                        <ul class="dropdownNavigation-menu" role="menu">
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 1</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">asdasdasd 2</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
