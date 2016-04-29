@@ -24,16 +24,13 @@
     </script>    
   </head>
   <body>
-  	<header>
-	    <div class="line"></div>    
-    	<img src="../images/logo-bull.jpg" alt="Bull Market Brokers">
-    </header>
+	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     
     <div class="info">
     	<div class="container">
         	<div class="col-xs-12">
-            	<h1>Se ha producido un error</h1>
-                <p>Por favor reintente m&aacute;s tarde</p>
+            	<h1>Gracias por contactarnos</h1>
+                <p>Su consulta ser&aacute; respondida a la brevedad</p>
                 <a href="http://www.cursos-de-bolsa.com.ar/analisisTecnico1" class="btn blueBtn">Volver</a>
             </div>       
         </div>
@@ -156,6 +153,6 @@
             $(window).bind("orientationchange", ScaleSlider);
             //responsive code end
         });
-    </script>        
+    </script>         
   </body>
 </html>

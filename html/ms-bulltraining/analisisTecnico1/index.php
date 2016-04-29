@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bull Training :: Bull Market Brokers</title>
+    <title>Análisis Técnico I :: Bull Market Brokers</title>
     <meta name="keywords" content="curso de bolsa, an&aacute;lisis t&eacute;cnico,  curso de inversiones, aprender de bolsa, curso an&aacute;lisis t&eacute;cnico"/>
     <meta name="description" content="Cursos de Bolsa para poder aprender y generar mayores ingresos de sus inversiones. Cursos de an&aacute;lisis tecnico para poder sacar ventaja cuando invierte en Bolsa"/>    
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="../images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="../css/main.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,100,700,900' rel='stylesheet' type='text/css'>
 	<script>
@@ -24,34 +24,68 @@
     </script>    
   </head>
   <body>
-  	<header>
-    	<div class="line"></div>
-    	<a href="https://www.bullmarketbrokers.com" target="_blank"><img src="images/logo-bull.jpg" alt="Bull Market Brokers"></a>
-    </header>
-    <div class="top">
+  	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
+    <div class="top topAn1">
         <div class="container">
-        	<img src="images/bt.png" alt="Bull Training">
-            <p>BMB Training es un espacio de formaci&oacute;n para inversores o personas interesadas en el mundo burs&aacute;til. Somos todos profesionales en finanzas y econom&iacute;a y nuestro objetivo es poder transmitir el conocimiento en lo que refiere a inversiones y educar a las personas para que puedan utilizar este medio como forma de inversi&oacute;n.</p>
+            <h1 class="big">Curso An&aacute;lisis T&eacute;cnico I</h1>
+            <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
+            <br>
         </div>
     </div>
-    <div class="course courses">
+    <div class="course blueBg">
     	<div class="container">
             <i class="arrow fa fa-angle-down"></i>
-            <h1>Cursos de Capacitaci&oacute;n</h1>
-            <div class="row">
-            	<div class="col-xs-12 col-sm-4">
-                	<div class="borderBox">
-                        <h4><a href="/analisisTecnico1">Curso Análisis Técnico I</a></h4>
-                        <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
-                        <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
-                        <h5>Inicia: Martes 12.04.2016</h5>
-                        <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a>
-                    </div>
-                </div>
-            </div>
+            <p><b>No se necesitan conocimientos previos sobre finanzas</b></p>
+            <p>Est&aacute; enfocado a cualquier rango de edad y nivel educativo como as&iacute; tambi&eacute;n a cualquier profesional</p>
+            <a href="https://www.eventbrite.com.ar/e/curso-analisis-tecnico-i-tickets-23472279219" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
+            <a href="../images/Programa_Curso_de_Análisis_Técnico_I.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
+			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
     </div>
-    
+    <div class="info">
+    	<div class="container">
+        	<div class="col-xs-12 col-sm-6">
+            	<h2>Cronograma</h2>
+                <p><b>El curso consta de 4 clases presenciales<br>de 3hs cada clase comenzando a las 18:30hs</b></p>
+                <p>Martes 12.04.2016 / Jueves 14.04.2016 <br>Martes 19.04.2016 / Jueves 21.04.2016</p>
+                <p><b>Bouchard 680 Piso 8 - C.A.B.A</b></p>
+            </div>
+        	<div class="col-xs-12 col-sm-6">
+            	<h2>Aranceles</h2>
+                <p><b>$AR 2000</b></p>
+                <p>para clientes de Bull Market Brokers</p>
+                <p><b>$AR 2300</b></p>
+                <p>para no clientes</p>
+            </div>            
+        </div>
+    </div>
+    <div class="freddy">
+    	<h1>Curso dictado por Freddy Vieytes</h1>
+        <img src="../images/freddy.jpg" alt="Freddy Vieytes">
+        <p><b>Mag&iacute;ster en Finanzas, UTDT. Analista independiente.</b></p>
+        <span>Desarrolla cursos de An&aacute;lisis T&eacute;cnico, Renta Fija y Opciones</span>
+    </div>
+    <div class="contact">
+    	<div class="container">
+        	<h1>Consultas</h1>
+             <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
+                <input type="hidden" name="about" value="BullTraining" />
+                <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/error.php" />
+                <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/contactoRes.php" />
+                <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/index.php" />
+                <div class="col-xs-12 col-sm-6">
+                	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />
+                </div>
+                <div class="col-xs-12">
+                	<textarea placeholder="Comentarios" name="body" class="required"></textarea>
+                    <button type="submit" class="btn blueBtn">Enviar Consulta <i class="fa fa-paper-plane"></i></button>
+                </div>
+             </form>
+        </div>
+    </div>
     <footer>
     	<div class="container">
             <div class="row">
@@ -92,34 +126,34 @@
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
                     <div class="brands fullWidth">
-                        <div id="jssor_1" class="fullWidth">
+                        <div id="jssor_1" class="fullWidth" >
                             <div data-u="slides" class="footLogos fullWidth">
                                 <div style="display: none;">
-                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
+                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="../images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a>
+                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="../images/logofooter-46.png" alt="Caja de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
+                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="../images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
+                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="../images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
+                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="../images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a>
+                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="../images/logofooter-50.png" alt="Rofex" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
+                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="../images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a>
+                                    <a href="https://www.nyse.com/index" target="_blank"><img src="../images/logofooter-52.png" alt="NYSE" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a>
+                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="../images/logofooter-53.png" alt="Nasdaq" /></a>
                                 </div>
                             </div>
                         </div>
@@ -134,8 +168,9 @@
         </div>
     </footer>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="../js/jquery.validate.js"></script>
+    <script src="../js/jssor.slider.mini.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/jssor.slider.mini.js"></script>
 	<script type="text/javascript">
         jQuery(document).ready(function ($) {
             
@@ -170,6 +205,6 @@
             $(window).bind("orientationchange", ScaleSlider);
             //responsive code end
         });
-    </script>       
+    </script>    
   </body>
 </html>

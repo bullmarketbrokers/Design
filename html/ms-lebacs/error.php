@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bull Training :: Bull Market Brokers</title>
-    <meta name="keywords" content="curso de bolsa, an&aacute;lisis t&eacute;cnico,  curso de inversiones, aprender de bolsa, curso an&aacute;lisis t&eacute;cnico"/>
-    <meta name="description" content="Cursos de Bolsa para poder aprender y generar mayores ingresos de sus inversiones. Cursos de an&aacute;lisis tecnico para poder sacar ventaja cuando invierte en Bolsa"/>    
-    <link rel="shortcut icon" href="../images/favicon.ico">
+    <title>LEBACS :: Bull Market Brokers</title>
+    <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
+    <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
+    <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,100,700,900' rel='stylesheet' type='text/css'>
 	<script>
@@ -18,23 +18,20 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
-      ga('create', 'UA-17836200-3', 'auto');
+      ga('create', 'UA-17836200-4', 'auto');
       ga('send', 'pageview');
     
     </script>    
   </head>
   <body>
-  	<header>
-	    <div class="line"></div>    
-    	<img src="../images/logo-bull.jpg" alt="Bull Market Brokers">
-    </header>
+  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     
     <div class="info">
     	<div class="container">
         	<div class="col-xs-12">
-            	<h1>Gracias por contactarnos</h1>
-                <p>Su consulta ser&aacute; respondida a la brevedad</p>
-                <a href="http://www.cursos-de-bolsa.com.ar/analisisTecnico1" class="btn blueBtn">Volver</a>
+            	<h1>Se ha producido un error</h1>
+                <p>Por favor reintente m&aacute;s tarde</p>
+                <a href="http://invertirenlebacs.com.ar/" class="btn blueBtn">Volver</a>
             </div>       
         </div>
     </div>
@@ -78,34 +75,34 @@
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
                     <div class="brands fullWidth">
-                        <div id="jssor_1" class="fullWidth" >
+                        <div id="jssor_1" class="fullWidth">
                             <div data-u="slides" class="footLogos fullWidth">
                                 <div style="display: none;">
-                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="../images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
+                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="../images/logofooter-46.png" alt="Caja de Valores" /></a>
+                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="../images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
+                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="../images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
+                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="../images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
+                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="../images/logofooter-50.png" alt="Rofex" /></a>
+                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="../images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
+                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="https://www.nyse.com/index" target="_blank"><img src="../images/logofooter-52.png" alt="NYSE" /></a>
+                                    <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a>
                                 </div>
                                 <div style="display: none;">
-                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="../images/logofooter-53.png" alt="Nasdaq" /></a>
+                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a>
                                 </div>
                             </div>
                         </div>
@@ -120,8 +117,8 @@
         </div>
     </footer>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="../js/jssor.slider.mini.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
+    <script src="js/jssor.slider.mini.js"></script>
 	<script type="text/javascript">
         jQuery(document).ready(function ($) {
             
@@ -156,6 +153,6 @@
             $(window).bind("orientationchange", ScaleSlider);
             //responsive code end
         });
-    </script>         
+    </script>  
   </body>
 </html>

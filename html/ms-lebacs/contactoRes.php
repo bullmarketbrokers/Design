@@ -24,116 +24,15 @@
     </script>    
   </head>
   <body>
-  	<header>
-	    <div class="line"></div>
-    	<a href="https://www.bullmarketbrokers.com" target="_blank"><img src="images/logo-bull.jpg" alt="Bull Market Brokers"></a>
-    </header>
-    <div class="top">
-        <div class="container">
-        	<div class="col-xs-1"></div>
-        	<div class="grayBox col-xs-10">
-                <h1>Invierta en LEBACS</h1>
-                <ul>
-                    <li><i class="fa fa-check-circle"></i> RENTA FIJA EN PESOS</li>
-                    <li><i class="fa fa-check-circle"></i> MEJOR RENTA QUE UN PLAZO FIJO</li>
-                    <li><i class="fa fa-check-circle"></i> SE PUEDE SALIR EN EL MOMENTO QUE QUIERA</li>
-                    <li><i class="fa fa-check-circle"></i> SE HACE DE FORMA ONLINE SIN MOVERSE DE SU CASA</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="course blueBg">
-    	<div class="container">
-            <h1>¿Qué es una LEBAC?</h1>
-            <p>Las Letras del Banco Central, son títulos a distintos plazos que licita la autoridad monetaria los martes de cada semana con el fin de regular la base monetaria. Se negocia la tasa de interés dada como tasa de descuento. El total del capital se paga al vencimiento funcionando como un bono cupón cero, es decir, que amortizan la totalidad del capital al vencimiento y no hacen pagos de interés.</p>
-            <h3>¿Cómo se operan?</h3>
-            <p>Se pueden cargar las ordenes desde nuestra página web, a través de nuestra plataforma on-line, indicando el plazo y monto a licitar.</p>
-            <h3>¿Hay un mínimo sugerido?</h3> 
-            <p>Recomendamos invertir un mínimo de $ 50.000</p>            
-            <a href="https://www.bullmarketbrokers.com/ComienceOperar" class="btn cyanBg" target="_blank">Comenzá ahora con un asesor! <i class="fa fa-user"></i></a>
-            <span href="#" class="btn magBg" target="_blank">Comunicate al 0.800.345.0223 <i class="fa fa-phone"></i></span>
-        </div>
-    </div>
+  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
+    
     <div class="info">
     	<div class="container">
-        	<div class="col-xs-12 col-sm-6">
-            	<h2>Rendimientos</h2>
-                <p>Los rendimientos de las LEBAC varían en cada licitación. <br>El precio de suscripción de las LEBAC, que determina cual será el rendimiento del instrumento, se determina a través del sistema de subasta holandesa.</p>
-                <h4>Se opera en dos tramos: </h4>
-                <p>Competitivo, en donde ofertan grandes operadores y que define el precio de corte, y el no competitivo, en donde los adjudicatarios aceptan el precio de corte determinado en el tramo competitivo</p>
-            </div>
-        	<div class="col-xs-12 col-sm-6">
-            	<h2>Cuadro Comparativo</h2>
-                <small class="date">Actualizado al 25.04.2016</small>
-				<table class="fullWidth lebacs">
-                	<thead>
-                    	<tr>
-                        	<th class="magBg">LEBACS</th>
-                            <th class="cyanBg">Plazo Fijo</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    	<tr>
-                        	<td>
-                            	<small>35 d&iacute;as</small>
-                                <span>38%</span>
-                            </td>
-                            <td>
-                            	<small>30 d&iacute;as</small>
-                                <span>28,50%</span>                            
-                            </td>
-                        </tr>
-                    	<tr>
-                        	<td>
-                            	<small>98 d&iacute;as</small>
-                                <span>34%</span>
-                            </td>
-                            <td>
-                            	<small>90 d&iacute;as</small>
-                                <span>28,50%</span>                            
-                            </td>
-                        </tr>                        
-                    </tbody>
-                </table>
-            </div>            
-        </div>
-    </div>
-    <div class="beneficios">
-    	<div class="container">
-            <h1>Beneficios</h1>
-            <div class="col-xs-12 col-sm-6 benefitItem">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Ofrecen tasas superiores a las que se puede obtener a plazo fijo.</span></p>
-            </div>
-            <div class="col-xs-12 col-sm-6 benefitItem small">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Se trata de un instrumento con liquidez a través de la venta en el mercado secundario, a diferencia de las colocaciones a plazo.</span></p>
-            </div>
-            <div class="col-xs-12 col-sm-6 benefitItem">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Son operaciones de mínimo riesgo al estar garantizadas por el Banco Central.</span></p>
-            </div>
-            <div class="col-xs-12 col-sm-6 benefitItem small">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Se pueden colocar como garantía en la operatoria de dólar futuro, con un aforo del 90%</span></p>
-            </div>                 
-        </div>       
-    </div>
-    <div class="contact">
-    	<div class="container">
-        	<h1>Consultas</h1>
-             <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
-                <input type="hidden" name="about" value="LEBACS" />
-                <input type="hidden" name="urlError" value="http://invertirenlebacs.com.ar/error.html" />
-                <input type="hidden" name="urlBack" value="http://invertirenlebacs.com.ar/contactoRes.html" />
-                <input type="hidden" name="urlFrom" value="http://invertirenlebacs.com.ar" />
-                <div class="col-xs-12 col-sm-6">
-                	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />
-                </div>
-                <div class="col-xs-12">
-                	<textarea placeholder="Comentarios" name="body" class="required"></textarea>
-                    <button type="submit" class="btn blueBtn">Enviar Consulta <i class="fa fa-paper-plane"></i></button>
-                </div>
-             </form>
+        	<div class="col-xs-12">
+            	<h1>Gracias por contactarnos</h1>
+                <p>Su consulta ser&aacute; respondida a la brevedad</p>
+                <a href="http://invertirenlebacs.com.ar/" class="btn blueBtn">Volver</a>
+            </div>       
         </div>
     </div>
     <footer>
@@ -218,7 +117,6 @@
         </div>
     </footer>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="js/jquery.validate.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
     <script src="js/jssor.slider.mini.js"></script>
 	<script type="text/javascript">
@@ -255,11 +153,6 @@
             $(window).bind("orientationchange", ScaleSlider);
             //responsive code end
         });
-    </script>      
-	<script type="text/javascript">
-    $(document).ready(function() {
-        $("#commentForm").validate();
-    });
-    </script>    
+    </script>  
   </body>
 </html>

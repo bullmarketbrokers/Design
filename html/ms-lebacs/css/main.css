@@ -25,9 +25,22 @@ form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;
 .blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
 
 /* header */
-header {padding:16px 0;position:relative}
-header .line {position:absolute;background:#eee;height:40px;top:44px;width:100%;border-bottom:1px solid #fce126}
-header img {position:relative;z-index:2}
+.navbar-sm {position:absolute;top:10px;right:60px}
+.navbar-default {position: fixed;right: 0;left: 0}
+#div_main_menu .navbar-default {z-index:3}
+.navbar-header {padding:0 15px}
+.navbar-brand {height:auto;padding:5px 15px}
+.navbar-nav > li > a {padding:10px 6px;font-size:12px;border-top:4px solid #fff;margin-top:-4px;color:#000068}
+.navbar-nav a:hover, .navbar-nav .open > a, .navbar-nav .open > a:hover, .navbar-nav .open > a:focus {background-color:#000068!important;border-top:4px solid #000068;color:#fff!important}
+.bottom-menu .dropdown-menu.dark {background-color:rgba(0, 0, 104, .90) !important}
+.bottom-menu .dropdown-menu.dark a:hover {border:none!important;color:#fff!important}
+.navbar-sm {font-size:11px}
+.navbar-sm .account {background:#fce126;color:#333;margin-top:-10px}
+.navbar-sm .login {color:#333}
+.navbar-sm a i {margin-right:4px}
+.navbar-sm a {padding:6px 10px}
+.bottom-menu .dropdown-menu.dark a, .bottom-menu .dropdown-menu.dark a:hover {border: none!important;color: #fff!important}
+.navbar .dropdown-toggle .caret {display: none !important;}
 
 /* content */
 .top {background:url(../images/top.jpg) top center no-repeat;background-size:cover;font-size:18px;font-weight:700;padding:87px 0 60px;color:#333;margin-top:-47px}
@@ -89,17 +102,51 @@ footer hr {border:0;border-bottom:1px solid #ccc}
 .footLogos {cursor: default; position: relative; top: 0px; left: 0px; height: 52px; overflow: hidden;}
 .footLogos img {width:90%}
 
+@media (max-width: 767px) {
+	.top {margin-top:40px}
+	.navbar-nav {margin:0;text-align:left}
+    .navbar-nav .open .dropdown-menu > li > a {color: #fff !important;}
+    .navbar-nav > li {border-bottom:1px solid #eee}
+    .navbar-nav > li > a {border:none!important;padding:10px 15px}
+    .main-select-stock-account {width: 120px}
+    .footerSocial {padding-bottom:20px}
+	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
+	.navbar-default .navbar-toggle {border-color: #ddd;}		
+}
 
 @media (min-width: 768px) {
 	footer h3 {font-size:18px;margin:0 0 4px}
 	.footerSocial a {font-size:14px}
 	footer .bmb {border-left: solid 1px #848484}
+    .div-media-logo {margin-top: -45px}
+    .hidden-sm {display:none!important}
+    .navbar-default {background:#eee;border:none;border-bottom:1px solid #fce126;position:relative}
+    .navbar-sm {position:relative;background:#fff;top:0;right:0;padding:5px 0}
+	.footerSocial a {font-size:12px}
+    .navbar-header {position:relative}
+    .navbar-brand {position:absolute;top:-10px;left:15px;width:120px;padding:0}
+    .navbar-brand img {width:100%}
+    .navbar-nav > li > a {padding: 10px 4px;font-size: 10px}
+    .dropdown-menu > li > a {padding:4px 20px}
+    .navbar-sm .phone:hover, .navbar-sm .login:hover {text-decoration:none;background:#f6f6f6}
+    .navbar-sm .phone {border-left:1px solid #666;color:#333}
+    footer .brands img {max-width:94px;margin:0 2px}	
 }
 @media (min-width: 960px) {
 	footer h3 {font-size:21px}
 	.footerSocial a {font-size:19px}
+    .navbar-brand {width:200px;top:-28px}
+    .navbar-nav > li > a {padding:10px;font-size:11px}
+    .navbar-sm {font-size:12px;padding:13px 0 12px}
+    .main-select-stock-account {width: 240px}
+    footer .brands img {max-width:115px;margin:0 5px}	
 }
 @media (min-width: 1200px) {
 	footer h3 {font-size:24px}
 	.footerSocial a {font-size:20px}
+    .navbar-brand {width:220px;top:-34px}
+    .navbar-nav > li > a {padding:10px 14px;font-size:13px}
+    .navbar-sm {font-size:13px}
+    footer .brands img {max-width:none;margin:0 4px} 	
 }

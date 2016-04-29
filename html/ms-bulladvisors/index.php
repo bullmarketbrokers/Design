@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>LEBACS :: Bull Market Brokers</title>
-    <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
-    <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
+    <title>BullAdvisors :: Bull Market Brokers</title>
+    <meta name="keywords" content="bulladvisors"/>
+    <meta name="description" content="Bulladvisors Bull Market Brokers"/>    
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -18,24 +18,22 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
-      ga('create', 'UA-17836200-4', 'auto');
+      ga('create', 'UA-17836200-5', 'auto');
       ga('send', 'pageview');
     
-    </script>    
+    </script>  
   </head>
   <body>
-  	<header>
-	    <div class="line"></div>    
-    	<a href="https://www.bullmarketbrokers.com" target="_blank"><img src="images/logo-bull.jpg" alt="Bull Market Brokers"></a>
-    </header>
-    
-    <div class="info">
-    	<div class="container">
-        	<div class="col-xs-12">
-            	<h1>Gracias por contactarnos</h1>
-                <p>Su consulta ser&aacute; respondida a la brevedad</p>
-                <a href="http://invertirenlebacs.com.ar/" class="btn blueBtn">Volver</a>
-            </div>       
+  <?php print file_get_contents("http://www.bulladvisors.com.ar/mainBullMenu.html")?>
+
+
+
+    <div>
+        <div class="container">
+        	<div class="col-xs-1"></div>
+        	<div class="col-xs-10" style="padding:20% 0">
+                <h1 style="font-size:60px">Pr&oacute;ximamente</h1>
+            </div>
         </div>
     </div>
     <footer>
@@ -119,6 +117,7 @@
             </div>         
         </div>
     </footer>
+    
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
     <script src="js/jssor.slider.mini.js"></script>
@@ -156,6 +155,6 @@
             $(window).bind("orientationchange", ScaleSlider);
             //responsive code end
         });
-    </script>  
+    </script>        
   </body>
 </html>
