@@ -22,68 +22,71 @@
       ga('send', 'pageview');
     
     </script>
-</head>
-<body>
-	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
-    <div class="top">
-          <div class="container"> <img src="images/bt.png" alt="Bull Training">
-        <p>BMB Training es un espacio de formaci&oacute;n para inversores o personas interesadas en el mundo burs&aacute;til. Somos todos profesionales en finanzas y econom&iacute;a y nuestro objetivo es poder transmitir el conocimiento en lo que refiere a inversiones y educar a las personas para que puedan utilizar este medio como forma de inversi&oacute;n.</p>
+    </head>
+    <body>
+<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
+<div class="top">
+      <div class="container"> <img src="images/bt.png" alt="Bull Training">
+    <p>BMB Training es un espacio de formaci&oacute;n para inversores o personas interesadas en el mundo burs&aacute;til. Somos todos profesionales en finanzas y econom&iacute;a y nuestro objetivo es poder transmitir el conocimiento en lo que refiere a inversiones y educar a las personas para que puedan utilizar este medio como forma de inversi&oacute;n.</p>
+  </div>
+    </div>
+<div class="course courses">
+      <div class="container"> <i class="arrow fa fa-angle-down"></i>
+    <h1>Cursos de Capacitaci&oacute;n</h1>
+    <div class="row">
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/analisisTecnico1">Curso Análisis Técnico I</a></h4>
+              <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
+              <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
+              <h5>Inicia: Martes 12.04.2016</h5>
+              <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
       </div>
         </div>
-    <div class="course courses">
-          <div class="container"> <i class="arrow fa fa-angle-down"></i>
-        <h1>Cursos de Capacitaci&oacute;n</h1>
-        <div class="row">
-              <div class="col-xs-12 col-sm-4">
-            <div class="borderBox">
-                  <h4><a href="/analisisTecnico1">Curso Análisis Técnico I</a></h4>
-                  <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
-                  <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
-                  <h5>Inicia: Martes 12.04.2016</h5>
-                  <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
-          </div>
-            </div>
+<hr style="margin:40px 0">
+        <h1>Calendario de Cursos</h1>
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=3boq0ui49f1ru7g7c4f8qtggbc%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FArgentina%2FBuenos_Aires" style="border-width:0;width:100%;height:600px" frameborder="0" scrolling="no"></iframe>
+  </div>
+    </div>
+<footer>
+      <div class="container">
+    <div class="row">
+          <div class="col-xs-12 col-sm-2 footerSocial" style=" padding-right:0;">
+        <h3>Conectate</h3>
+        <div> <a href="https://www.facebook.com/bullmarketbrokers" target="_blank"> <i class="fa fa-facebook"></i> </a> <a href="https://twitter.com/bullmarketbrok" target="_blank"> <i class="fa fa-twitter"></i> </a> <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2331182" target="_blank"> <i class="fa fa-linkedin"></i> </a> <a href="https://www.youtube.com/user/bullmarketbrokers" target="_blank"> <i class="fa fa-youtube"></i> </a> <a href="mailto:asesor@bullmarketbrokers.com" target="_blank"> <i class="fa fa-envelope"></i> </a> </div>
       </div>
-        </div>
-    <footer>
-          <div class="container">
-        <div class="row">
-              <div class="col-xs-12 col-sm-2 footerSocial" style=" padding-right:0;">
-            <h3>Conectate</h3>
-            <div> <a href="https://www.facebook.com/bullmarketbrokers" target="_blank"> <i class="fa fa-facebook"></i> </a> <a href="https://twitter.com/bullmarketbrok" target="_blank"> <i class="fa fa-twitter"></i> </a> <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2331182" target="_blank"> <i class="fa fa-linkedin"></i> </a> <a href="https://www.youtube.com/user/bullmarketbrokers" target="_blank"> <i class="fa fa-youtube"></i> </a> <a href="mailto:asesor@bullmarketbrokers.com" target="_blank"> <i class="fa fa-envelope"></i> </a> </div>
-          </div>
-              <div class="col-xs-12 col-sm-10">
-            <p> Bull Market Brokers S.A. es un Agente de Liquidacion y Compesacion registrado en la Comision Nacional
-                  de Valores bajo el número 247. Miembro del Mercado de Valores de Buenos Aires S.A.
-                  Todas las transacciones están sujetas al control del Mercado de Valores de Buenos Aires S.A.
-                  (Merval) y la Comisión Nacional de Valores (CNV). </p>
-            <div> <a href="http://www.bullmarketbrokers.com/AcuerdoUsuario" target="_blank">Acuerdo de Usuario</a> | <a href="http://www.bullmarketbrokers.com/BackOffice/Applicant/Edit" target="_blank">Recursos Humanos</a> | <a href="http://www.bullmarketbrokers.com/NormativaVigente" target="_blank">Normativa</a> | <a href="http://www.bullmarketbrokers.com/RelacionInversor" target="_blank">Relaciones con el Publico</a> | <a href="http://www.bullmarketbrokers.com/FATCA" target="_blank">FATCA</a> | <a href="http://www.bullmarketbrokers.com/RegistroNacionalBaseDatos" target="_blank">Registro Nacional de Base de Datos</a> | <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a> </div>
-            <div class="brands fullWidth">
-                  <div id="jssor_1" class="fullWidth">
-                <div data-u="slides" class="footLogos fullWidth">
-                      <div style="display: none;"> <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a> </div>
-                      <div style="display: none;"> <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a> </div>
-                      <div style="display: none;"> <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a> </div>
-                    </div>
-              </div>
+          <div class="col-xs-12 col-sm-10">
+        <p> Bull Market Brokers S.A. es un Agente de Liquidacion y Compesacion registrado en la Comision Nacional
+              de Valores bajo el número 247. Miembro del Mercado de Valores de Buenos Aires S.A.
+              Todas las transacciones están sujetas al control del Mercado de Valores de Buenos Aires S.A.
+              (Merval) y la Comisión Nacional de Valores (CNV). </p>
+        <div> <a href="http://www.bullmarketbrokers.com/AcuerdoUsuario" target="_blank">Acuerdo de Usuario</a> | <a href="http://www.bullmarketbrokers.com/BackOffice/Applicant/Edit" target="_blank">Recursos Humanos</a> | <a href="http://www.bullmarketbrokers.com/NormativaVigente" target="_blank">Normativa</a> | <a href="http://www.bullmarketbrokers.com/RelacionInversor" target="_blank">Relaciones con el Publico</a> | <a href="http://www.bullmarketbrokers.com/FATCA" target="_blank">FATCA</a> | <a href="http://www.bullmarketbrokers.com/RegistroNacionalBaseDatos" target="_blank">Registro Nacional de Base de Datos</a> | <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a> </div>
+        <div class="brands fullWidth">
+              <div id="jssor_1" class="fullWidth">
+            <div data-u="slides" class="footLogos fullWidth">
+                  <div style="display: none;"> <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a> </div>
+                  <div style="display: none;"> <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a> </div>
+                  <div style="display: none;"> <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a> </div>
                 </div>
           </div>
             </div>
-        <div class="row text-center">
-              <hr />
-              © 2014 - Bull Market Brokers S.A . Derechos Reservados </div>
       </div>
-        </footer>
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script> 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/jssor.slider.mini.js"></script> 
-    <script type="text/javascript">
+        </div>
+    <div class="row text-center">
+          <hr />
+          © 2014 - Bull Market Brokers S.A . Derechos Reservados </div>
+  </div>
+    </footer>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
+<script src="js/jssor.slider.mini.js"></script> 
+<script type="text/javascript">
             jQuery(document).ready(function ($) {
                 
                 var jssor_1_options = {

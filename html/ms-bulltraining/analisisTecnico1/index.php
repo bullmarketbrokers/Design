@@ -73,8 +73,11 @@
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/error.php" />
                 <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/index.php" />
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12 col-sm-12">
                 	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                	<input type="number" id="telephone" placeholder="Tel&Eacute;fono" name="telephone" />
                 </div>
                 <div class="col-xs-12 col-sm-6">
                 	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />

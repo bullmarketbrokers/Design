@@ -120,8 +120,11 @@
                 <input type="hidden" name="urlError" value="http://invertirenlebacs.com.ar/error.php" />
                 <input type="hidden" name="urlBack" value="http://invertirenlebacs.com.ar/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://invertirenlebacs.com.ar" />
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12 col-sm-12">
                 	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                	<input type="number" id="telephone" placeholder="Tel&Eacute;fono" name="telephone" />
                 </div>
                 <div class="col-xs-12 col-sm-6">
                 	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />
