@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>LEBACS :: Bull Market Brokers</title>
+    <title>Operar en Rofex :: Bull Market Brokers</title>
     <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
     <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -24,14 +24,15 @@
     </script>    
   </head>
   <body>
-  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
+  	<?php print file_get_contents("http://www.operarenrofex.com.ar//mainBullMenu.html")?>
     
     <div class="info">
     	<div class="container">
         	<div class="col-xs-12">
+            	<br><br>
             	<h1>Se ha producido un error</h1>
                 <p>Por favor reintente m&aacute;s tarde</p>
-                <a href="http://invertirenlebacs.com.ar/" class="btn blueBtn">Volver</a>
+                <a href="http://www.operarenrofex.com.ar/" class="btn blueBtn">Volver</a>
             </div>       
         </div>
     </div>

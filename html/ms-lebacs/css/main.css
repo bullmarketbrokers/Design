@@ -130,7 +130,7 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-nav > li > a {padding: 10px 4px;font-size: 10px}
     .dropdown-menu > li > a {padding:4px 20px}
     .navbar-sm .phone:hover, .navbar-sm .login:hover {text-decoration:none;background:#f6f6f6}
-    .navbar-sm .phone {border-left:1px solid #666;color:#333}
+    .navbar-sm .phone {color:#333}
     footer .brands img {max-width:94px;margin:0 2px}	
 }
 @media (min-width: 960px) {

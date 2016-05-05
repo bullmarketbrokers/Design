@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Operar en Rofex :: Bull Market Brokers</title>
+    <title>Inversiones en Bolsa :: Bull Market Brokers</title>
     <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
     <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -24,114 +24,181 @@
     </script>    
   </head>
   <body>
-  	<?php print file_get_contents("http://www.operarenrofex.com.ar/mainBullMenu.html")?>
+  	<?php print file_get_contents("http://inversionesenbolsa.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
-			<h1>Operar en Rofex</h1>
-            <div class="col-xs-12 col-md-4">
+			<h1>¿Por qué hay que invertir en Bolsa?</h1>
+            <div class="col-xs-12 col-md-3">
             	<div class="box">
-                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Dolarice su inversión</h4>
-                    <p>Invierte en un instrumento de renta fija (Caución, Fideicomisos, CPD, Plazo Fijo) y a la vez compre dólar futuro. Podrá conseguir una renta en dólares.</p>
+                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Rendimiento</h4>
+                    <p>Porque es el lugar donde mejores rendimientos voy a encontrar.</p>
                 </div>
             </div>
-            <div class="col-xs-12 col-md-4">
+            <div class="col-xs-12 col-md-3">
             	<div class="box">
-                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Asegure su precio de dólar</h4>
-                    <p>Vendiendo dólar futuro podrá saber un precio real de sus ventas a un plazo específico.</p>
+                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Flexibilidad</h4>
+                    <p>Porque tengo un abanico de posibilidades de inversión muy grande.</p>
                 </div>
             </div>
-            <div class="col-xs-12 col-md-4">
+            <div class="col-xs-12 col-md-3">
             	<div class="box">
-                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Especule con el dólar</h4>
-                    <p>Siendo las garantías de un nivel bajo puede comprar por mas cantidad y ganar en una escalada en el precio.</p>
+                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Sencillez</h4>
+                    <p>Porque las inversiones son fáciles de cerrar y tener los fondos disponibles rápidamente.</p>
                 </div>
             </div>
+            <div class="col-xs-12 col-md-3">
+            	<div class="box">
+                	<h4><i class="fa fa-check-circle" aria-hidden="true"></i>Transparencia</h4>
+                    <p>Porque son inversiones transparentes y reglamentadas por varios organismos.</p>
+                </div>
             </div>                                    
         </div>
     </div>
     <div class="section gray">
-    	<div class="container">
-        	<img src="images/rofex.png" alt="Rofex">
-            <h1 class="blue">Preguntas Frecuentes</h1>
-	        <div class="panel-group accordionPanel" id="accordion">
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> 1. ¿Qu&eacute; es un futuro de D&oacute;lar? </a><span><i class="fa indicator pull-right fa-angle-up"></i></span> </h4>
-                  </div>
-                  <div id="collapseOne" class="panel-collapse collapse in">
-                    <div class="panel-body">
-                        <hr>
-                        <p>Un contrato de futuro es un compromiso a comprar o vender un activo en una fecha futura a un determinado precio. En la operatoria de dólar futuro nunca se integra el activo (dólar), sino que solo se compensan las ganancias o pérdidas en pesos contra el tipo de cambio de oficial. El monto mínimo a operar es de 1 contrato equivalente a USD 1.000, y el máximo de contratos abiertos es de 5.000 por vencimiento. El límite global de posiciones netas de futuros comprados o vendidos para distintos vencimientos no podrá superar los 10.000 contratos.</p>
-                  </div>
-                </div>
-                </div>
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"> 2. ¿Cuáles son las ventajas de operar Dólar Futuro? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
-                  </div>
-                  <div id="collapseTwo" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <hr>
-                        <p>Se puede garantizar hoy el precio al que se comprará el dólar en un momento futuro de forma de tener cobertura ante una devaluación. Además se opera con un alto grado de apalancamiento, ya que sólo se integra dinero al inicio como margen de garantía.</p>
-                        <p><b>Si se busca cobertura ante una suba del dólar:</b> COMPRA de dólar futuro</p>
-                        <p><b>Si se busca cobertura ante una baja del dólar:</b>  VENTA de dólar futuro</p>
-                  </div>
-                </div>
-                </div>
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"> 3. ¿Qué es el Margen de Garantía? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
-                  </div>
-                  <div id="collapseThree" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <hr>
-                        <p>El margen de garantía es la cantidad de dinero en la cuenta que se necesita como garantía, que es del 20% de la operación en efectivo. Diariamente la cámara compensadora (Argentina Clearing S.A) valúa la posición de cada participante y solicita a quienes registran pérdidas, el depósito de las mismas. Con estos fondos se realiza el pago a quienes tuvieron ganancias en la última jornada. Esto es así de forma que ningún participante acumule grandes pérdidas, para disminuir el riesgo de incumplimiento.</p>
-                  </div>
-                </div>
-                </div>
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"> 4. ¿Cómo se opera un Contrato de Futuros?  </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
-                  </div>
-                  <div id="collapseFour" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <hr>
-                        <h4>Ejemplo</h4>
-                        <p><b>Datos de Mercado:</b>
-						<br>Valor del tipo de cambio de referencia al 16/11/2015: 9,37
-						<br>Valor del contrato de compra a Marzo 2016: 11
-                        <br>El 16 de noviembre de 2015 se compra un contrato de dólar futuro con vencimiento en Marzo 2016. Un contrato son USD 1.000, por lo que se deberá depositar como margen de garantía $2.200 en efectivo. 
-						<br>Margen= 20% x (1.000 x 11) = $2.200
-                        </p>                  
+            <div class="container">
+                <div class="row text-center steps">
+                    <h1>Pasos para invertir en Bolsa</h1>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-user" aria-hidden="true"></i></span>
+                        <p>1. Asesorate con un Especialista</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-usd" aria-hidden="true"></i></span>
+                        <p>2. Abrí una Cuenta sin costo</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-credit-card" aria-hidden="true"></i></span>
+                        <p>3. Hacé una Transferencia</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-check" aria-hidden="true"></i></span>
+                        <p>4. Concretá una Operación</p>
                     </div>
                 </div>
-                </div>        
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"> 5. ¿Cómo se cancela la operación? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
-                  </div>
-                  <div id="collapseFive" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <hr>
-                        <p><b>Anticipadamente:</b> Tomando la posición contraria a la original: quien entró vendido, compra y quien entró comprado, vende.</p>
-                        <p><b>Al vencimiento:</b> Dado que las diferencias se van liquidando de forma diaria en pesos, al vencimiento se habrán percibido o abonado las diferencias entre la cotización del dólar oficial y el precio pactado en el contrato.</p>
-                  </div>
-                </div>
-                </div>
-        </div>
-        </div>
+            </div>
     </div>    
-	
-	
+	<div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>Rendimientos Hist&oacute;ricos de la Bolsa</h1>
+                    <table class="fullWidth">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Dólar oficial</th>
+                                <th>Dólar Blue</th>
+                                <th>Plazo Fijo</th>
+                                <th>Merval</th>
+                                <th>Inmuebles m2</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="bold">
+                                <td>Rendimiento acumulado</td>
+                                <td class="red">104%</td>
+                                <td class="red">167%</td>
+                                <td class="red">161%</td>
+                                <td class="green">343%</td>
+                                <td class="red">172%</td>
+                            </tr>
+                            <tr>
+                                <td> Marzo 2015 </td>
+                                <td> 8,80% </td>
+                                <td> 12,795% </td>
+                                <td> 21,81% </td>
+                                <td> 11,385% </td>
+                                <td> 2.093% </td>
+                            </tr>
+                            <tr>
+                                <td> 2014 </td>
+                                <td> 8,55% </td>
+                                <td> 14,025% </td>
+                                <td> 22,19% </td>
+                                <td> 8,579% </td>
+                                <td> 2.097% </td>
+                            </tr>
+                            <tr>
+                                <td> 2013 </td>
+                                <td> 6,52% </td>
+                                <td> 10,02% </td>
+                                <td> 15,75% </td>
+                                <td> 5,391% </td>
+                                <td> 2.070% </td>
+                            </tr>
+                            <tr>
+                                <td> 2012 </td>
+                                <td> 4,92% </td>
+                                <td> 6,79% </td>
+                                <td> 14,63% </td>
+                                <td> 2,854% </td>
+                                <td> 2.075% </td>
+                            </tr>
+                            <tr>
+                                <td> 2011 </td>
+                                <td> 4,30% </td>
+                                <td> 4,785% </td>
+                                <td> 16,31% </td>
+                                <td> 2,568% </td>
+                                <td>2.054%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h5>Aclaraciones</h5>
+                    <small>01 - Rendimiento de plazo fijo considera: colocación anual y reinversión de capital e intereses</small><br />
+                    <small>02 - Rendimiento de m2 considera: precio promedio en CABA y valor del m2 al dolar "blue"</small>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-xs-12">
+                    <a href="https://www.bullmarketbrokers.com/ComienceOperar" class="btn btnBig cyanBg" target="_blank">Comenzá ahora con un asesor! <i class="fa fa-user"></i></a>
+                    <span href="#" class="btn btnBig magBg" target="_blank">Comunicate al 0.800.345.0223 <i class="fa fa-phone"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="section slider">
+    	<div class="container">
+        	<h1>Experiencias de Inversores</h1>
+        </div>
+	  	  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <p>"Gracias a mis inversiones en Bolsa pude dejar de  colocar en plazos fijos que no me daban un buen rendimiento"</p>
+            <span>Gonzalo, analista en sistemas, 38 años</span>
+        </div>
+        <div class="item">
+            <p>"Pensé que era difícil y para gente que le dedicaba todo el día, pero me sorprendí por lo fácil que se me hizo aprender y ganar plata"</p>
+            <span>Luc&iacute;a, empleada administrativa, 34 años</span>
+        </div>
+        <div class="item">
+            <p>"Las inversiones en Bolsa me ayudan a estar conectada con el presente pensando en mi futuro financiero"</p>
+            <span>Pablo, gerente bancario, 46 años</span>
+        </div>        
+      </div>
+    
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+    </div>
     
     <div class="contact">
     	<div class="container">
         	<h1>Consultas</h1>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="LEBACS" />
-                <input type="hidden" name="urlError" value="http://www.operarenrofex.com.ar/error.php" />
-                <input type="hidden" name="urlBack" value="http://www.operarenrofex.com.ar/contactoRes.php" />
-                <input type="hidden" name="urlFrom" value="http://www.operarenrofex.com.ar/" />
+                <input type="hidden" name="urlError" value="http://inversionesenbolsa.com.ar/error.php" />
+                <input type="hidden" name="urlBack" value="http://inversionesenbolsa.com.ar/contactoRes.php" />
+                <input type="hidden" name="urlFrom" value="http://inversionesenbolsa.com.ar" />
                 <input type="hidden" name="geoLoc" value="" id="geoLoc" />
                 <div class="col-xs-12 col-sm-12">
                 	<input type="text" id="name" placeholder="Nombre (requerido)" name="name" class="required" />
@@ -251,14 +318,6 @@
 				callback(response);
 			});
 		}		
-		function toggleChevron(e) {
-			$(e.target)
-				.prev('.panel-heading')
-				.find("i.indicator")
-				.toggleClass('fa-angle-up fa-angle-down');
-		}
-		$('#accordion').on('hidden.bs.collapse', toggleChevron);
-		$('#accordion').on('shown.bs.collapse', toggleChevron);		
         jQuery(document).ready(function ($) {
             var jssor_1_options = {
               $AutoPlay: true,

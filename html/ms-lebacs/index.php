@@ -120,17 +120,18 @@
                 <input type="hidden" name="urlError" value="http://invertirenlebacs.com.ar/error.php" />
                 <input type="hidden" name="urlBack" value="http://invertirenlebacs.com.ar/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://invertirenlebacs.com.ar" />
+                <input type="hidden" name="geoLoc" value="" id="geoLoc" />
                 <div class="col-xs-12 col-sm-12">
-                	<input type="text" id="name" placeholder="Nombre" name="name" class="required" />
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                	<input type="number" id="telephone" placeholder="Tel&Eacute;fono" name="telephone" />
+                	<input type="text" id="name" placeholder="Nombre (requerido)" name="name" class="required" />
                 </div>
                 <div class="col-xs-12 col-sm-6">
                 	<input type="text" id="email" placeholder="Email (requerido)" name="email" class="required email" />
+                </div>                
+                <div class="col-xs-12 col-sm-6">
+                	<input type="text" id="telephone" placeholder="Tel&eacute;fono" name="telephone" />
                 </div>
                 <div class="col-xs-12">
-                	<textarea placeholder="Comentarios" name="body" class="required"></textarea>
+                	<textarea placeholder="Comentarios (requerido)" name="body" class="required"></textarea>
                     <button type="submit" class="btn blueBtn">Enviar Consulta <i class="fa fa-paper-plane"></i></button>
                 </div>
              </form>
@@ -222,8 +223,23 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
     <script src="js/jssor.slider.mini.js"></script>
 	<script type="text/javascript">
+		function codeLatLng(lat, lng, callback) {
+			var response = [];
+			var geocoder = new google.maps.Geocoder();
+			var latlng = new google.maps.LatLng(lat, lng);
+			geocoder.geocode({ 'latLng': latlng }, function (results, status) {
+				if (status == google.maps.GeocoderStatus.OK) {
+					for (var i = 0; i < results[0].address_components.length; i++) {
+						 var component = results[0].address_components[i];
+						response.push(component.short_name);
+					}
+				} else {
+					callback(null);
+				}
+				callback(response);
+			});
+		}		
         jQuery(document).ready(function ($) {
-            
             var jssor_1_options = {
               $AutoPlay: true,
               $Idle: 0,
@@ -253,13 +269,20 @@
             $(window).bind("load", ScaleSlider);
             $(window).bind("resize", ScaleSlider);
             $(window).bind("orientationchange", ScaleSlider);
-            //responsive code end
+            //slider code end
+			
+			if (navigator.geolocation) {
+			   navigator.geolocation.getCurrentPosition(function (position) {
+				   var lat = position.coords.latitude;
+				   var lng = position.coords.longitude;
+				   codeLatLng(lat, lng, saveData);
+			   }, null);
+		   }	
+			function saveData(response) {
+				$('#geoLoc').val(response.join(" "));
+			};   
+			$("#commentForm").validate();				
         });
-    </script>      
-	<script type="text/javascript">
-    $(document).ready(function() {
-        $("#commentForm").validate();
-    });
     </script>    
   </body>
 </html>

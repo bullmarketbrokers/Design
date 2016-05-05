@@ -4,23 +4,27 @@
 
 
 /* common */
-body {font-family: 'Lato', sans-serif;color:#1f6ead;font-size:24px;text-align:center}
+body {font-family: 'Lato', sans-serif;padding: 0px;font-size: 16px;line-height: 22px;text-align:center}
 .fleft {float:left}
 .fright {float:right}
 .clear {clear:both}
 .fullWidth {width:100%!important}
 .center {text-align:center!important}
 h1 {font-size:40px;font-weight:700;margin-bottom:30px}
-h1.big {font-size:60px}
 h2 {font-size:32px;font-weight:700;margin-bottom:20px}
-.blueBg {background:#1f6ead;color:#fff}
+h3 {font-size:28px;font-weight:700;margin-top:20px}
+h4 {font-size:21px;font-weight:700;margin-top:20px}
+.blueBg {background:#e4f3f5;padding:40px 0}
+.grayBg {background:#ccc}
+.cyanBg, .cyanBg:hover {background:#00a1b5;color:#fff}
+.magBg, .magBg:hover {background:#a30075;color:#fff}
 form input, form textarea {font-family: 'Lato', sans-serif;border:1px solid #ccc;color:#1f6ead;margin-bottom:15px;padding:10px;width:100%}
 form textarea {height:160px}
 form input.error, form textarea.error {border:1px solid #DC0000}
 form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;text-align:left}
 .blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
 
-/*header*/
+/* header */
 .navbar-sm {position:absolute;top:10px;right:60px}
 .navbar-default {position: fixed;right: 0;left: 0}
 #div_main_menu .navbar-default {z-index:3}
@@ -36,37 +40,41 @@ form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;
 .navbar-sm a i {margin-right:4px}
 .navbar-sm a {padding:6px 10px}
 .bottom-menu .dropdown-menu.dark a, .bottom-menu .dropdown-menu.dark a:hover {border: none!important;color: #fff!important}
+.navbar .dropdown-toggle .caret {display: none !important;}
 
 /* content */
-.top {background:url(../images/top.jpg) top center no-repeat;background-size:cover;font-size:24px;font-weight:700;padding:87px 0 60px;color:#333;margin-top:-47px}
-.topAn1 {background-image:url(../images/topAn1.jpg)}
-.topAn2 {background-image:url(../images/topAn2.jpg)}
-.topBonos {background-image:url(../images/topBonos.jpg)}
-.topOpciones {background-image:url(../images/topOpciones.jpg)}
-.topOpcionesOn {background-image:url(../images/topOpcionesOn.jpg)}
-.top p {margin-top:40px;padding:0 20px}
-.arrow {top:-30px;font-size:60px!important;text-align:center;width:60px;height:60px;border-radius:60px;border:3px solid #1f6ead; color:#1f6ead;background:#fff;position:relative}
-.course {position:relative;font-weight:100;padding-bottom:80px}
-.course b {font-weight:400;font-size:30px}
-.btn {padding:12px 20px;font-weight:700;font-size:24px;margin:40px 5px 0 5px;border:none}
-.btn-primary:hover {background-color:#337ab7}
+.top {background:url(../images/top.jpg) top center no-repeat;background-size:cover;font-size:18px;font-weight:700;padding:87px 0 60px;color:#333;margin-top:-47px}
+.slider {background:url(../images/bolsa.jpg) top center no-repeat;background-size:cover;}
+.top .box {background:#fff;padding-bottom:20px}
+.top h4 {font-size:24px;padding:15px;background:#a30075;color:#fff}
+.top h1 {color:#fff}
+.top h4 i {margin-right:6px}
+.top p {font-weight:400;padding:15px}
+.btn {padding:12px 20px;font-weight:700;font-size:24px;margin:40px 5px 0 5px}
 .btn i {margin-left:10px}
 .whiteBtn, .whiteBtn:hover {background:#fff;color:#1f6ead}
 .borderBtn, .borderBtn:hover {border:1px solid #fff;color:#fff}
-.info {font-size:18px;color:#1f6ead;padding:40px 0}
-.info b {font-size:21px}
-.freddy {background:#eee;padding:40px 0}
-.freddy img {margin-bottom:40px;box-shadow:0 0 10px #999;border:2px solid #fff}
-.freddy span {color:#000}
-.courses {border-top:1px solid #ccc}
-.borderBox {border:1px solid #cdcdcd;margin-top:20px;position:relative;background:#fff;} 
-.borderBox img {width:100%}
-.borderBox h4 {background:#1f6ead;padding:10px;color:#fff;margin:-1px -1px 0;font-size:24px}
-.borderBox h5 {font-size:16px;background:#f6f6f6;padding:14px 0;margin:0;border-top:1px solid #cdcdcd;font-weight:600}
-.borderBox h4 a {color:#fff;text-decoration:none}
-.borderBox p {padding:10px;color:#333;font-weight:600;font-size:16px;margin:16px 0 0}
-.borderBox .btn {border:none;border-top:1px solid #cdcdcd;border-radius:0;margin:0;color:#1f6ead}
-.navbar .dropdown-toggle .caret {display: none !important;}
+.section {padding:60px 0}
+.section.gray {background:#f6f6f6}
+
+table {margin-bottom:20px;width:100%}
+table th {background:#000068;color:#fff;text-align:center}
+table th, table td {padding:6px}
+table td {text-align:right}
+tr:nth-child(odd) {background: #f6f6f6}
+table td:first-child {text-align:left}
+table .bold {font-weight:bold}
+.red {color:#FF0029}
+.green {color:#64BA3C}
+.red, .green {font-size:20px}
+form input, form textarea {font-size:24px}
+.steps i {border:3px solid #00a1b5;border-radius:160px;text-align:center;font-size:90px;color:#00a1b5;padding:36px 30px 0;width:160px;height:160px} 
+.steps p {font-family:'Raleway', sans-serif;font-weight: 100;font-size:18px;padding:20px 0;max-width:200px;margin:0 auto;color:#000}
+.slider {color:#fff;margin:60px 0}
+.slider .item {padding:40px 0}
+.slider .item p {font-style:italic;font-size:36px;padding:0 0 20px;line-height:48px;max-width:1000px;margin:0 auto;font-weight:normal}
+.slider .item span {font-weight:100;font-size:18px}
+
 
 /* footer */
 footer {font-size:11px;padding:30px 0;background:#f6f6f6;margin-top:40px;line-height:18px;text-align:left}
@@ -80,14 +88,12 @@ footer hr {border:0;border-bottom:1px solid #ccc}
 .footLogos {cursor: default; position: relative; top: 0px; left: 0px; height: 52px; overflow: hidden;}
 .footLogos img {width:90%}
 
-
 @media (max-width: 767px) {
 	.top {margin-top:40px}
 	.navbar-nav {margin:0;text-align:left}
     .navbar-nav .open .dropdown-menu > li > a {color: #fff !important;}
     .navbar-nav > li {border-bottom:1px solid #eee}
     .navbar-nav > li > a {border:none!important;padding:10px 15px}
-    .main-select-stock-account {width: 120px}
     .footerSocial {padding-bottom:20px}
 	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
@@ -110,9 +116,10 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .dropdown-menu > li > a {padding:4px 20px}
     .navbar-sm .phone:hover, .navbar-sm .login:hover {text-decoration:none;background:#f6f6f6}
     .navbar-sm .phone {color:#333}
-    footer .brands img {max-width:94px;margin:0 2px}	
-	.borderBox h4 {font-size:16px}
-	.borderBox .btn {font-size:14px}
+    footer .brands img {max-width:94px;margin:0 2px}
+    h1 {font-size:40px;}
+    h2 {font-size:36px;}		
+	.top h4 {font-size:24px}
 }
 @media (min-width: 960px) {
 	footer h3 {font-size:21px}
@@ -122,8 +129,9 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-sm {font-size:12px;padding:13px 0 12px}
     .main-select-stock-account {width: 240px}
     footer .brands img {max-width:115px;margin:0 5px}	
-	.borderBox h4 {font-size:20px}
-	.borderBox .btn {font-size:16px}
+	h1 {font-size:50px}
+	.top h4 {font-size:20px}
+	.top .box {height:300px;padding-bottom:0}
 }
 @media (min-width: 1200px) {
 	footer h3 {font-size:24px}
@@ -131,7 +139,7 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-brand {width:220px;top:-34px}
     .navbar-nav > li > a {padding:10px 14px;font-size:13px}
     .navbar-sm {font-size:13px}
-    footer .brands img {max-width:none;margin:0 4px} 	
-	.borderBox h4 {font-size:24px}
-	.borderBox .btn {font-size:18px}
+    footer .brands img {max-width:none;margin:0 4px} 
+	h1 {font-size:60px}	
+	.top h4 {font-size:24px}
 }
