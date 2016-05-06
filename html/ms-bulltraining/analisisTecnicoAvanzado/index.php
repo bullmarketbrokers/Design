@@ -36,7 +36,7 @@
     	<div class="container">
             <i class="arrow fa fa-angle-down"></i>
             <p><b>Fundamental para el manejo del timing</b></p>
-            <!--a href="https://www.eventbrite.com.ar/e/curso-analisis-tecnico-i-tickets-23472279219" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a-->
+            <a href="https://www.eventbrite.com.ar/e/curso-analisis-tecnico-avanzado-tickets-25179616912" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
             <a href="../images/Programa_Bull_Training_Analisis_Tecnico_Avanzado.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
 			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
