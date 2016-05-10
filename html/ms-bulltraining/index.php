@@ -54,7 +54,7 @@
       </div>
             <div class="col-xs-12 col-sm-4">
           <div class="borderBox">
-                  <h4><a href="/opcionesFuturosOnline">Estrategia con Opciones</a></h4>
+                  <h4><a href="/opcionesFuturosOnline">Curso Online de Estrategia con Opciones</a></h4>
                   <a href="/opcionesFuturosOnline"><img src="images/opFutOn.jpg" alt="Opciones y Futuros Online"></a>
                   <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera.</p>
                   <h5>Inicia: Lunes 06.06.2016</h5>

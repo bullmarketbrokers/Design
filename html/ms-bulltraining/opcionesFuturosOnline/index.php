@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Estrategia con Opciones :: Bull Market Brokers</title>
+    <title>Curso Online de Estrategia con Opciones :: Bull Market Brokers</title>
     <meta name="keywords" content="curso de bolsa, an&aacute;lisis t&eacute;cnico,  curso de inversiones, aprender de bolsa, curso an&aacute;lisis t&eacute;cnico"/>
     <meta name="description" content="Cursos de Bolsa para poder aprender y generar mayores ingresos de sus inversiones. Cursos de an&aacute;lisis tecnico para poder sacar ventaja cuando invierte en Bolsa"/>    
     <link rel="shortcut icon" href="../images/favicon.ico">
@@ -27,7 +27,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topOpcionesOn">
         <div class="container">
-            <h1 class="big">Curso de Estrategia con Opciones</h1>
+            <h1 class="big">Curso Online de Estrategia con Opciones</h1>
             <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. <br><br>Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas “Estrategias con Opciones”.</p>
             <br>
         </div>
