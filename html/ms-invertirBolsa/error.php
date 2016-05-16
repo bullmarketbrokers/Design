@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Inversiones en Bolsa :: Bull Market Brokers</title>
-    <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
-    <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
+    <meta name="keywords" content="invertir en bolsa, invertir en merval, merval, rofex, nasdaq, acciones, invertir en acciones, invertir en bonos, invertir en dolares"/>
+    <meta name="description" content="Inversiones en Bolsa a través de Bull Market Brokers"/> 
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">

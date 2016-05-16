@@ -61,7 +61,7 @@
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Cuadro Comparativo</h2>
-                <small class="date">Actualizado al 25.04.2016</small>
+                <small class="date">Actualizado al 16.05.2016</small>
 				<table class="fullWidth lebacs">
                 	<thead>
                     	<tr>
@@ -73,7 +73,7 @@
                     	<tr>
                         	<td>
                             	<small>35 d&iacute;as</small>
-                                <span>38%</span>
+                                <span>37.5%</span>
                             </td>
                             <td>
                             	<small>30 d&iacute;as</small>

@@ -37,7 +37,7 @@
             <i class="arrow fa fa-angle-down"></i>
             <p><b>No se necesitan conocimientos previos sobre finanzas</b></p>
             <p>Est&aacute; enfocado a cualquier rango de edad y nivel educativo como as&iacute; tambi&eacute;n a cualquier profesional</p>
-            <a href="https://www.eventbrite.com.ar/e/curso-online-de-estrategia-con-opciones-tickets-25179154529" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
+            <!--a href="https://www.eventbrite.com.ar/e/curso-online-de-estrategia-con-opciones-tickets-25179154529" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a-->
             <a href="../images/Programa_Bull_Training_Opciones_Futuros_Online.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
 			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
