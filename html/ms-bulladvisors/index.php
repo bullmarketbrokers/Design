@@ -94,7 +94,7 @@
                         </li>
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
-                            <h4>Información y asesoramiento</h4>
+                            <h4>Información</h4>
                             <p>Tendrás acceso a informes exclusivos de nuestro equipo de Research, reservados solo para el staff de BMB y su red de <b><i>Bull Advisors</i></b>.</p>
                         </li>                           
                     </ul>
@@ -104,7 +104,7 @@
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
                             <h4>Tecnología</h4>
-                            <p>La plataforma online de BMB, las más completa y versátil del mercado local, te permitirá a vos y a tus clientes ver los precios en tiempo real, operar una amplia gama de productos de forma online, ingresar y retirar fondos, consultar recomendaciones y análisis, entre muchas otras funcionalidades. No requerís más infraestructura inicial que una PC y acceso a internet.</p>
+                            <p>La plataforma online de BMB, las más completa y versátil del mercado local, te permitirá a vos y a tus clientes ver los precios en tiempo real, operar una amplia gama de productos de forma online, ingresar y retirar fondos, consultar recomendaciones y análisis, entre muchas otras funcionalidades.</p>
                         </li>
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
@@ -114,7 +114,7 @@
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
                             <h4>Escalabilidad</h4>
-                            <p>Tu crecimiento como Bull Advisor no tiene techo, y depende exclusivamente del trabajo y esfuerzo que le dediques</p>
+                            <p>Al percibir comisiones sobre los aranceles generados por la operatoria de tu cartera de clientes, tu crecimiento como Bull Advisor no tiene techo, y depende exclusivamente del trabajo y esfuerzo que le dediques</p>
                         </li>                                             
                     </ul>
                 </div>                
@@ -138,7 +138,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <span><i class="fa fa-check-circle" aria-hidden="true"></i></span>
                     <h4>Proactividad</h4>
-                    <p>Ser <b>proactivo</b>, adem&aacute;s de <b>independiente y organizado</b> son cualidades sin las cuales no puede sostenerse en el largo plazo el crecimiento como <b><i>BA</i></b>.</p>
+                    <p>Ser <b>proactivo</b>, adem&aacute;s de <b>independiente y organizado</b> son cualidades fundamentales para asegurar el éxito de largo plazo en tu camino como <b><i>BA</i></b>.</p>
                 </div>    
                 <div class="col-xs-12">
                     <hr>
@@ -203,7 +203,7 @@
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
                             <h4>Crecimiento</h4>
-                            <p>Sumándote al equipo de <b><i>Bull Advisors</i></b>, pasarás a formar parte de una empresa fuertes planes de crecimiento a futuro, con el potencial de crecimiento de tus negocios.</p>
+                            <p>Sumándote al equipo de <b><i>Bull Advisors</i></b>, trabajarás codo a codo con una empresa que, consolidada en el mercado local, se encuentra en pleno proceso de expansión y con fuertes planes de crecimiento a futuro, maximizando el potencial de crecimiento de tus negocios.</p>
                         </li>
                     	<li>
                         	<i class="fa fa-check-square-o" aria-hidden="true"></i>
