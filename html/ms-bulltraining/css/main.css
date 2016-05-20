@@ -67,6 +67,8 @@ form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;
 .borderBox p {padding:10px;color:#333;font-weight:600;font-size:16px;margin:16px 0 0}
 .borderBox .btn {border:none;border-top:1px solid #cdcdcd;border-radius:0;margin:0;color:#1f6ead}
 .navbar .dropdown-toggle .caret {display: none !important;}
+.highlight {background:#f4f4f4;padding:20px;font-weight:bold;border:1px solid #1f6ead;margin-top:40px}
+.highlight i {font-size:28px;margin-right:10px}
 
 /* footer */
 footer {font-size:11px;padding:30px 0;background:#f6f6f6;margin-top:40px;line-height:18px;text-align:left}

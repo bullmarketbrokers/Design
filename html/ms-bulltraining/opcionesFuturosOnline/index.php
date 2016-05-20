@@ -57,7 +57,10 @@
                 <p>para no clientes</p>
                 <p><b>$AR 1200</b></p>
                 <p>para alumnos regulares</p>                   
-            </div>            
+            </div>   
+            <div class="col-xs-12 highlight">
+                <i class="fa fa-info-circle" aria-hidden="true"></i> Se enviará un link para ingresar a la plataforma online unos días previos al inicio del curso.
+            </div>                       
         </div>
     </div>
     <div class="freddy">
