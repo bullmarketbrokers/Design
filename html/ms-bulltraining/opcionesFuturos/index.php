@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Opciones y Futuros :: Bull Market Brokers</title>
+    <title>Curso Online de Estrategia con Opciones :: Bull Market Brokers</title>
     <meta name="keywords" content="curso de bolsa, an&aacute;lisis t&eacute;cnico,  curso de inversiones, aprender de bolsa, curso an&aacute;lisis t&eacute;cnico"/>
     <meta name="description" content="Cursos de Bolsa para poder aprender y generar mayores ingresos de sus inversiones. Cursos de an&aacute;lisis tecnico para poder sacar ventaja cuando invierte en Bolsa"/>    
     <link rel="shortcut icon" href="../images/favicon.ico">
@@ -25,10 +25,10 @@
   </head>
   <body>
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
-    <div class="top topOpciones">
+    <div class="top topOpcionesOn">
         <div class="container">
-            <h1 class="big">Curso de Opciones y Futuros</h1>
-            <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y de la cobertura permitiendo reducir los riesgos de las inversiones.<br><br>El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas “Estrategias con Opciones.</p>
+            <h1 class="big">Curso Online de Estrategia con Opciones</h1>
+            <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. <br><br>Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas “Estrategias con Opciones”.</p>
             <br>
         </div>
     </div>
@@ -36,9 +36,9 @@
     	<div class="container">
             <i class="arrow fa fa-angle-down"></i>
             <p><b>No se necesitan conocimientos previos sobre finanzas</b></p>
-            <p>Está orientado a cualquier rango de edad, nivel educativo, como así también cualquier profesión.</p>
-            <a href="https://www.eventbrite.com.ar/e/curso-de-opciones-y-futuros-tickets-25179149514" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
-            <a href="../images/Programa_Bull_Training_Opciones_Futuros.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
+            <p>Est&aacute; enfocado a cualquier rango de edad y nivel educativo como as&iacute; tambi&eacute;n a cualquier profesional</p>
+            <a href="https://www.eventbrite.com.ar/e/curso-online-de-estrategia-con-opciones-tickets-25179154529" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
+            <a href="../images/Programa_Bull_Training_Opciones_Futuros_Online.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
 			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
     </div>
@@ -46,35 +46,37 @@
     	<div class="container">
         	<div class="col-xs-12 col-sm-6">
             	<h2>Cronograma</h2>
-                <p><b>El curso consta de 4 clases presenciales<br>de 3hs cada clase comenzando a las 18:30hs</b></p>
-                <p>Martes 14.06.2016 / Jueves 16.06.2016 <br>Martes 21.06.2016 / Jueves 23.06.2016</p>
-                <p><b>Bouchard 680 Piso 8 - C.A.B.A</b></p>
+                <p><b>El curso consta de 4 clases<br>de 3hs cada clase comenzando a las 18:30hs</b></p>
+                <p>Lunes 06.06.2016 / Mi&eacute;rcoles 08.06.2016 <br>Lunes 13.06.2016 / Mi&eacute;rcoles 15.06.2016</p>
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Aranceles</h2>
-                <p><b>$AR 2000</b></p>
+                <p><b>$AR 1400</b></p>
                 <p>para clientes de Bull Market Brokers</p>
-                <p><b>$AR 2300</b></p>
+                <p><b>$AR 1600</b></p>
                 <p>para no clientes</p>
-                <p><b>$AR 1700</b></p>
-                <p>para alumnos regulares</p>                  
-            </div>            
+                <p><b>$AR 1200</b></p>
+                <p>para alumnos regulares</p>                   
+            </div>  
+            <div class="col-xs-12 highlight">
+                <i class="fa fa-info-circle" aria-hidden="true"></i> Se enviará un link para ingresar a la plataforma online unos días previos al inicio del curso.
+            </div>          
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Mariano Luciano A. Mussino Stauber</h1>
-        <img src="../images/mariano.jpg" alt="Mariano Luciano A. Mussino Stauber">
-        <p><b>Contador Público (UCASAL) - Posgrado de Especialista en Mercado de Capitales (UBA)</b></p>
-        <span>Programa Experto en Derivados (Rofex)</span>
+    	<h1>Curso dictado por Germán Marin</h1>
+        <img src="../images/german.jpg" alt="Germán Marin">
+        <p><b>Contador Público Nacional (U.N.L.) - Asesor Financiero Certificado<br>Especialista en Opciones Financieras - Productor en Bull Market Brokers</b></p>
+        <span>Trayectoria de 7 años en Merval<br>Encargado sección Opciones en revista “5 Ruedas”<br><b>Facebook:</b> Estrategias con Opciones Financieras</span>
     </div>
     <div class="contact">
     	<div class="container">
         	<h1>Consultas</h1>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining" />
-                <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturos/error.php" />
-                <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturos/contactoRes.php" />
-                <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturos/index.php" />
+                <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/error.php" />
+                <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/contactoRes.php" />
+                <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/index.php" />
                 <input type="hidden" name="geoLoc" value="" id="geoLoc" />
                 <div class="col-xs-12 col-sm-12">
                 	<input type="text" id="name" placeholder="Nombre (requerido)" name="name" class="required" />

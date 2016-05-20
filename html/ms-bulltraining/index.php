@@ -39,7 +39,7 @@
                   <h4><a href="/analisisTecnico1">Análisis Técnico I</a></h4>
                   <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
                   <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
-                  <h5>Inicia: Martes 12.04.2016</h5>
+                  <h5>Inicia: Fecha a Confirmar</h5>
                   <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
           </div>
       </div>
