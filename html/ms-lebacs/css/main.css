@@ -70,6 +70,20 @@ table.lebacs tr:nth-child(even) {background: #f4f4f4}
 .benefitItem.small p {font-size:13px}
 .benefitItem p span.text {padding:12px;display:block;text-align:left}
 
+/* cross sites */
+.recItem {background:#000;position:relative;color:#fff;float:left;width:100%;opacity:0.9;margin-bottom:30px;overflow:hidden}
+.recItem:hover {text-decoration:none;color:#fff;opacity:1}
+.recItem h4 {background:#a30075;padding:10px;margin:0;font-size:30px;z-index:3;position:relative}
+.recItem img {position:absolute;left:0;top:0;z-index:2;width:100%}
+.recItem ul, .recItem ul li, .recItem p {list-style:none;margin:0;padding:0;z-index:3;position:relative}
+.recItem ul, .recItem p {margin:30px}
+.recItem p {font-size:18px}
+.recItem ul li {padding:6px 0;font-size:18px}
+.recItem ul li i {margin-right:8px;font-size:21px}
+@media (max-width: 959px) {
+	.recItem img {object-fit: contain;width:auto}	
+}
+
 @media only screen and (min-width : 480px) {
 .benefitItem p {font-size:21px}
 .benefitItem.small p {font-size:18px}	

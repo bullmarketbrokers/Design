@@ -88,6 +88,67 @@
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=3boq0ui49f1ru7g7c4f8qtggbc%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FArgentina%2FBuenos_Aires" style="border-width:0;width:100%;height:600px" frameborder="0" scrolling="no"></iframe>
   </div>
     </div>
+    
+	<div class="section">
+    	<div class="container">
+        	<br>
+            <hr>
+            <br>
+            <h1>Links de inter&eacute;s</h1>
+        	<div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://inversionesenbolsa.com.ar/" target="_blank">
+                    	<h4>Bolsa</h4>
+                    	<img src="images/ad-invertir.jpg" alt="inversiones en bolsa">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Obtenga los mejores rendimientos</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Abanico de posibilidades de inversión</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Disponga de sus fondos disponibles rápidamente</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Inversiones transparentes y reglamentadas</li>
+                        </ul>
+                    </a>
+                </div>   
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.operarenrofex.com.ar/" target="_blank">
+                    	<h4>Dólar</h4>
+                    	<img src="images/ad-rofex.jpg" alt="Rofex">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Dolarice su inversión</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Asegure su precio de dólar</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Especule con el dólar</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real </li>
+                        </ul>
+                    </a>
+                </div>     
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://invertirenlebacs.com.ar/" target="_blank">
+                    	<h4>LEBACS</h4>
+                    	<img src="images/ad-lebacs.jpg" alt="LEBACS">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Renta fija en pesos</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Mejor renta que un plazo fijo</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Invierta de forma online</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Operaciones  de mínimo riesgo</li>
+                        </ul>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.compraracciones.com.ar/" target="_blank">
+                    	<h4>Acciones</h4>
+                    	<img src="images/ad-comprar.jpg" alt="Acciones">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Es muy fácil, ágil y sencillo</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Sin conocimientos previos sobre finanzas</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Comience a operar con una inversión mínima</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real</li>
+                        </ul>
+                    </a>
+                </div> 
+            </div>         
+        </div>
+    </div>    
 <footer>
       <div class="container">
     <div class="row">

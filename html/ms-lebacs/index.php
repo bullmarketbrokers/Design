@@ -137,6 +137,61 @@
              </form>
         </div>
     </div>
+    <div class="section">
+    	<div class="container">
+        	<br>
+            <hr>
+            <br>
+            <h1>Links de inter&eacute;s</h1>
+        	<div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.cursos-de-bolsa.com.ar/" target="_blank">
+                    	<h4>Bull Training</h4>
+                    	<img src="images/ad-cursos.jpg" alt="Bull Training">
+						<p>BMB Training es un espacio de formación para inversores o personas interesadas en el mundo bursátil. Somos todos profesionales en finanzas y economía y nuestro objetivo es poder transmitir el conocimiento en lo que refiere a inversiones y educar a las personas para que puedan utilizar este medio como forma de inversión.</p>
+                    </a>
+                </div>   
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.operarenrofex.com.ar/" target="_blank">
+                    	<h4>Dólar</h4>
+                    	<img src="images/ad-rofex.jpg" alt="Rofex">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Dolarice su inversión</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Asegure su precio de dólar</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Especule con el dólar</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real </li>
+                        </ul>
+                    </a>
+                </div>     
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://inversionesenbolsa.com.ar/" target="_blank">
+                    	<h4>Bolsa</h4>
+                    	<img src="images/ad-invertir.jpg" alt="inversiones en bolsa">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Obtenga los mejores rendimientos</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Abanico de posibilidades de inversión</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Disponga de sus fondos disponibles rápidamente</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Inversiones transparentes y reglamentadas</li>
+                        </ul>
+                    </a>
+                </div> 
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.compraracciones.com.ar/" target="_blank">
+                    	<h4>Acciones</h4>
+                    	<img src="images/ad-comprar.jpg" alt="Acciones">
+                        <ul>
+                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Es muy fácil, ágil y sencillo</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Sin conocimientos previos sobre finanzas</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Comience a operar con una inversión mínima</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real</li>
+                        </ul>
+                    </a>
+                </div> 
+            </div>          
+        </div>
+    </div>
     <footer>
     	<div class="container">
             <div class="row">
