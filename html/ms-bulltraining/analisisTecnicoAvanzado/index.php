@@ -51,11 +51,11 @@
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Aranceles</h2>
-                <p><b>$AR 2000</b></p>
+                <p><b>$AR 2200</b></p>
                 <p>para clientes de Bull Market Brokers</p>
-                <p><b>$AR 2300</b></p>
+                <p><b>$AR 2500</b></p>
                 <p>para no clientes</p>
-                <p><b>$AR 1700</b></p>
+                <p><b>$AR 1900</b></p>
                 <p>para alumnos regulares</p>                
             </div>            
         </div>
@@ -70,7 +70,7 @@
     	<div class="container">
         	<h1>Consultas</h1>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
-                <input type="hidden" name="about" value="BullTraining" />
+                <input type="hidden" name="about" value="BullTraining  Curso An&aacute;lisis T&eacute;cnico Avanzado" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnicoAvanzado/error.php" />
                 <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/analisisTecnicoAvanzado/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/analisisTecnicoAvanzado/index.php" />

@@ -73,21 +73,21 @@
                     	<tr>
                         	<td>
                             	<small>34 d&iacute;as</small>
-                                <span>34,25%</span>
+                                <span>35.25%</span>
                             </td>
                             <td>
                             	<small>30 d&iacute;as</small>
-                                <span>28,00%</span>                            
+                                <span>28.50%</span>                            
                             </td>
                         </tr>
                     	<tr>
                         	<td>
-                            	<small>98 d&iacute;as</small>
-                                <span>31,75%</span>
+                            	<small>97 d&iacute;as</small>
+                                <span>32.25%</span>
                             </td>
                             <td>
                             	<small>90 d&iacute;as</small>
-                                <span>27,95%</span>                            
+                                <span>28.50%</span>                            
                             </td>
                         </tr>                        
                     </tbody>

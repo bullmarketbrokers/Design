@@ -27,7 +27,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topAn1">
         <div class="container">
-            <h1 class="big">Curso An&aacute;lisis T&eacute;cnico I</h1>
+            <h1 class="big">Curso de Análisis Técnico Cualitativo</h1>
             <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
             <br>
         </div>
@@ -37,7 +37,7 @@
             <i class="arrow fa fa-angle-down"></i>
             <p><b>No se necesitan conocimientos previos sobre finanzas</b></p>
             <p>Est&aacute; enfocado a cualquier rango de edad y nivel educativo como as&iacute; tambi&eacute;n a cualquier profesional</p>
-            <a href="https://www.eventbrite.com.ar/e/curso-analisis-tecnico-i-tickets-23472279219" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
+            <a href="https://www.eventbrite.com.ar/e/curso-analisis-tecnico-cualitativo-tickets-26349239284" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
             <a href="../images/Programa_Curso_de_Análisis_Técnico_I.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
 			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
@@ -47,14 +47,14 @@
         	<div class="col-xs-12 col-sm-6">
             	<h2>Cronograma</h2>
                 <p><b>El curso consta de 4 clases presenciales<br>de 3hs cada clase comenzando a las 18:30hs</b></p>
-                <p>Martes 12.04.2016 / Jueves 14.04.2016 <br>Martes 19.04.2016 / Jueves 21.04.2016</p>
+                <p>Martes 19.07.2016 / Jueves 21.07.2016 <br>Lunes 25.07.2016 / Miércoles 27.07.2016</p>
                 <p><b>Bouchard 680 Piso 8 - C.A.B.A</b></p>
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Aranceles</h2>
-                <p><b>$AR 2000</b></p>
+                <p><b>$AR 2200</b></p>
                 <p>para clientes de Bull Market Brokers</p>
-                <p><b>$AR 2300</b></p>
+                <p><b>$AR 2500</b></p>
                 <p>para no clientes</p>
             </div>            
         </div>
@@ -69,7 +69,7 @@
     	<div class="container">
         	<h1>Consultas</h1>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
-                <input type="hidden" name="about" value="BullTraining" />
+                <input type="hidden" name="about" value="BullTraining Curso An&aacute;lisis T&eacute;cnico 1" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/error.php" />
                 <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/index.php" />

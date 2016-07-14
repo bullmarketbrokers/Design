@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+/* bootstrap reset */
+
+
+/* common */
+body {font-family: 'Lato', sans-serif;color:#4f524e;font-size:24px;text-align:center}
+.fleft {float:left}
+.fright {float:right}
+.clear {clear:both}
+.fullWidth {width:100%!important}
+.center {text-align:center!important}
+p.light {font-weight:300}
+h1 {font-size:40px;font-weight:700;margin-bottom:30px}
+h1.big {font-size:60px}
+h2 {font-size:30px;font-weight:700;margin-bottom:20px}
+.whiteBg {background:#fff}
+.grayBg {background:#383839;color:#fff}
+.softGrayBg {background:#f4f4f4}
+.brownBg {background:#a2885b;color:#fff}
+.blueBg {background:#0e4766;color:#fff}
+.blueBg a {color:#fff;text-decoration:underline}
+.patBg {background:url(../images/net.png);color:#fff}
+form input, form textarea {font-family: 'Lato', sans-serif;border:1px solid #ccc;color:#1f6ead;margin-bottom:15px;padding:10px;width:100%}
+form textarea {height:160px}
+form input.error, form textarea.error {border:1px solid #DC0000}
+form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;text-align:left}
+.blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
+form input, form textarea {font-size:24px}
+.empty {visibility:hidden}
+h4.blueBg {padding:20px 30px}
+a.border {padding:15px 30px;text-transform:uppercase;border:1px solid #fff;color:#fff;margin-top:20px;display:inline-block}
+.modal-body {height:auto!important}
+.modal-body p {font-size:18px}
+
+
+/*header*/
+#div_main_menu {background: #fff;position: fixed;top: 0;left: 0;width: 100%;height: 59px;z-index: 4}
+.navbar-sm {position:absolute;top:10px;right:60px}
+.navbar-default {position: fixed;right: 0;left: 0}
+#div_main_menu .navbar-default {z-index:3}
+.navbar-header {padding:0 15px}
+.navbar-brand {height:auto;padding:5px 15px}
+.navbar-nav > li > a {padding:10px 6px;font-size:12px;border-top:4px solid #fff;margin-top:-4px;color:#000068}
+.navbar-nav a.newClass, .navbar-nav a:hover, .navbar-nav .open > a, .navbar-nav .open > a:hover, .navbar-nav .open > a:focus {background-color:#795877!important;border-top:4px solid #795877;color:#fff!important}
+.bottom-menu .dropdown-menu.dark {background-color:rgba(0, 0, 104, .90) !important}
+.bottom-menu .dropdown-menu.dark a:hover {border:none!important;color:#fff!important}
+.navbar-sm {font-size:11px}
+.navbar-sm .account {background:#fce126;color:#333;margin-top:-10px}
+.navbar-sm .login {color:#333}
+.navbar-sm a i {margin-right:4px}
+.navbar-sm a {padding:6px 10px}
+.bottom-menu .dropdown-menu.dark a, .bottom-menu .dropdown-menu.dark a:hover {border: none!important;color: #fff!important}
+.navbar .dropdown-toggle .caret {display: none !important;}
+
+/* content */
+.scrollTop {display:none;position:fixed;bottom:40px;right:40px}
+.scrollTop i {font-size:40px;color:#5e5e5d;text-shadow:0 0 1px #fff}
+h1 {text-transform:uppercase;font-size:48px;font-weight:300}
+.top {background:url(../images/bg.jpg) top center no-repeat;background-size:cover;font-size:18px;font-weight:700;padding:150px 0;color:#fff}
+.top .topContainer {background:rgba(0,0,0,0.5);padding:40px 0}
+.top h1 {margin-bottom:0}
+.top h3 {font-size:21px;padding:20px;font-weight:400;font-style:italic;margin-top:0}
+section {padding:150px 0}
+.steps i.fa {border-radius:160px;text-align:center;font-size:80px;color:#fff;padding:40px 30px 0 35px;width:160px;height:160px;background:#a2885b} 
+.steps h4 {font-size:24px;font-weight:600;padding:10px 0 0}
+.steps p {font-weight: 300;font-size:16px;padding:0;max-width:200px;margin:0 auto;line-height:20px}
+.checkList, .checkList li {margin:0;padding:0;list-style:none}
+.checkList li {position:relative;padding:10px 48px 0;text-align:left;font-size:16px;font-weight:300;line-height:20px}
+.checkList li h4 {font-weight:600;font-size:24px}
+.checkList li i.fa {position:absolute;top:20px;left:0;font-size:40px}
+#participar .col-sm-4 h4 {font-size:26px;font-weight:600;padding:8px 0}
+#participar hr {border:none;margin:16px 0;border-bottom:1px solid #fff}
+#participar .col-sm-4 i.fa {font-size:72px;margin-top:10px}
+#participar .col-sm-4 p {font-size:18px;font-weight:300}
+.btnBrown {border-radius:0;background:#826d49;border:none;font-size:24px;font-weight:600}
+.btnBrown:hover, .btnBrown:active, .btnBrown:focus {border:none;background:#6d5b3d!important}
+.modal-header {background:#383839;border-radius:4px 4px 0 0}
+.modal-header h4 {color:#fff;font-size:24px;font-weight:600}
+.close {color:#fff;text-shadow:none;opacity:.7;margin-top:4px;font-size:24px}
+.close:hover {color:#fff;text-shadow:none;opacity:1}
+
+/* footer */
+footer {font-size:11px;padding:70px 0 40px;background:#f6f6f6;line-height:18px;text-align:left}
+footer, footer h3 {color:#4d4d4d}
+footer h3 {margin:0;padding:0 0 6px;font-size:21px}
+.footerSocial {padding-right:0;line-height:22px}
+.footerSocial a {color:#fff;background:#4d4d4d;text-align:center;width:18%;margin-right:2px;padding:4px;font-size:20px;float:left}
+footer .brands {padding: 30px 0 10px}
+footer hr {border:0;border-bottom:1px solid #ccc}
+#jssor_1 {position: relative; margin: 0 auto; top: 0px; left: 0px; height: 52px; overflow: hidden; visibility: hidden;}
+.footLogos {cursor: default; position: relative; top: 0px; left: 0px; height: 52px; overflow: hidden;}
+.footLogos img {width:90%}
+
+
+@media (max-width: 767px) {
+	.navbar-nav {margin:0;text-align:left}
+    .navbar-nav .open .dropdown-menu > li > a {color: #fff !important;}
+    .navbar-nav > li {border-bottom:1px solid #eee}
+    .navbar-nav > li > a {border:none!important;padding:10px 15px}
+    .main-select-stock-account {width: 120px}
+    .footerSocial {padding-bottom:20px}
+	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
+	.navbar-default .navbar-toggle {border-color: #ddd;}
+	.steps i.fa {margin-top:40px}		
+}
+
+@media (min-width: 768px) {
+	footer h3 {font-size:18px;margin:0 0 4px}
+	.footerSocial a {font-size:14px}
+	footer .bmb {border-left: solid 1px #848484}
+    .div-media-logo {margin-top: -45px}
+    .hidden-sm {display:none!important}
+    .navbar-default {background:#eee;border:none;border-bottom:1px solid #fce126;margin-top:20px}
+	.footerSocial a {font-size:12px}
+    .navbar-header {position:relative}
+    .navbar-brand {position:absolute;top:-10px;left:15px;width:120px;padding:0}
+    .navbar-brand img {width:100%}
+	.navbar {min-height:auto}
+    footer .brands img {max-width:94px;margin:0 2px}
+}
+@media (min-width: 960px) {
+	.navbar-default {margin-top:40px}
+	footer h3 {font-size:21px}
+	.footerSocial a {font-size:19px}
+    .navbar-brand {width:200px;top:-28px}
+    .navbar-nav > li > a {padding:10px;font-size:11px}
+    .navbar-sm {font-size:12px;padding:13px 0 12px}
+    .main-select-stock-account {width: 240px}
+    footer .brands img {max-width:115px;margin:0 5px}	
+	body {background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-image:url(../images/bg.jpg)}
+	.top {background:transparent;padding:240px 0}
+	h1 {font-size:60px}
+	h1.big {font-size:84px}
+	.top h3 {font-size:30px}
+	section {margin-bottom:120px}
+	section#bmb {margin-bottom:0}
+	h4.blueBg {font-size:21px}
+}
+@media (min-width: 1200px) {
+	footer h3 {font-size:24px}
+	.footerSocial a {font-size:20px}
+    .navbar-brand {width:220px;top:-34px}
+    .navbar-nav > li > a {padding:10px 14px;font-size:13px}
+    .navbar-sm {font-size:13px}
+    footer .brands img {max-width:none;margin:0 4px} 	
+	.navbar-default {margin-top:46px}
+}

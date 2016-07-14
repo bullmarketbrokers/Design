@@ -34,121 +34,115 @@
       <div class="container"> <i class="arrow fa fa-angle-down"></i>
     <h1>Cursos de Capacitaci&oacute;n</h1>
     <div class="row">
-      <div class="col-xs-12 col-sm-4">
-          <div class="borderBox">
-                  <h4><a href="/analisisTecnico1">Análisis Técnico I</a></h4>
-                  <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
-                  <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
-                  <h5>Inicia: Fecha a Confirmar</h5>
-                  <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
-          </div>
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/analisisTecnico1">Análisis Técnico Cualitativo</a></h4>
+              <a href="/analisisTecnico1"><img src="images/anatec1.jpg" alt="An&aacute;lisis T&eacute;cnico 1"></a>
+              <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
+              <h5>Inicia: Martes 19 de Julio</h5>
+              <a href="/analisisTecnico1" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
       </div>
-      <div class="col-xs-12 col-sm-4">
-          <div class="borderBox">
-                  <h4><a href="/analisisTecnicoAvanzado">Análisis Técnico Avanzado</a></h4>
-                  <a href="/analisisTecnicoAvanzado"><img src="images/anTecAv.jpg" alt="Análisis Técnico Avanzado"></a>
-                  <p>El curso de Análisis Técnico Avanzado se complementa con el inicial, no son correlativos. Se enfoca en la parte cuantitativa del análisis técnico. Es un curso muy práctico que permite una toma de decisiones sólida para cada inversión. Fundamental para el manejo del timing.</p>
-                  <h5>Inicia: Martes 31.05.2016</h5>
-                  <a href="/analisisTecnicoAvanzado" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
-          </div>
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/analisisTecnicoAvanzado">Análisis Técnico Avanzado</a></h4>
+              <a href="/analisisTecnicoAvanzado"><img src="images/anTecAv.jpg" alt="Análisis Técnico Avanzado"></a>
+              <p>El curso de Análisis Técnico Avanzado se complementa con el inicial, no son correlativos. Se enfoca en la parte cuantitativa del análisis técnico. Es un curso muy práctico que permite una toma de decisiones sólida para cada inversión. Fundamental para el manejo del timing.</p>
+              <h5>Inicia: Fecha a Confirmar</h5>
+              <a href="/analisisTecnicoAvanzado" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
       </div>
-            <div class="col-xs-12 col-sm-4">
-          <div class="borderBox">
-                  <h4><a href="/opcionesFuturosOnline">Curso Online de Estrategia con Opciones</a></h4>
-                  <a href="/opcionesFuturosOnline"><img src="images/opFutOn.jpg" alt="Opciones y Futuros Online"></a>
-                  <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera.</p>
-                  <h5>Inicia: Lunes 06.06.2016</h5>
-                  <a href="/opcionesFuturosOnline" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
-          </div>
-      </div>          
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/opcionesFuturosOnline">Curso Online de Estrategia con Opciones</a></h4>
+              <a href="/opcionesFuturosOnline"><img src="images/opFutOn.jpg" alt="Opciones y Futuros Online"></a>
+              <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera.</p>
+              <h5>Inicia: Fecha a Confirmar</h5>
+              <a href="/opcionesFuturosOnline" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
       </div>
-      <div class="row">
-            <div class="col-xs-12 col-sm-4">
-          <div class="borderBox">
-                  <h4><a href="/opcionesFuturos">Opciones y Futuros</a></h4>
-                  <a href="/opcionesFuturos"><img src="images/opFut.jpg" alt="Opciones y Futuros"></a>
-                  <p>El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas "Estrategias con Opciones".</p>
-                  <h5>Inicia: Martes 14.06.2016</h5>
-                  <a href="/opcionesFuturos" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
-          </div>
+        </div>
+    <div class="row">
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/opcionesFuturos">Opciones y Futuros</a></h4>
+              <a href="/opcionesFuturos"><img src="images/opFut.jpg" alt="Opciones y Futuros"></a>
+              <p>El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas "Estrategias con Opciones".</p>
+              <h5>Inicia: Fecha a Confirmar</h5>
+              <a href="/opcionesFuturos" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
       </div>
-            <div class="col-xs-12 col-sm-4">
-          <div class="borderBox">
-                  <h4><a href="/bonos">Bonos</a></h4>
-                  <a href="/bonos"><img src="images/bonos.jpg" alt="Bonos"></a>
-                  <p>El curso de bonos inicial se orienta a cualquier tipo de inversor, ya que la renta fija es una parte fundamental en el armado de carteras de inversión. Conocer y profundizarse en esta área lo ayudará a tener un mayor control de sus inversiones.</p>
-                  <h5>Inicia: Martes 05.07.2016</h5>
-                  <a href="/bonos" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
-          </div>
-      </div>      
-  
-    </div>
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/bonos">Bonos</a></h4>
+              <a href="/bonos"><img src="images/bonos.jpg" alt="Bonos"></a>
+              <p>El curso de bonos inicial se orienta a cualquier tipo de inversor, ya que la renta fija es una parte fundamental en el armado de carteras de inversión. Conocer y profundizarse en esta área lo ayudará a tener un mayor control de sus inversiones.</p>
+              <h5>Inicia: Martes 05.07.2016</h5>
+              <a href="/bonos" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> </div>
+      </div>
+          <div class="col-xs-12 col-sm-4">
+        <div class="borderBox">
+              <h4><a href="/analisisFundamental">Análisis Fundamental</a></h4>
+              <a href="/analisisFundamental"><img src="images/analisisFundamental.jpg" alt="Análisis Fundamental"></a>
+              <p>El curso de Análisis Fundamental brinda a los inversores una potente herramienta para el manejo de sus inversiones. Propone fundamentos sólidos para realizar o no una inversión, lo que brinda sus frutos especialmente en momentos de inestabilidad en los mercados.</p>
+              <h5>Inicia: Martes 09.08.2016</h5>
+              <a href="/analisisFundamental" class="btn btn-default fullWidth"><i class="fa fa-plus-circle" aria-hidden="true"></i> Ver más</a> 
+        </div>
+        </div> 
+        </div>
+       
     <hr style="margin:40px 0">
     <h1>Calendario de Cursos</h1>
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=3boq0ui49f1ru7g7c4f8qtggbc%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FArgentina%2FBuenos_Aires" style="border-width:0;width:100%;height:600px" frameborder="0" scrolling="no"></iframe>
   </div>
     </div>
-    
-	<div class="section">
-    	<div class="container">
-        	<br>
-            <hr>
-            <br>
-            <h1>Links de inter&eacute;s</h1>
-        	<div class="row">
-                <div class="col-xs-12 col-sm-6">
-                    <a class="recItem" href="http://inversionesenbolsa.com.ar/" target="_blank">
-                    	<h4>Bolsa</h4>
-                    	<img src="images/ad-invertir.jpg" alt="inversiones en bolsa">
-                        <ul>
-                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Obtenga los mejores rendimientos</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Abanico de posibilidades de inversión</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Disponga de sus fondos disponibles rápidamente</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Inversiones transparentes y reglamentadas</li>
-                        </ul>
-                    </a>
-                </div>   
-                <div class="col-xs-12 col-sm-6">
-                    <a class="recItem" href="http://www.operarenrofex.com.ar/" target="_blank">
-                    	<h4>Dólar</h4>
-                    	<img src="images/ad-rofex.jpg" alt="Rofex">
-                        <ul>
-                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Dolarice su inversión</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Asegure su precio de dólar</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Especule con el dólar</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real </li>
-                        </ul>
-                    </a>
-                </div>     
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-6">
-                    <a class="recItem" href="http://invertirenlebacs.com.ar/" target="_blank">
-                    	<h4>LEBACS</h4>
-                    	<img src="images/ad-lebacs.jpg" alt="LEBACS">
-                        <ul>
-                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Renta fija en pesos</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Mejor renta que un plazo fijo</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Invierta de forma online</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Operaciones  de mínimo riesgo</li>
-                        </ul>
-                    </a>
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                    <a class="recItem" href="http://www.compraracciones.com.ar/" target="_blank">
-                    	<h4>Acciones</h4>
-                    	<img src="images/ad-comprar.jpg" alt="Acciones">
-                        <ul>
-                        	<li><i class="fa fa-check-circle" aria-hidden="true"></i>Es muy fácil, ágil y sencillo</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Sin conocimientos previos sobre finanzas</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Comience a operar con una inversión mínima</li>
-                            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real</li>
-                        </ul>
-                    </a>
-                </div> 
-            </div>         
+<div class="section">
+      <div class="container"> <br>
+    <hr>
+    <br>
+    <h1>Links de inter&eacute;s</h1>
+    <div class="row">
+          <div class="col-xs-12 col-sm-6"> <a class="recItem" href="http://inversionesenbolsa.com.ar/" target="_blank">
+            <h4>Bolsa</h4>
+            <img src="images/ad-invertir.jpg" alt="inversiones en bolsa">
+            <ul>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Obtenga los mejores rendimientos</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Abanico de posibilidades de inversión</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Disponga de sus fondos disponibles rápidamente</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Inversiones transparentes y reglamentadas</li>
+          </ul>
+            </a> </div>
+          <div class="col-xs-12 col-sm-6"> <a class="recItem" href="http://www.operarenrofex.com.ar/" target="_blank">
+            <h4>Dólar</h4>
+            <img src="images/ad-rofex.jpg" alt="Rofex">
+            <ul>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Dolarice su inversión</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Asegure su precio de dólar</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Especule con el dólar</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real </li>
+          </ul>
+            </a> </div>
         </div>
-    </div>    
+    <div class="row">
+          <div class="col-xs-12 col-sm-6"> <a class="recItem" href="http://invertirenlebacs.com.ar/" target="_blank">
+            <h4>LEBACS</h4>
+            <img src="images/ad-lebacs.jpg" alt="LEBACS">
+            <ul>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Renta fija en pesos</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Mejor renta que un plazo fijo</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Invierta de forma online</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Operaciones  de mínimo riesgo</li>
+          </ul>
+            </a> </div>
+          <div class="col-xs-12 col-sm-6"> <a class="recItem" href="http://www.compraracciones.com.ar/" target="_blank">
+            <h4>Acciones</h4>
+            <img src="images/ad-comprar.jpg" alt="Acciones">
+            <ul>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Es muy fácil, ágil y sencillo</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Sin conocimientos previos sobre finanzas</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Comience a operar con una inversión mínima</li>
+            <li><i class="fa fa-check-circle" aria-hidden="true"></i>Realice un seguimiento en tiempo real</li>
+          </ul>
+            </a> </div>
+        </div>
+  </div>
+    </div>
 <footer>
       <div class="container">
     <div class="row">

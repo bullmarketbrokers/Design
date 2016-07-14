@@ -1,0 +1,190 @@
+@charset "utf-8";
+
+/* bootstrap reset */
+
+
+/* common */
+body {font-family: 'Lato', sans-serif;padding: 0px;font-size: 16px;line-height: 22px;text-align:center}
+.fleft {float:left}
+.fright {float:right}
+.clear {clear:both}
+.fullWidth {width:100%!important}
+.center {text-align:center!important}
+h1 {font-size:40px;font-weight:700;margin-bottom:30px}
+h2 {font-size:32px;font-weight:700;margin-bottom:20px}
+h3 {font-size:28px;font-weight:700;margin-top:20px}
+h4 {font-size:21px;font-weight:700;margin-top:20px}
+.blue {color:#000068}
+h1.blue {margin:60px 0}
+
+
+/* header */
+.navbar-sm {position:absolute;top:10px;right:60px}
+.navbar-default {position: fixed;right: 0;left: 0}
+#div_main_menu .navbar-default {z-index:3}
+.navbar-header {padding:0 15px}
+.navbar-brand {height:auto;padding:5px 15px}
+.navbar-nav > li > a {padding:10px 6px;font-size:12px;border-top:4px solid #fff;margin-top:-4px;color:#000068}
+.navbar-nav a:hover, .navbar-nav .open > a, .navbar-nav .open > a:hover, .navbar-nav .open > a:focus {background-color:#000068!important;border-top:4px solid #000068;color:#fff!important}
+.bottom-menu .dropdown-menu.dark {background-color:rgba(0, 0, 104, .90) !important}
+.bottom-menu .dropdown-menu.dark a:hover {border:none!important;color:#fff!important}
+.navbar-sm {font-size:11px}
+
+.navbar-sm .login {color:#333}
+.navbar-sm a i {margin-right:4px}
+.navbar-sm a {padding:6px 10px}
+.bottom-menu .dropdown-menu.dark a, .bottom-menu .dropdown-menu.dark a:hover {border: none!important;color: #fff!important}
+.navbar .dropdown-toggle .caret {display: none !important;}
+
+/* new home */
+.navbar-sm .account {color:#333}
+.navbar-sm .login {background:#fce126;color:#333;margin-top:-10px}
+section {float:left;width:100%;clear:both}
+.carouselContainer {background:url(../images/slider01.jpg) center top no-repeat;background-size:cover}
+.carouselContainer .carousel-caption {position:relative;top:inherit;left:inherit;right:inherit}
+.carouselContainer .carousel-caption h2 {font-size:24px;font-weight:400;margin:0 0 10px}
+.carouselContainer .carousel-caption p {font-size:14px;line-height:14px;max-width:80%;margin:0 auto 20px}
+.carouselContainer .carousel-caption h2 span {font-weight:900;display:block}
+.carouselContainer .carousel-caption a, .carouselContainer .carousel-caption a:hover {padding:10px 24px;border:1px solid #fff;text-transform:uppercase;color:#fff;font-size:18px;margin-top:8px;display:inline-block;text-decoration:none}
+.carouselContainer .carousel-caption a i {font-size:20px;margin-left:10px;display:inline-block}
+.homepage h1 {font-size:30px;font-weight:400;color:#333}
+.homepage section {padding:40px 0}
+.homepage .tools {background:#ebebeb}
+.homePill {font-size:21px;display:inline-block;padding:20px;width:100%;margin-top:20px}
+.homePill i {color:#bcbcbc;font-size:70px;display:inline-block;margin-bottom:20px}
+.homePill span {display:block}
+.homePill .description {font-size:16px;position:absolute;width:100%;height:100%;padding:20px;background:rgba(217,217,217,0.85);top:0;left:0;visibility: hidden;opacity: 0;transition: visibility 0s, opacity 0.3s linear;}
+.homePill .description b {display:block;margin-top:6px;padding-top:4px;border-top:1px solid #ccc}
+.homePill .description b i {font-size:13px;color:#666;font-style:normal;text-align:center;margin-bottom:0;width:16px;height:16px;border:1px solid #666;margin:0 0 0 4px;border-radius:16px;line-height:14px}
+.homePill, .homePill:hover, .homePill:focus {color:#666;text-decoration:none;position:relative}
+.homePill:hover .description {visibility: visible;opacity: 1}
+.stepsContainer {position:relative;margin-top:60px}
+section.steps {background:#fff}
+section.steps .col-xs-12 {text-align:center}
+.stepsContainer hr {position:absolute;width:900px;margin:0 auto;top:30px;left:120px;border-color:#333;display:none}
+section.steps .number {width:60px;height:60px;line-height:54px;font-size:36px;border-radius:60px;border:1px solid #333;display:block;margin:0 auto;background:#fff}
+section.steps img {display:block;margin:30px auto}
+section.steps p {text-transform:uppercase;font-size:16px}
+section.educacion {background:url(../images/slider02.jpg) top left no-repeat;background-size:cover}
+section.educacion h1 {color:#fff}
+section.educacion .pill {background:rgba(255,255,255,0.2);color:#fff;position:relative}
+section.educacion .pill h3 {background:#fff;color:#333;padding:10px 20px;font-size:21px;font-weight:normal}
+section.educacion .pill a, section.educacion .pill a:hover {border-top:1px solid #fff;color:#fff;font-size:21px;font-weight:bold;text-transform:uppercase;display:block;padding:15px 0;position:absolute;bottom:0;left:5%;width:90%;text-decoration:none}
+section.educacion .pill p {padding:10px 20px 20px}
+section.benefits {background:url(../images/slider04.jpg) center top no-repeat;background-size:cover}
+#accordion-first .accordion-group {margin-bottom: 10px}
+#accordion-first .accordion-heading {border-bottom: 0px none;font-size: 16px;}
+#accordion-first .accordion-heading .accordion-toggle {display: block;cursor: pointer;padding: 15px 15px !important;outline: medium none !important;text-decoration: none;position:relative;background:rgba(255,255,255,0.25);text-align:left;color:#333;font-size:21px}
+.accordion-inner {text-align:left;padding:0 40px 20px 15px;background:rgba(255,255,255,0.25)}
+#accordion-first .accordion-heading .accordion-toggle > em {position:absolute;right:15px;top:9px;font-size:30px}
+#accordion-first .fa-minus:before {content:"_"}
+#accordion-first .accordion-heading .accordion-toggle > em.fa-minus {top:-6px}
+#accordion-first .fa-plus:before {content:"+"}
+section.account {background:url(../images/slider05.jpg) top center no-repeat;background-size:cover;margin-bottom:60px}
+section.account p {font-size:24px}
+section.account a, section.account a:hover {text-transform:uppercase;font-size:30px;padding:15px 40px;color:#333;border:1px solid #333;margin:80px 0 100px;display:inline-block;text-decoration:none}
+section.account a i {font-size:36px;margin-left:10px}
+section.account h1 {margin-bottom:60px}
+.next {background:rgba(255,255,255,0.3);padding:4px 10px;display:inline-block;margin-top:4px}
+.exclusive {display:block;background:#000068;color:#fff;margin:-10px -2px 0;padding:4px 0;font-size:.85em}
+
+/* footer */
+footer {font-size:11px;padding:30px 0;background:#f6f6f6;margin-top:40px;line-height:18px;text-align:left}
+footer, footer h3 {color:#4d4d4d}
+footer h3 {margin:0;padding:0 0 6px;font-size:21px}
+.footerSocial {padding-right:0;line-height:22px}
+.footerSocial a {color:#fff;background:#4d4d4d;text-align:center;width:18%;margin-right:2px;padding:4px;font-size:20px;float:left}
+footer .brands {padding: 30px 0 10px}
+footer hr {border:0;border-bottom:1px solid #ccc}
+#jssor_1 {position: relative; margin: 0 auto; top: 0px; left: 0px; height: 52px; overflow: hidden; visibility: hidden;}
+.footLogos {cursor: default; position: relative; top: 0px; left: 0px; height: 52px; overflow: hidden;}
+.footLogos img {width:90%}
+
+@media (max-width: 767px) {
+	.top {margin-top:40px}
+	.navbar-nav {margin:0;text-align:left}
+    .navbar-nav .open .dropdown-menu > li > a {color: #fff !important;}
+    .navbar-nav > li {border-bottom:1px solid #eee}
+    .navbar-nav > li > a {border:none!important;padding:10px 15px}
+    .footerSocial {padding-bottom:20px}
+	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
+	.navbar-default .navbar-toggle {border-color: #ddd;}		
+	/* new home */
+	.carouselContainer {margin-top:64px}
+	section.steps p {margin-bottom:60px}
+	section.educacion .pill {padding-bottom:50px}
+}
+
+@media (min-width: 480px) {
+	/* new home */
+	.carouselContainer .carousel-caption h2 {margin-top:15px}
+}
+
+@media (min-width: 768px) {
+	footer h3 {font-size:18px;margin:0 0 4px}
+	.footerSocial a {font-size:14px}
+	footer .bmb {border-left: solid 1px #848484}
+    .div-media-logo {margin-top: -45px}
+    .hidden-sm {display:none!important}
+    .navbar-default {background:#eee;border:none;border-bottom:1px solid #fce126;position:relative}
+    .navbar-sm {position:relative;background:#fff;top:0;right:0;padding:5px 0}
+	.footerSocial a {font-size:12px}
+    .navbar-header {position:relative}
+    .navbar-brand {position:absolute;top:-10px;left:15px;width:120px;padding:0}
+    .navbar-brand img {width:100%}
+    .navbar-nav > li > a {padding: 10px 4px;font-size: 10px}
+    .dropdown-menu > li > a {padding:4px 20px}
+    .navbar-sm .phone:hover, .navbar-sm .account:hover {text-decoration:none;background:#f6f6f6}
+    .navbar-sm .phone {color:#333}
+    footer .brands img {max-width:94px;margin:0 2px}
+    h1 {font-size:40px;}
+    h2 {font-size:36px;}		
+	.top h4 {font-size:24px}
+	/* new home */
+	.navbar-sm .phone {border-left:1px solid #666}
+	.homepage h1 {font-size:45px;font-weight:300}
+	.carouselContainer .carousel-caption h2 {margin-top:0}
+	.carouselContainer {margin-top:-20px}
+	section.educacion .pill {height:240px}
+}
+@media (min-width: 992px) {
+	footer h3 {font-size:21px}
+	.footerSocial a {font-size:19px}
+    .navbar-brand {width:200px;top:-28px}
+    .navbar-nav > li > a {padding:10px;font-size:11px}
+    .navbar-sm {font-size:12px;padding:13px 0 12px}
+    .main-select-stock-account {width: 240px}
+    footer .brands img {max-width:115px;margin:0 5px}	
+	h1 {font-size:50px}
+	.top h4 {font-size:20px}
+	.top .box {height:300px;padding-bottom:0}
+	.accordionPanel .panel-default>.panel-heading a {font-size:20px}
+	/* new home */
+	.carouselContainer .carousel-caption a, .carouselContainer .carousel-caption a:hover {font-size:24px}
+	.carouselContainer .carousel-caption a i {font-size:28px}
+	.carouselContainer .carousel-caption h2 {margin-top:10px;font-size:40px}
+	.carouselContainer .carousel-caption p {font-size:16px;line-height:20px}
+	.stepsContainer hr {display:block;width:700px}
+	section.educacion .pill a, section.educacion .pill a:hover, section.educacion .pill h3 {font-size:18px} 
+	section.educacion .pill {height:300px}
+}
+@media (min-width: 1200px) {
+	footer h3 {font-size:24px}
+	.footerSocial a {font-size:20px}
+    .navbar-brand {width:220px;top:-34px}
+    .navbar-nav > li > a {padding:10px 14px;font-size:13px}
+    .navbar-sm {font-size:13px}
+    footer .brands img {max-width:none;margin:0 4px} 
+	h1 {font-size:60px}	
+	.top h4 {font-size:24px}
+	/* new home */
+	.carouselContainer .carousel-caption a, .carouselContainer .carousel-caption a:hover {font-size:30px}
+	.carouselContainer .carousel-caption a i {font-size:36px}
+	.carouselContainer .carousel-caption h2 {margin-top:30px;font-size:60px}
+	.carouselContainer .carousel-caption p {font-size:24px;line-height:30px;margin-bottom:20px}	
+	.homepage h1 {font-size:52px}
+	section.educacion .pill h3 {padding:10px 35px}
+	.stepsContainer hr {display:block;width:900px}
+	section.educacion .pill h3, section.educacion .pill a, section.educacion .pill a:hover {font-size:21px}
+}

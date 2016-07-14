@@ -37,7 +37,7 @@
             <i class="arrow fa fa-angle-down"></i>
             <p><b>No se necesitan conocimientos previos sobre finanzas</b></p>
             <p>Est&aacute; enfocado a cualquier rango de edad y nivel educativo como as&iacute; tambi&eacute;n a cualquier profesional</p>
-            <!--a href="https://www.eventbrite.com.ar/e/curso-online-de-estrategia-con-opciones-tickets-25179154529" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a-->
+            <a href="https://www.eventbrite.com.ar/e/curso-online-de-estrategia-con-opciones-tickets-25179154529" class="btn whiteBtn" target="_blank">Inscribirme Ahora<i class="fa fa-check-circle"></i></a>
             <a href="../images/Programa_Bull_Training_Opciones_Futuros_Online.pdf" class="btn borderBtn" target="_blank">Descargar Programa<i class="fa fa-file-pdf-o"></i></a>
 			<a class="btn btn-primary" href="http://www.cursos-de-bolsa.com.ar"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Volver a Cursos</a>
         </div>
@@ -51,16 +51,16 @@
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Aranceles</h2>
-                <p><b>$AR 1400</b></p>
-                <p>para clientes de Bull Market Brokers</p>
                 <p><b>$AR 1600</b></p>
+                <p>para clientes de Bull Market Brokers</p>
+                <p><b>$AR 1800</b></p>
                 <p>para no clientes</p>
-                <p><b>$AR 1200</b></p>
+                <p><b>$AR 1400</b></p>
                 <p>para alumnos regulares</p>                   
-            </div>   
+            </div>  
             <div class="col-xs-12 highlight">
                 <i class="fa fa-info-circle" aria-hidden="true"></i> Se enviará un link para ingresar a la plataforma online unos días previos al inicio del curso.
-            </div>                       
+            </div>          
         </div>
     </div>
     <div class="freddy">
@@ -73,7 +73,7 @@
     	<div class="container">
         	<h1>Consultas</h1>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
-                <input type="hidden" name="about" value="BullTraining" />
+                <input type="hidden" name="about" value="BullTraining Curso de Opciones y Futuros Online" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/error.php" />
                 <input type="hidden" name="urlBack" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/contactoRes.php" />
                 <input type="hidden" name="urlFrom" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/index.php" />
