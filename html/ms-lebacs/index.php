@@ -10,6 +10,7 @@
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">  
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,100,700,900' rel='stylesheet' type='text/css'>
 	<script>
@@ -61,7 +62,7 @@
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Cuadro Comparativo</h2>
-                <small class="date">Actualizado al 26.05.2016</small>
+                <small class="date">Actualizado al 30.11.2016</small>
 				<table class="fullWidth lebacs">
                 	<thead>
                     	<tr>
@@ -72,22 +73,22 @@
                     <tbody>
                     	<tr>
                         	<td>
-                            	<small>34 d&iacute;as</small>
-                                <span>35.25%</span>
+                            	<small>35 d&iacute;as</small>
+                                <span>25.75%</span>
                             </td>
                             <td>
-                            	<small>30 d&iacute;as</small>
-                                <span>28.50%</span>                            
+                            	<small>35 d&iacute;as</small>
+                                <span>17.75%</span>                            
                             </td>
                         </tr>
                     	<tr>
                         	<td>
-                            	<small>97 d&iacute;as</small>
-                                <span>32.25%</span>
+                            	<small>77 d&iacute;as</small>
+                                <span>24.23%</span>
                             </td>
                             <td>
-                            	<small>90 d&iacute;as</small>
-                                <span>28.50%</span>                            
+                            	<small>77 d&iacute;as</small>
+                                <span>18.25%</span>                            
                             </td>
                         </tr>                        
                     </tbody>
@@ -189,7 +190,16 @@
                         </ul>
                     </a>
                 </div> 
-            </div>          
+            </div>      
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <a class="recItem" href="http://www.blanqueocapitales.com.ar" target="_blank">
+                    	<h4>Blanqueo de Capitales</h4>
+                    	<img src="images/ad-blanqueo.jpg" alt="Blanqueo">
+                        <p>Todo lo que querías saber sobre el Blanqueo de Capitales y cómo aprovecharlo. Informate sobre cómo blanquear a un menor costo y al mismo tiempo, invertir en un bono líquido con un muy buen retorno en dólares</p>
+                    </a>
+                </div>                     
+            </div>    
         </div>
     </div>
     <footer>
@@ -232,37 +242,17 @@
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
                     <div class="brands fullWidth">
-                        <div id="jssor_1" class="fullWidth">
-                            <div data-u="slides" class="footLogos fullWidth">
-                                <div style="display: none;">
-                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a>
-                                </div>
-                            </div>
-                        </div>
+                        <div id="owl-demo">
+                          <div class="item"><a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a></div>
+                          <div class="item"><a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a></div>
+                          <div class="item"><a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a></div>
+                          <div class="item"><a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a></div>
+                          <div class="item"><a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a></div>
+                          <div class="item"><a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a></div>
+                          <div class="item"><a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a></div>
+                          <div class="item"><a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a></div>
+                          <div class="item"><a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a></div>  
+                        </div>                          
                     </div>           
                 </div>
             </div>
@@ -276,7 +266,7 @@
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/jquery.validate.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/jssor.slider.mini.js"></script>
+    <script src="js/owl.carousel.js"></script>
 	<script type="text/javascript">
 		function codeLatLng(lat, lng, callback) {
 			var response = [];
@@ -295,36 +285,21 @@
 			});
 		}		
         jQuery(document).ready(function ($) {
-            var jssor_1_options = {
-              $AutoPlay: true,
-              $Idle: 0,
-              $AutoPlaySteps: 4,
-              $SlideDuration: 1600,
-              $SlideEasing: $Jease$.$Linear,
-              $PauseOnHover: 4,
-              $SlideWidth: 140,
-              $Cols: 8
-            };
-            
-            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
-            
-            //responsive code begin
-            //you can remove responsive code if you don't want the slider scales while window resizing
-            function ScaleSlider() {
-                var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
-                if (refSize) {
-                    refSize = Math.min(refSize, 945);
-                    jssor_1_slider.$ScaleWidth(refSize);
-                }
-                else {
-                    window.setTimeout(ScaleSlider, 30);
-                }
-            }
-            ScaleSlider();
-            $(window).bind("load", ScaleSlider);
-            $(window).bind("resize", ScaleSlider);
-            $(window).bind("orientationchange", ScaleSlider);
-            //slider code end
+                     //owl footer brands carousel start
+		   
+		  $("#owl-demo").owlCarousel({
+		 
+			  autoPlay: 3000, 
+		 
+			  items : 6,
+			  itemsDesktop : [1199,5],
+			  itemsDesktopSmall : [979,4],
+			  itemsTablet : [768,3],
+			  itemsMobile : [479,2],
+			  stopOnHover : true,
+		 
+		  });	
+		  //owl footer brands carousel end	
 			
 			if (navigator.geolocation) {
 			   navigator.geolocation.getCurrentPosition(function (position) {

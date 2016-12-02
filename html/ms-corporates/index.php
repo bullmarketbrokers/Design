@@ -10,6 +10,7 @@
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">  
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,100,300,700,900' rel='stylesheet' type='text/css'>
 	<script>
@@ -45,6 +46,7 @@
     <div class="top">
     	<div class="topContainer">
             <div class="container">
+            	<h1>BULL CORPORATES</h1>
                 <h3>"Potencie las finanzas de su empresa, conociendo y aprovechando los instrumentos que ofrece el mercado de capitales"</h3>
                 <a href="#contacto" class="border">Cont&aacute;ctenos</a>
             </div>
@@ -137,8 +139,8 @@
                 <div class="col-xs-12">
                     <p class="light">Para acceder al servicio, se debe contactar con un asesor financiero, que le indicará los pasos a seguir para realizar una apertura de cuenta. Para facilitar el proceso puede completar el siguiente cuestionario:</p>
                     <br>
-                    <button type="button" class="btn btn-primary btn-lg btnBrown">Pr&oacute;ximamente <i class="fa fa-pencil" aria-hidden="true"></i></button>                                                                       
-                    <!--button type="button" class="btn btn-primary btn-lg btnBrown" data-toggle="modal" data-target="#myModal">Lanzar cuestionario <i class="fa fa-pencil" aria-hidden="true"></i></button-->                                                                       
+                    <!--button type="button" class="btn btn-primary btn-lg btnBrown">Pr&oacute;ximamente <i class="fa fa-pencil" aria-hidden="true"></i></button-->                                                                       
+                    <button type="button" class="btn btn-primary btn-lg btnBrown" data-toggle="modal" data-target="#myModal">Lanzar cuestionario <i class="fa fa-pencil" aria-hidden="true"></i></button>                                                                       
                 </div>
             </div>
        </div>
@@ -210,37 +212,17 @@
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
                     <div class="brands fullWidth">
-                        <div id="jssor_1" class="fullWidth">
-                            <div data-u="slides" class="footLogos fullWidth">
-                                <div style="display: none;">
-                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a>
-                                </div>
-                            </div>
-                        </div>
+                        <div id="owl-demo">
+                          <div class="item"><a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a></div>
+                          <div class="item"><a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a></div>
+                          <div class="item"><a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a></div>
+                          <div class="item"><a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a></div>
+                          <div class="item"><a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a></div>
+                          <div class="item"><a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a></div>
+                          <div class="item"><a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a></div>
+                          <div class="item"><a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a></div>
+                          <div class="item"><a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a></div>  
+                        </div>                         
                     </div>           
                 </div>
             </div>
@@ -256,7 +238,7 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-body">
-        <iframe src="https://docs.google.com/forms/d/1GfTTW1rdk-GjeWFQkNIf9-VXX9x1CccRWovMrjUeqPw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width:100%;height:100%;position:relative">Cargando...</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpbMyhYlmKInFavDiznR1ciooz5cC-lnzYsfl3ZVs8Pa0hxw/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
@@ -274,7 +256,7 @@
       <div class="modal-body softGrayBg">
         <img src="images/graph1.png" alt="financiamiento de corto plazo" class="fullWidth">
         <hr>
-        <!--p class="light">Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla </p-->
+        <p class="light">La firma recibe CPD de sus clientes, luego de gestionar una línea de avales con una SGR, los cheques avalados son negociados en el mercado de capitales. BMB acredita los fondos en la cuenta comitente de la firma, para posteriormente aplicar al pago de sus proveedores, mejorar su capital de trabajo o cubrir necesidades de financiamiento de corto plazo.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
@@ -288,12 +270,12 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="myModalLabel">Financiamiento de largo plazo</h4>
+        <h4 class="modal-title" id="myModalLabel">Manjo de Fondos de corto plazo</h4>
       </div>
       <div class="modal-body softGrayBg">
         <img src="images/graph2.png" alt="financiamiento de largo plazo" class="fullWidth">
         <hr>
-        <!--p class="light">Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla Lorem ipsum bla bla </p-->
+        <p class="light">La firma puede aprovechar la disponibilidad de fondos de corto y mediano plazo (como reservas, previsiones y capital de trabajo) para aplicarlo a inversiones bursátiles de alta liquidez, como cauciones bursátiles y lebacs.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
@@ -303,7 +285,7 @@
 </div>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/jssor.slider.mini.js"></script>
+    <script src="js/owl.carousel.js"></script>
     <script src="js/jquery.validate.js"></script>
     <script src="js/custom.js"></script>
   </body>

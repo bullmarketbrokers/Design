@@ -10,6 +10,7 @@
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,100,300,700,900' rel='stylesheet' type='text/css'>
 	<script>
@@ -30,7 +31,7 @@
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar"> <span class="glyphicon glyphicon-align-justify"></span> </button>
-            <a class="navbar-brand" href="#top"> <img src="images/logo-mobile.png" class="hidden-sm" alt="Bull Market Advisors"> <img src="images/logo-bull.jpg" class="img-logo hidden-xs" alt="Bull Market Advisors"> </a> </div>
+            <a class="navbar-brand" href="/"> <img src="images/logo-mobile.png" class="hidden-sm" alt="Bull Market Advisors"> <img src="images/logo-bull.jpg" class="img-logo hidden-xs" alt="Bull Market Advisors"> </a> </div>
           <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
 				<li><a href="#" class="empty">.</a></li>
@@ -98,37 +99,17 @@
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
                     <div class="brands fullWidth">
-                        <div id="jssor_1" class="fullWidth">
-                            <div data-u="slides" class="footLogos fullWidth">
-                                <div style="display: none;">
-                                    <a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a>
-                                </div>
-                                <div style="display: none;">
-                                    <a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a>
-                                </div>
-                            </div>
-                        </div>
+                        <div id="owl-demo">
+                          <div class="item"><a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a></div>
+                          <div class="item"><a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="images/logofooter-46.png" alt="Caja de Valores" /></a></div>
+                          <div class="item"><a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a></div>
+                          <div class="item"><a href="http://www.merval.sba.com.ar/default.aspx" target="_blank"><img src="images/logofooter-48.png" alt="Mercado de Valores de Buenos Aires Merval" /></a></div>
+                          <div class="item"><a href="http://www.economia.gob.ar/" target="_blank"><img src="images/logofooter-49.png" alt="Ministerio de Econom&iacute;a" /></a></div>
+                          <div class="item"><a href="http://www.rofex.com.ar/" target="_blank"><img src="images/logofooter-50.png" alt="Rofex" /></a></div>
+                          <div class="item"><a href="http://www.mervaros.com.ar/" target="_blank"><img src="images/logofooter-51.png" alt="Mercado Argentino de Valores" /></a></div>
+                          <div class="item"><a href="https://www.nyse.com/index" target="_blank"><img src="images/logofooter-52.png" alt="NYSE" /></a></div>
+                          <div class="item"><a href="http://www.nasdaq.com/" target="_blank"><img src="images/logofooter-53.png" alt="Nasdaq" /></a></div>  
+                        </div>                         
                     </div>           
                 </div>
             </div>
@@ -141,7 +122,7 @@
     </footer>   
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
-    <script src="js/jssor.slider.mini.js"></script>
+    <script src="js/owl.carousel.js"></script>
     <script src="js/custom.js"></script>
   </body>
 </html>
