@@ -26,7 +26,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topOpciones">
         <div class="container">
-            <h1 class="big">Curso de Opciones y Futuros</h1>
+            <h2 class="big">Curso de Opciones y Futuros</h2>
             <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y de la cobertura permitiendo reducir los riesgos de las inversiones.<br><br>El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas “Estrategias con Opciones.</p>
             <br>
         </div>
@@ -61,14 +61,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Mariano Luciano A. Mussino Stauber</h1>
+    	<h2 class="main-title">Curso dictado por Mariano Luciano A. Mussino Stauber</h2>
         <img src="../images/mariano.jpg" alt="Mariano Luciano A. Mussino Stauber">
         <p><b>Contador Público (UCASAL) - Posgrado de Especialista en Mercado de Capitales (UBA)</b></p>
         <span>Programa Experto en Derivados (Rofex)</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining Curso de Opciones y Futuros" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturos/error.php" />

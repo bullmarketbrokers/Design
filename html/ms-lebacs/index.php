@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>LEBACS :: Bull Market Brokers</title>
-    <meta name="keywords" content="lebacs en dolares, lebacs bcra, lebacs 2016, lebacs como comprar, lebacs cotizacion, lebacs licitacion, lebacs argentina, lebacs a 35 dias, lebac a 90 dias, lebac a 30 dias, lebac comprar, lebac cotizaciones, lebac como funcionan, cotizaciones lebacs, lebacs donde comprar"/>
-    <meta name="description" content="Inversiones en Lebcs a través de Bull Market Brokers"/>    
+    <title>Invertir en lebacs, aprendé a comprar y operar lebacs | BMB</title>
+    <meta name="keywords" content="lebacs, lebacs argentina, lebac comprar, lebac cotizaciones, lebac como funcionan"/>
+    <meta name="description" content="Aprendé todo sobre Lebacs y obtené el mejor retorno, Te mostramos las mejores formas de invertir en lebacs!"/>    
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -28,6 +28,7 @@
   	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
+        	<h1 class="slogan">Invertir en lebacs, aprendé a comprar y operar lebacs</h1>
         	<div class="col-xs-1"></div>
         	<div class="grayBox col-xs-10">
                 <h1>Invierta en LEBACS</h1>
@@ -42,7 +43,7 @@
     </div>
     <div class="course blueBg">
     	<div class="container">
-            <h1>¿Qué es una LEBAC?</h1>
+            <h2 class="main-title">¿Qué es una LEBAC?</h2>
             <p>Las Letras del Banco Central, son títulos a distintos plazos que licita la autoridad monetaria los martes de cada semana con el fin de regular la base monetaria. Se negocia la tasa de interés dada como tasa de descuento. El total del capital se paga al vencimiento funcionando como un bono cupón cero, es decir, que amortizan la totalidad del capital al vencimiento y no hacen pagos de interés.</p>
             <h3>¿Cómo se operan?</h3>
             <p>Se pueden cargar las ordenes desde nuestra página web, a través de nuestra plataforma on-line, indicando el plazo y monto a licitar.</p>
@@ -62,7 +63,7 @@
             </div>
         	<div class="col-xs-12 col-sm-6">
             	<h2>Cuadro Comparativo</h2>
-                <small class="date">Actualizado al 30.11.2016</small>
+                <small class="date">Actualizado al 28.12.2016</small>
 				<table class="fullWidth lebacs">
                 	<thead>
                     	<tr>
@@ -74,21 +75,21 @@
                     	<tr>
                         	<td>
                             	<small>35 d&iacute;as</small>
-                                <span>25.75%</span>
+                                <span>24.75%</span>
                             </td>
                             <td>
                             	<small>35 d&iacute;as</small>
-                                <span>17.75%</span>                            
+                                <span>17.50%</span>                            
                             </td>
                         </tr>
                     	<tr>
                         	<td>
                             	<small>77 d&iacute;as</small>
-                                <span>24.23%</span>
+                                <span>24.25%</span>
                             </td>
                             <td>
                             	<small>77 d&iacute;as</small>
-                                <span>18.25%</span>                            
+                                <span>18.00%</span>                            
                             </td>
                         </tr>                        
                     </tbody>

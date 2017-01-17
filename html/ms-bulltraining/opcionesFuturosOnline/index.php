@@ -26,7 +26,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topOpcionesOn">
         <div class="container">
-            <h1 class="big">Curso Online de Estrategia con Opciones</h1>
+            <h2 class="big">Curso Online de Estrategia con Opciones</h2>
             <p>Las opciones financieras son derivados cuyos posibles usos atienden a: la especulación producto del apalancamiento que proveen, y la cobertura permitiendo reducir los riesgos de las inversiones. El curso pretende acercar al inversor a estos activos, herramienta importante para una gestión más completa de la cartera. <br><br>Con especial atención al mercado local y con ejemplo prácticos, se parte desde un nivel inicial básico, para ir lentamente entendiendo su funcionamiento y su combinación con diferentes posiciones que originan las llamadas “Estrategias con Opciones”.</p>
             <br>
         </div>
@@ -63,14 +63,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Germán Marin</h1>
+    	<h2 class="main-title">Curso dictado por Germán Marin</h2>
         <img src="../images/german.jpg" alt="Germán Marin">
         <p><b>Contador Público Nacional (U.N.L.) - Asesor Financiero Certificado<br>Especialista en Opciones Financieras - Productor en Bull Market Brokers</b></p>
         <span>Trayectoria de 7 años en Merval<br>Encargado sección Opciones en revista “5 Ruedas”<br><b>Facebook:</b> Estrategias con Opciones Financieras</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining Curso de Opciones y Futuros Online" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline/error.php" />

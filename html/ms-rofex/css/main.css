@@ -10,7 +10,8 @@ body {font-family: 'Lato', sans-serif;padding: 0px;font-size: 16px;line-height: 
 .clear {clear:both}
 .fullWidth {width:100%!important}
 .center {text-align:center!important}
-h1 {font-size:40px;font-weight:700;margin-bottom:30px}
+h2.main-title {font-size:40px;font-weight:700;margin-bottom:30px}
+.top .main-title {color:#fff}
 h2 {font-size:32px;font-weight:700;margin-bottom:20px}
 h3 {font-size:28px;font-weight:700;margin-top:20px}
 h4 {font-size:21px;font-weight:700;margin-top:20px}
@@ -25,6 +26,8 @@ form textarea {height:160px}
 form input.error, form textarea.error {border:1px solid #DC0000}
 form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;text-align:left}
 .blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
+.top .container {position:relative}
+h1.slogan {font-size:14px;font-weight:normal;color:#fff}
 
 /* header */
 .navbar-sm {position:absolute;top:10px;right:60px}
@@ -103,7 +106,8 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .footerSocial {padding-bottom:20px}
 	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
-	.navbar-default .navbar-toggle {border-color: #ddd;}		
+	.navbar-default .navbar-toggle {border-color: #ddd;}	
+	h1.slogan {margin-top:-54px}	
 }
 
 @media (min-width: 768px) {
@@ -123,9 +127,10 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-sm .phone:hover, .navbar-sm .login:hover {text-decoration:none;background:#f6f6f6}
     .navbar-sm .phone {color:#333}
     footer .brands img {max-width:94px;margin:0 2px}
-    h1 {font-size:40px;}
+    h2.main-title {font-size:40px;}
     h2 {font-size:36px;}		
 	.top h4 {font-size:24px}
+	h1.slogan {position:absolute;top:-64px;right:30px}
 }
 @media (min-width: 960px) {
 	footer h3 {font-size:21px}
@@ -135,7 +140,7 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-sm {font-size:12px;padding:13px 0 12px}
     .main-select-stock-account {width: 240px}
     footer .brands img {max-width:115px;margin:0 5px}	
-	h1 {font-size:50px}
+	h2.main-title {font-size:50px}
 	.top h4 {font-size:20px}
 	.top .box {height:300px;padding-bottom:0}
 	.accordionPanel .panel-default>.panel-heading a {font-size:20px}
@@ -147,6 +152,6 @@ footer hr {border:0;border-bottom:1px solid #ccc}
     .navbar-nav > li > a {padding:10px 14px;font-size:13px}
     .navbar-sm {font-size:13px}
     footer .brands img {max-width:none;margin:0 4px} 
-	h1 {font-size:60px}	
+	h2.main-title {font-size:60px}	
 	.top h4 {font-size:24px}
 }

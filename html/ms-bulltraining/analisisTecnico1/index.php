@@ -26,7 +26,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topAn1">
         <div class="container">
-            <h1 class="big">Curso de Análisis Técnico Cualitativo</h1>
+            <h2 class="big">Curso de Análisis Técnico Cualitativo</h2>
             <p>Dirigido a clientes y no clientes que quieren comenzar a conocer y profundizar los conocimientos en inversiones as&iacute; como tambi&eacute;n los clientes que quieran conocer una serie de herramientas de an&aacute;lisis t&eacute;cnico que les permita realizar inversiones en forma inteligente y veloz.</p>
             <br>
         </div>
@@ -61,14 +61,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Freddy Vieytes</h1>
+    	<h2 class="main-title">Curso dictado por Freddy Vieytes</h2>
         <img src="../images/freddy.jpg" alt="Freddy Vieytes">
         <p><b>Mag&iacute;ster en Finanzas, UTDT. Analista independiente.</b></p>
         <span>Desarrolla cursos de An&aacute;lisis T&eacute;cnico, Renta Fija y Opciones</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining Curso An&aacute;lisis T&eacute;cnico 1" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnico1/error.php" />

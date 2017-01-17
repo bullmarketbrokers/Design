@@ -32,7 +32,7 @@
     	<div class="container">
         	<div class="col-xs-12">
             	<br><br>
-            	<h1>Gracias por contactarnos</h1>
+            	<h2 class="main-title">Gracias por contactarnos</h2>
                 <p>Su consulta ser&aacute; respondida a la brevedad</p>
                 <a href="http://www.operarenrofex.com.ar/" class="btn blueBtn">Volver</a>
             </div>       

@@ -28,7 +28,7 @@
     <div class="info">
     	<div class="container">
         	<div class="col-xs-12">
-            	<h1>Gracias por contactarnos</h1>
+            	<h2 class="main-title">Gracias por contactarnos</h2>
                 <p>Su consulta ser&aacute; respondida a la brevedad</p>
                 <a href="http://www.cursos-de-bolsa.com.ar/opcionesFuturosOnline" class="btn blueBtn">Volver</a>
             </div>       

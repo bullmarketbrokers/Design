@@ -30,7 +30,7 @@
     <div class="info">
     	<div class="container">
         	<div class="col-xs-12">
-            	<h1>Se ha producido un error</h1>
+            	<h2 class="main-title">Se ha producido un error</h2>
                 <p>Por favor reintente m&aacute;s tarde</p>
                 <a href="http://invertirenlebacs.com.ar/" class="btn blueBtn">Volver</a>
             </div>       

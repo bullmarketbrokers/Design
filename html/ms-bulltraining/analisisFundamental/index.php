@@ -26,7 +26,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topAn3">
         <div class="container">
-            <h1 class="big">Curso de An&aacute;lisis Fundamental</h1>
+            <h2 class="big">Curso de An&aacute;lisis Fundamental</h2>
             <p>El curso de Análisis Fundamental brinda a los inversores una potente herramienta para el manejo de sus inversiones. Propone fundamentos sólidos para realizar o no una inversión, lo que brinda sus frutos especialmente en momentos de inestabilidad en los mercados.</p>
             <br>
         </div>
@@ -61,14 +61,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Maximiliano Romero</h1>
+    	<h2 class="main-title">Curso dictado por Maximiliano Romero</h2>
         <img src="../images/maxi.jpg" alt="Maximiliano Romero">
         <p><b>Contador Público Nacional (UNCuyo). Especialista en Mercado de Capitales (UBA).</b></p>
         <span>Especialista en Derivados (ROFEX)</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining Curso An&aacute;lisis Fundamental" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisFundamental/error.php" />

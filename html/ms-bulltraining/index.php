@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bull Training :: Bull Market Brokers</title>
-    <meta name="keywords" content="curso de bolsa, an&aacute;lisis t&eacute;cnico,  curso de inversiones, aprender de bolsa, curso an&aacute;lisis t&eacute;cnico"/>
-    <meta name="description" content="Cursos de Bolsa para poder aprender y generar mayores ingresos de sus inversiones. Cursos de an&aacute;lisis tecnico para poder sacar ventaja cuando invierte en Bolsa"/>
+    <title>Cursos de bolsa, aprender a invertir en bolsa | BMB</title>
+    <meta name="keywords" content="curso de bolsa, curso de inversiones, aprender de bolsa"/>
+    <meta name="description" content="Aprende a invertir en bolsa, Contactanos y registrate en nuestros cursos de bolsa!"/>
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -27,13 +27,15 @@
     <body>
 <?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
 <div class="top">
-      <div class="container"> <img src="images/bt.png" alt="Bull Training">
+      <div class="container">
+      	<h1 class="slogan">Cursos de bolsa, aprender a invertir en bolsa</h1>
+      <img src="images/bt.png" alt="Bull Training">
     <p>BMB Training es un espacio de formaci&oacute;n para inversores o personas interesadas en el mundo burs&aacute;til. Somos todos profesionales en finanzas y econom&iacute;a y nuestro objetivo es poder transmitir el conocimiento en lo que refiere a inversiones y educar a las personas para que puedan utilizar este medio como forma de inversi&oacute;n.</p>
   </div>
     </div>
 <div class="course courses">
       <div class="container"> <i class="arrow fa fa-angle-down"></i>
-    <h1>Cursos de Capacitaci&oacute;n</h1>
+    <h2 class="main-title">Cursos de Capacitaci&oacute;n</h2>
     <div class="row">
           <div class="col-xs-12 col-sm-4">
         <div class="borderBox">
@@ -89,7 +91,7 @@
         </div>
        
     <hr style="margin:40px 0">
-    <h1>Calendario de Cursos</h1>
+    <h2 class="main-title">Calendario de Cursos</h2>
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=3boq0ui49f1ru7g7c4f8qtggbc%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FArgentina%2FBuenos_Aires" style="border-width:0;width:100%;height:600px" frameborder="0" scrolling="no"></iframe>
   </div>
     </div>
@@ -97,7 +99,7 @@
       <div class="container"> <br>
     <hr>
     <br>
-    <h1>Links de inter&eacute;s</h1>
+    <h2 class="main-title">Links de inter&eacute;s</h2>
     <div class="row">
           <div class="col-xs-12 col-sm-6"> <a class="recItem" href="http://inversionesenbolsa.com.ar/" target="_blank">
             <h4>Bolsa</h4>

@@ -28,7 +28,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topAn2">
         <div class="container">
-            <h1 class="big">Curso An&aacute;lisis T&eacute;cnico Cuantitativo</h1>
+            <h2 class="big">Curso An&aacute;lisis T&eacute;cnico Cuantitativo</h2>
             <p>El curso de Análisis Técnico Avanzado se complementa con el <a href="http://www.cursos-de-bolsa.com.ar/analisisTecnico1">inicial</a>, no son correlativos. Se enfoca en la parte cuantitativa del análisis técnico. Es un curso muy práctico que permite una toma de decisiones sólida para cada inversión.</p>
             <br>
         </div>
@@ -62,14 +62,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Freddy Vieytes</h1>
+    	<h2 class="main-title">Curso dictado por Freddy Vieytes</h2>
         <img src="../images/freddy.jpg" alt="Freddy Vieytes">
         <p><b>Mag&iacute;ster en Finanzas, UTDT. Analista independiente.</b></p>
         <span>Desarrolla cursos de An&aacute;lisis T&eacute;cnico, Renta Fija y Opciones</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining  Curso An&aacute;lisis T&eacute;cnico Avanzado" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/analisisTecnicoAvanzado/error.php" />
@@ -131,8 +131,7 @@
                         <a href="http://www.bullmarketbrokers.com/RegistroNacionalBaseDatos" target="_blank">Registro Nacional de Base de Datos</a> |
                         <a href="https://inversor.sba.com.ar/cons_i_inv/servlet/cons_i_inv?200" target="_blank">Consulte Tenencia Caja de Valores</a>
                     </div>
-                    <div class="brands fullWidth">                        
-                    	<div id="owl-demo">
+                    <div class="brands fullWidth">                        <div id="owl-demo">
                           <div class="item"><a href="http://www.bcba.sba.com.ar/" target="_blank"><img src="../images/logofooter-45.png" alt="Bolsa de Comercio de Buenos Aires" /></a></div>
                           <div class="item"><a href="http://www.cajval.sba.com.ar/" target="_blank"><img src="../images/logofooter-46.png" alt="Caja de Valores" /></a></div>
                           <div class="item"><a href="http://www.cnv.gob.ar/web/" target="_blank"><img src="../images/logofooter-47.png" alt="Comisi&oacute;n Nacional de Valores" /></a></div>

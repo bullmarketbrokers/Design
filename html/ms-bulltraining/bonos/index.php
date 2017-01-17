@@ -26,7 +26,7 @@
   	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
     <div class="top topBonos">
         <div class="container">
-            <h1 class="big">Curso de Bonos</h1>
+            <h2 class="big">Curso de Bonos</h2>
             <p>El curso de bonos inicial se orienta a cualquier tipo de inversor, ya que la renta fija es una parte fundamental en el armado de carteras de inversión.</p>
             <br>
         </div>
@@ -60,14 +60,14 @@
         </div>
     </div>
     <div class="freddy">
-    	<h1>Curso dictado por Freddy Vieytes</h1>
+    	<h2 class="main-title">Curso dictado por Freddy Vieytes</h2>
         <img src="../images/freddy.jpg" alt="Freddy Vieytes">
         <p><b>Mag&iacute;ster en Finanzas, UTDT. Analista independiente.</b></p>
         <span>Desarrolla cursos de An&aacute;lisis T&eacute;cnico, Renta Fija y Opciones</span>
     </div>
     <div class="contact">
     	<div class="container">
-        	<h1>Consultas</h1>
+        	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
                 <input type="hidden" name="about" value="BullTraining  Curso de Bonos" />
                 <input type="hidden" name="urlError" value="http://www.cursos-de-bolsa.com.ar/bonos/error.php" />
