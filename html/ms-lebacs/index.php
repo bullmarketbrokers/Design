@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Invertir en lebacs, aprendé a comprar y operar lebacs | BMB</title>
-    <meta name="keywords" content="lebacs, lebacs argentina, lebac comprar, lebac cotizaciones, lebac como funcionan"/>
-    <meta name="description" content="Aprendé todo sobre Lebacs y obtené el mejor retorno, Te mostramos las mejores formas de invertir en lebacs!"/>    
+    <title>Invertir en LEBACS, aprendé a comprar y operar LEBACS | BMB</title>
+    <meta name="keywords" content="LEBACS, LEBACS argentina, LEBACS comprar, LEBAC cotizaciones, LEBAC como funcionan"/>
+    <meta name="description" content="Aprendé todo sobre LEBACS y obtené el mejor retorno, Te mostramos las mejores formas de invertir en LEBACS!"/>    
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -28,7 +28,7 @@
   	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
-        	<h1 class="slogan">Invertir en lebacs, aprendé a comprar y operar lebacs</h1>
+        	<h1 class="slogan">Invertir en LEBACS, aprendé a comprar y operar LEBACS</h1>
         	<div class="col-xs-1"></div>
         	<div class="grayBox col-xs-10">
                 <h1>Invierta en LEBACS</h1>
