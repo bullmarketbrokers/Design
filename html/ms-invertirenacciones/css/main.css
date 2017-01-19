@@ -1,0 +1,250 @@
+﻿/* bootstrap reset */
+
+
+/* common */
+.fleft {float:left}
+.fright {float:right}
+.clear {clear:both}
+.fullWidth {width:100%!important}
+.center {text-align:center!important}
+.blueBg {background:#1f6ead;color:#fff}
+.cyanBg, .cyanBg:hover {background: #00a1b5;color: #fff}
+.magBg, .magBg:hover {background: #a30075;color: #fff}
+
+.btn.btnBig {padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px}
+.top .container {position:relative}
+h1.slogan {font-size:14px;font-weight:normal}
+
+
+/*header*/
+.navbar-sm {position:absolute;top:10px;right:60px}
+.navbar-default {position: fixed;right: 0;left: 0}
+#div_main_menu .navbar-default {z-index:3;border-radius:0}
+.navbar-header {padding:0 15px}
+.navbar-brand {height:auto;padding:5px 15px}
+.navbar-nav > li > a {padding:10px 6px;font-size:12px;border-top:4px solid #fff;margin-top:-4px;color:#000068}
+.navbar-nav a:hover, .navbar-nav .open > a, .navbar-nav .open > a:hover, .navbar-nav .open > a:focus {background-color:#000068!important;border-top:4px solid #000068;color:#fff!important}
+.bottom-menu .dropdown-menu.dark {background-color:rgba(0, 0, 104, .90) !important}
+.bottom-menu .dropdown-menu.dark a:hover {border:none!important;color:#fff!important}
+.navbar-sm {font-size:11px}
+.navbar-sm .account {background:#fce126;color:#333;margin-top:-10px}
+.navbar-sm .login {color:#333}
+.navbar-sm a i {margin-right:4px}
+.navbar-sm a {padding:6px 10px}
+.bottom-menu .dropdown-menu.dark a, .bottom-menu .dropdown-menu.dark a:hover {border: none!important;color: #fff!important}
+.navbar .dropdown-toggle .caret {display: none !important;}
+
+/* content */
+body {font-family: 'Lato', sans-serif;padding: 0px;font-size: 16px;line-height: 22px}
+h1, h2, h3, h4, h5, h6 {font-family: 'Raleway', sans-serif;font-weight: 600;color: #333;margin: 10px 0 20px}
+h2.main-title {font-size:36px;font-weight:700;margin-bottom:30px;font-weight:700}
+h2 {font-size:24px;font-weight:700;margin-bottom:20px;text-align:center;color:#000068}
+.highlight {position: relative;padding: 10px 10px 10px 15px;border: 1px solid #cdcdcd;border-left: 38px solid #000068;margin-bottom: 10px;background:#fff}
+.highlight .fa-check-circle, .highlight .number {position: absolute;top: 8px;left: -28px;color: #fff;z-index: 2;font-size: 20px;}
+.highlight .number {background: #fff;width: 20px;height: 20px;border-radius: 20px;color: #000068;font-size: 11px;text-align: center;font-weight: bold;top: 8px;left: -30px;font-weight: bold}
+.highlight p {margin: 2px 0 4px;font-size: 18px;font-weight:100}
+.calculator {background:#20aa9d;color:#fff;padding:15px 30px}
+.calculator h4 {color:#fff;text-align:center;font-size:24px}
+.calculator input, .calculator select {border-radius:0;border:none}
+.calculator .border {padding:6px;border:1px solid #fff;display:block}
+.calculator .calcResult {background:#fff;padding:6px;height:36px;float:left;width:48%;margin-right:2%;color:#20aa9d}
+#btn_clearForm, #btn_getRevenue {border:none;background:#333;color:#fff;width:36px;height:36px;text-align:center;border-radius:0;position:absolute;top:0;right:15px;cursor:pointer;font-weight:bold;border:1px solid #fff}
+#btn_getRevenue {background:#418bca}
+.section {padding:60px 0}
+form input, form textarea {font-size:24px}
+form .col-xs-12.text-center {clear:both}
+
+.top {background: url(../images/top.jpg) top center no-repeat;background-size: cover;font-size: 18px;padding: 87px 0 120px;color: #333;margin-top: -47px;color:#000068}
+.top h2.main-title, .top h4 {color:#000068}
+.top h2.main-title {margin-bottom:40px}
+.top h4 {font-size:18px;padding-left:48px;position:relative;margin:30px 0;line-height:21px}
+.top h4 i {margin-right:6px;position:absolute;top:0;left:0;font-size:24px}
+.andre img {border:1px solid #333}
+.andre h4 {font-weight:400;font-style:italic;color:#333;font-size:24px;font-family: 'Lato', sans-serif;max-width:800px;margin:40px auto 20px}
+.andre span {font-weight:100;font-size:24px}
+.steps i {background:#00a1b5;border-radius:160px;text-align:center;font-size:90px;color:#fff;padding:36px 30px 0;width:160px;height:160px} 
+.steps p {font-family:'Raleway', sans-serif;font-size:18px;padding:20px 0;max-width:200px;margin:0 auto}
+
+.gray {background:#f6f6f6}
+table {margin-bottom:20px;width:100%}
+table th {background:#000068;color:#fff;text-align:right}
+table th, table td {padding:6px}
+table td {text-align:right}
+tr:nth-child(odd) {background: #f6f6f6}
+table td:first-child {text-align:left}
+table .bold {font-weight:bold}
+.red {color:#FF0029}
+.green {color:#64BA3C}
+.red, .green {font-size:20px}
+h5 {margin-bottom:4px}
+small {font-size:11px}
+
+form input, form textarea {font-family: 'Lato', sans-serif;border:1px solid #ccc;color:#1f6ead;margin-bottom:15px;padding:10px;width:100%}
+form textarea {height:160px}
+form input.error, form textarea.error {border:1px solid #DC0000}
+form label.error {color:#DC0000;font-size:16px;margin-top:-10px;display:inherit;text-align:left}
+.blueBtn, .blueBtn:hover {padding:10px 20px;padding: 12px 20px;font-weight: 700;font-size: 24px;margin: 40px 5px 0 5px;border:none;background:#1f6ead;color:#fff}
+
+/* cross sites */
+
+.recItem {background:#000;position:relative;color:#fff;float:left;width:100%;opacity:0.9;margin-bottom:30px;overflow:hidden}
+.recItem:hover {text-decoration:none;color:#fff;opacity:1}
+.recItem h4 {background:#a30075;padding:10px;margin:0;font-size:30px;z-index:3;position:relative;color:#fff}
+.recItem img {position:absolute;left:0;top:0;z-index:2;width:100%}
+.recItem ul, .recItem ul li, .recItem p {list-style:none;margin:0;padding:0;z-index:3;position:relative}
+.recItem ul, .recItem p {margin:30px}
+.recItem p {font-size:18px}
+.recItem ul li {padding:6px 0;font-size:18px}
+.recItem ul li i {margin-right:8px;font-size:21px}
+
+@media (max-width: 959px) {
+	.recItem img {object-fit: contain;width:auto}	
+}
+
+/* footer */
+footer {font-size:11px;padding:30px 0;background:#f6f6f6;margin-top:40px;line-height:18px;text-align:left}
+footer, footer h3 {color:#4d4d4d}
+footer h3 {margin:0;padding:0 0 6px;font-size:21px}
+.footerSocial {padding-right:0;line-height:22px}
+.footerSocial a {color:#fff;background:#4d4d4d;text-align:center;width:18%;margin-right:2px;padding:4px;font-size:20px;float:left}
+footer .brands {padding: 30px 0 10px}
+footer hr {border:0;border-bottom:1px solid #ccc}
+#jssor_1 {position: relative; margin: 0 auto; top: 0px; left: 0px; height: 52px; overflow: hidden; visibility: hidden;}
+.footLogos {cursor: default; position: relative; top: 0px; left: 0px; height: 52px; overflow: hidden;}
+.footLogos img {width:90%}
+
+
+@media (max-width: 767px) {
+	.top {margin-top:0}
+	.navbar-nav {margin:0;text-align:left}
+    .navbar-nav .open .dropdown-menu > li > a {color: #fff !important;}
+    .navbar-nav > li {border-bottom:1px solid #eee}
+    .navbar-nav > li > a {border:none!important;padding:10px 15px}
+    .main-select-stock-account {width: 120px}
+    .footerSocial {padding-bottom:20px}
+	.navbar-toggle {position: relative;float: right;padding: 11px 10px;margin-top: 8px;margin-right: 15px;margin-bottom: 8px;background-color: transparent;background-image: none;border: 1px solid #ddd;border-radius:0;color:#333;font-size:13px}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #ddd}
+	.navbar-default .navbar-toggle {border-color: #ddd;}
+    .logosContainer img {display:block;width:40%;margin:0 auto}		
+	h1.slogan {margin-top:-54px}
+}
+
+@media (min-width: 768px) {
+	footer h3 {font-size:18px;margin:0 0 4px}
+	.footerSocial a {font-size:14px}
+	footer .bmb {border-left: solid 1px #848484}
+    .div-media-logo {margin-top: -45px}
+    .hidden-sm {display:none!important}
+    .navbar-default {background:#eee;border:none;border-bottom:1px solid #fce126;position:relative}
+    .navbar-sm {position:relative;background:#fff;top:0;right:0;padding:5px 0}
+	.footerSocial a {font-size:12px}
+    .navbar-header {position:relative}
+    .navbar-brand {position:absolute;top:-10px;left:15px;width:120px;padding:0}
+    .navbar-brand img {width:100%}
+    .navbar-nav > li > a {padding: 10px 4px;font-size: 10px}
+    .dropdown-menu > li > a {padding:4px 20px}
+    .navbar-sm .phone:hover, .navbar-sm .login:hover {text-decoration:none;background:#f6f6f6}
+    .navbar-sm .phone {color:#333}
+    footer .brands img {max-width:94px;margin:0 2px}	
+    .logosContainer img {width:12%}	
+    h2.main-title {font-size:40px;}
+    h2 {font-size:36px;}
+    .top h4 {font-size:20px;line-height:24px}
+    .top h4 i {font-size:28px}
+	h1.slogan {position:absolute;top:-64px;right:30px}
+}
+@media (min-width: 960px) {
+	footer h3 {font-size:21px}
+	.footerSocial a {font-size:19px}
+    .navbar-brand {width:200px;top:-28px}
+    .navbar-nav > li > a {padding:10px;font-size:11px}
+    .navbar-sm {font-size:12px;padding:13px 0 12px}
+    .main-select-stock-account {width: 240px}
+    footer .brands img {max-width:115px;margin:0 5px}	
+    h2.main-title {font-size:50px}
+    .top h4 {font-size:24px;line-height:30px}
+    .top h4 i {font-size:32px}
+    #btn_clearForm, #btn_getRevenue {right:0}
+}
+@media (min-width: 1200px) {
+	footer h3 {font-size:24px}
+	.footerSocial a {font-size:20px}
+    .navbar-brand {width:220px;top:-34px}
+    .navbar-nav > li > a {padding:10px 14px;font-size:13px}
+    .navbar-sm {font-size:13px}
+    footer .brands img {max-width:none;margin:0 4px} 	
+    h2.main-title {font-size:60px}
+}
+
+
+/* 
+ * 	Core Owl Carousel CSS File
+ *	v1.3.3
+ */
+
+/* clearfix */
+.owl-carousel .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+/* display none until init */
+.owl-carousel{
+	display: none;
+	position: relative;
+	width: 100%;
+	-ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper{
+	display: none;
+	position: relative;
+	-webkit-transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper-outer{
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight{
+	-webkit-transition: height 500ms ease-in-out;
+	-moz-transition: height 500ms ease-in-out;
+	-ms-transition: height 500ms ease-in-out;
+	-o-transition: height 500ms ease-in-out;
+	transition: height 500ms ease-in-out;
+}
+	
+.owl-carousel .owl-item{
+	float: left;
+}
+.owl-controls .owl-page,
+.owl-controls .owl-buttons div{
+	cursor: pointer;
+}
+.owl-controls {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* mouse grab icon */
+.grabbing { 
+    cursor:url(grabbing.png) 8 8, move;
+}
+
+/* fix */
+.owl-carousel .owl-wrapper,
+.owl-carousel .owl-item{
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility:    hidden;
+	-ms-backface-visibility:     hidden;
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+}
+

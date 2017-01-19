@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Inversiones en Bolsa :: Bull Market Brokers</title>
+    <title>Inversiones en Bolsa | BMB</title>
     <meta name="keywords" content="invertir en bolsa, invertir en merval, merval, rofex, nasdaq, acciones, invertir en acciones, invertir en bonos, invertir en dolares"/>
     <meta name="description" content="Inversiones en Bolsa a través de Bull Market Brokers"/>    
     <link rel="shortcut icon" href="images/favicon.ico">

@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Invertir en LEBACS, aprendé a comprar y operar LEBACS | BMB</title>
-    <meta name="keywords" content="LEBACS, LEBACS argentina, LEBACS comprar, LEBAC cotizaciones, LEBAC como funcionan"/>
-    <meta name="description" content="Aprendé todo sobre LEBACS y obtené el mejor retorno, Te mostramos las mejores formas de invertir en LEBACS!"/>    
+    <title>Invertir en bonos, aprendé a comprar y operar bonos | BMB</title>
+    <meta name="keywords" content="Bonos, comprar bonos, invertir en bonos"/>
+    <meta name="description" content="Aprendé todo sobre Bonos y obtené el mejor retorno, Te mostramos la mejores formas de invertir en Bonos!"/>
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -28,100 +28,129 @@
   	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
-        	<h1 class="slogan">Invertir en LEBACS, aprendé a comprar y operar LEBACS</h1>
+        	<h1 class="slogan">Invertir en bonos, aprendé a comprar y operar bonos</h1>
         	<div class="col-xs-1"></div>
         	<div class="grayBox col-xs-10">
-                <h2 class="main-title">Invierta en LEBACS</h2>
+                <h2 class="main-title">Invert&iacute; en Bonos</h2>
                 <ul>
-                    <li><i class="fa fa-check-circle"></i> RENTA FIJA EN PESOS</li>
-                    <li><i class="fa fa-check-circle"></i> MEJOR RENTA QUE UN PLAZO FIJO</li>
-                    <li><i class="fa fa-check-circle"></i> SE PUEDE SALIR EN EL MOMENTO QUE QUIERA</li>
-                    <li><i class="fa fa-check-circle"></i> SE HACE DE FORMA ONLINE SIN MOVERSE DE SU CASA</li>
+                    <li><i class="fa fa-check-circle"></i> Tasas en pesos y en dólares</li>
+                    <li><i class="fa fa-check-circle"></i> Rentas mensuales, trimestrales o semestrales</li>
+                    <li><i class="fa fa-check-circle"></i> Disponibilidad de los fondos en cualquier momento</li>
+                    <li><i class="fa fa-check-circle"></i> Inversión con más seguridad de repago que un plazo fijo</li>
+                    <li><i class="fa fa-check-circle"></i> Posibilidad de invertir en pesos y obtener dólares</li>
+                    <li><i class="fa fa-check-circle"></i> Mejor rendimiento que un plazo fijo</li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="course blueBg">
     	<div class="container">
-            <h2 class="main-title">¿Qué es una LEBAC?</h2>
-            <p>Las Letras del Banco Central, son títulos a distintos plazos que licita la autoridad monetaria los martes de cada semana con el fin de regular la base monetaria. Se negocia la tasa de interés dada como tasa de descuento. El total del capital se paga al vencimiento funcionando como un bono cupón cero, es decir, que amortizan la totalidad del capital al vencimiento y no hacen pagos de interés.</p>
-            <h3>¿Cómo se operan?</h3>
-            <p>Se pueden cargar las ordenes desde nuestra página web, a través de nuestra plataforma on-line, indicando el plazo y monto a licitar.</p>
-            <h3>¿Hay un mínimo sugerido?</h3> 
-            <p>Recomendamos invertir un mínimo de $ 50.000</p>            
+            <h2 class="main-title">Preguntas frecuentes</h2>
+            <h3>¿Qué es un bono?</h3>
+            <p>Un título público, también conocido como bono, es una emisión de deuda por parte de un estado, nacional, provincial o municipal.</p>
+            <hr>
+            <h3>¿Cómo se componen los títulos públicos?</h3> 
+            <p>Cada título emitido tiene un valor nominal, un interés y un plazo. La periodicidad con la que se paga el interés depende del título, puede ser mensual, semestral, etc. También existe la alternativa deque el bono devuelva el capital periódicamente o al vencimiento.</p>            
+            <hr>
+            <h3>¿Cómo cotizan?</h3>
+            <p>Los títulos públicos cotizan cada 100 nominales, esto implica que el precio que vemos en el mercado es por cada 100 con lo cual para calcular la cantidad a comprar se debe dividir por 100 el precio.</p>
+            <hr>
+            <h3>¿Qué puedo hacer con los títulos públicos?</h3>
+            <p>Existen dos alternativas, o bien se mantienen hasta el vencimiento cobrando renta y amortización o también se puede comprarlos para hacer una diferencia de precio y venderlos.</p>
+            <hr>
+            <h3>¿Cómo son los títulos públicos en dólares?</h3>
+            <p>Los títulos en emitidos en dólares se pueden comprar y vender en pesos o en dólares. Independientemente de la moneda en la que se haga la operación, tanto la renta como la amortización se paga en dólar billete, que se puede retirar en efectivo o por transferencia bancaria a una cuenta en dólares.</p>
+            <hr>
+            <h3>¿Qué es la paridad?</h3>
+            <p>Se dice que los títulos cotizan sobre la par cuando su precio está por encima del 100% del valor residual, cotizan a la par cuando el valor está en el 100% y cotizan bajo la par cuando el precio de mercado es inferior al 100% del valor nominal residual.</p>
             <a href="https://www.bullmarketbrokers.com/ComienceOperar" class="btn cyanBg" target="_blank">Comenzá ahora con un asesor! <i class="fa fa-user"></i></a>
             <span href="#" class="btn magBg" target="_blank">Comunicate al 0.800.345.0223 <i class="fa fa-phone"></i></span>
         </div>
     </div>
     <div class="info">
     	<div class="container">
-        	<div class="col-xs-12 col-sm-6">
-            	<h2>Rendimientos</h2>
-                <p>Los rendimientos de las LEBAC varían en cada licitación. <br>El precio de suscripción de las LEBAC, que determina cual será el rendimiento del instrumento, se determina a través del sistema de subasta holandesa.</p>
-                <h4>Se opera en dos tramos: </h4>
-                <p>Competitivo, en donde ofertan grandes operadores y que define el precio de corte, y el no competitivo, en donde los adjudicatarios aceptan el precio de corte determinado en el tramo competitivo</p>
-            </div>
-        	<div class="col-xs-12 col-sm-6">
-            	<h2>Cuadro Comparativo</h2>
+        	<div class="col-xs-12">
+            	<h2 class="main-title">¿Que bonos ten&eacute;s la posibilidad de comprar?</h2>
                 <small class="date">Actualizado al 28.12.2016</small>
 				<table class="fullWidth lebacs">
                 	<thead>
                     	<tr>
-                        	<th class="magBg">LEBACS</th>
-                            <th class="cyanBg">Plazo Fijo</th>
+                        	<th class="grayBg">Nombre</th>
+                            <th class="cyanBg">D&oacute;lar</th>
+                            <th class="magBg">D&oacute;lar linked</th>
                         </tr>
                     </thead>
                     <tbody>
                     	<tr>
                         	<td>
-                            	<small>35 d&iacute;as</small>
-                                <span>24.75%</span>
+                                <span>AA17</span>
                             </td>
                             <td>
-                            	<small>35 d&iacute;as</small>
-                                <span>17.50%</span>                            
+                                <span>-- %</span>                            
                             </td>
+                            <td>
+                                <span>-- %</span>                            
+                            </td>                            
                         </tr>
                     	<tr>
                         	<td>
-                            	<small>77 d&iacute;as</small>
-                                <span>24.25%</span>
+                                <span>AY24</span>
                             </td>
                             <td>
-                            	<small>77 d&iacute;as</small>
-                                <span>18.00%</span>                            
+                                <span>-- %</span>                            
                             </td>
-                        </tr>                        
+                            <td>
+                                <span>-- %</span>                            
+                            </td>                            
+                        </tr>
+                    	<tr>
+                        	<td>
+                                <span>DICA</span>
+                            </td>
+                            <td>
+                                <span>-- %</span>                            
+                            </td>
+                            <td>
+                                <span>-- %</span>                            
+                            </td>                            
+                        </tr>                                               
                     </tbody>
                 </table>
             </div>            
         </div>
     </div>
-    <div class="beneficios">
-    	<div class="container">
-            <h2 class="main-title">Beneficios</h2>
-            <div class="col-xs-12 col-sm-6 benefitItem">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Ofrecen tasas superiores a las que se puede obtener a plazo fijo.</span></p>
+    <div class="section gray">
+            <div class="container">
+                <div class="row text-center steps">
+                    <h2 class="main-title">Estás a 4 pasos de comenzar a operar</h2>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-user-plus" aria-hidden="true"></i></span>
+                        <p>1. Abr&iacute; una Cuenta</p>
+                        <a class="small" href="https://www.bullmarketbrokers.com/ComienceOperar" target="_blank">Clic para abrir tu cuenta</a>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-usd" aria-hidden="true"></i></span>
+                        <p>2. Transfer&iacute; los fondos</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-user" aria-hidden="true"></i></span>
+                        <p>3. Un asesor te va a aconsejar sobre tu inversión</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <span><i class="fa fa-check" aria-hidden="true"></i></span>
+                        <p>4. Concret&aacute; la operación</p>
+                    </div>
+                </div>
             </div>
-            <div class="col-xs-12 col-sm-6 benefitItem small">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Se trata de un instrumento con liquidez a través de la venta en el mercado secundario, a diferencia de las colocaciones a plazo.</span></p>
-            </div>
-            <div class="col-xs-12 col-sm-6 benefitItem">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Son operaciones de mínimo riesgo al estar garantizadas por el Banco Central.</span></p>
-            </div>
-            <div class="col-xs-12 col-sm-6 benefitItem small">
-				<p><span class="icon"><i class="fa fa-check"></i></span><span class="text">Se pueden colocar como garantía en la operatoria de dólar futuro, con un aforo del 90%</span></p>
-            </div>                 
-        </div>       
-    </div>
+    </div>   
     <div class="contact">
     	<div class="container">
         	<h2 class="main-title">Consultas</h2>
              <form action="https://www.bullmarketbrokers.com/home/Comment" id="commentForm">
-                <input type="hidden" name="about" value="LEBACS" />
-                <input type="hidden" name="urlError" value="http://invertirenlebacs.com.ar/error.php" />
-                <input type="hidden" name="urlBack" value="http://invertirenlebacs.com.ar/contactoRes.php" />
-                <input type="hidden" name="urlFrom" value="http://invertirenlebacs.com.ar" />
+                <input type="hidden" name="about" value="invertirenbonos" />
+                <input type="hidden" name="urlError" value="http://invertirenbonos.com.ar/error.php" />
+                <input type="hidden" name="urlBack" value="http://invertirenbonos.com.ar/contactoRes.php" />
+                <input type="hidden" name="urlFrom" value="http://invertirenbonos.com.ar" />
                 <input type="hidden" name="geoLoc" value="" id="geoLoc" />
                 <div class="col-xs-12 col-sm-12">
                 	<input type="text" id="name" placeholder="Nombre (requerido)" name="name" class="required" />
