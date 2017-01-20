@@ -19,7 +19,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
-      ga('create', 'UA-17836200-4', 'auto');
+      ga('create', 'UA-17836200-12', 'auto');
       ga('send', 'pageview');
     
     </script>    
@@ -58,7 +58,7 @@
             <h3>¿Qué puedo hacer con los títulos públicos?</h3>
             <p>Existen dos alternativas, o bien se mantienen hasta el vencimiento cobrando renta y amortización o también se puede comprarlos para hacer una diferencia de precio y venderlos.</p>
             <hr>
-            <h3>¿Cómo son los títulos públicos en dólares?</h3>
+            <h3>¿Cómo operan los títulos públicos en dólares?</h3>
             <p>Los títulos en emitidos en dólares se pueden comprar y vender en pesos o en dólares. Independientemente de la moneda en la que se haga la operación, tanto la renta como la amortización se paga en dólar billete, que se puede retirar en efectivo o por transferencia bancaria a una cuenta en dólares.</p>
             <hr>
             <h3>¿Qué es la paridad?</h3>
@@ -71,51 +71,88 @@
     	<div class="container">
         	<div class="col-xs-12">
             	<h2 class="main-title">¿Que bonos ten&eacute;s la posibilidad de comprar?</h2>
-                <small class="date">Actualizado al 28.12.2016</small>
-				<table class="fullWidth lebacs">
-                	<thead>
-                    	<tr>
-                        	<th class="grayBg">Nombre</th>
-                            <th class="cyanBg">D&oacute;lar</th>
-                            <th class="magBg">D&oacute;lar linked</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    	<tr>
-                        	<td>
-                                <span>AA17</span>
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>                            
-                        </tr>
-                    	<tr>
-                        	<td>
-                                <span>AY24</span>
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>                            
-                        </tr>
-                    	<tr>
-                        	<td>
-                                <span>DICA</span>
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>
-                            <td>
-                                <span>-- %</span>                            
-                            </td>                            
-                        </tr>                                               
-                    </tbody>
-                </table>
+                <small class="date">Actualizado al 20.01.2017</small>
+                <br><br>
+                <div class="row">
+                	<div class="col-xs-12 col-sm-6">
+                        <table class="fullWidth lebacs">
+                            <thead>
+                                <tr>
+                                    <th colspan="2" class="grayBg">Bonos a tasa fija en Dólares</th>
+                                </tr>                    
+                                <tr>
+                                    <th class="magBg">Ticker</th>
+                                    <th class="cyanBg">Rendimiento</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <span>AY24</span>
+                                    </td>
+                                    <td>
+                                        <span>5,57 %</span>                            
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>DICA</span>
+                                    </td>
+                                    <td>
+                                        <span>7,55 %</span>                            
+                                    </td>                           
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>PARA</span>
+                                    </td>
+                                    <td>
+                                        <span>7,88 %</span>                            
+                                    </td>                          
+                                </tr>                                               
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <table class="fullWidth lebacs">
+                            <thead>
+                                <tr>
+                                    <th colspan="2" class="grayBg">Bonos a tasa fija en Pesos</th>
+                                </tr>                    
+                                <tr>
+                                    <th class="magBg">Ticker</th>
+                                    <th class="cyanBg">Rendimiento</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <span>TO21</span>
+                                    </td>
+                                    <td>
+                                        <span>16,94 %</span>                            
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>TO23</span>
+                                    </td>
+                                    <td>
+                                        <span>15,68 %</span>                            
+                                    </td>                           
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>TO26</span>
+                                    </td>
+                                    <td>
+                                        <span>15,34 %</span>                            
+                                    </td>                          
+                                </tr>                                               
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>            
         </div>
     </div>

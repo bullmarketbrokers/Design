@@ -19,13 +19,13 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
-      ga('create', 'UA-17836200-4', 'auto');
+      ga('create', 'UA-17836200-12', 'auto');
       ga('send', 'pageview');
     
     </script>    
   </head>
   <body>
-  	<?php print file_get_contents("http://invertirenbonos.com.ar/mainBullMenu.html")?>
+  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     
     <div class="info">
     	<div class="container">

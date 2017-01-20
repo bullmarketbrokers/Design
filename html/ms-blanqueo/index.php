@@ -26,7 +26,7 @@
   
   </head>
   <body>
-  	<?php print file_get_contents("http://www.operarenrofex.com.ar/mainBullMenu.html")?>
+  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
 			<h1>Lo que querías saber sobre el<br><span>Sinceramiento de Capitales</span><br>y cómo aprovecharlo</h1>

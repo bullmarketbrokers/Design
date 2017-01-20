@@ -25,7 +25,7 @@
     </script>    
   </head>
   <body>
-  	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
+  	  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top topAn2">
         <div class="container">
             <h2 class="big">Curso An&aacute;lisis T&eacute;cnico Cuantitativo</h2>

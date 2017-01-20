@@ -23,7 +23,7 @@
     </script>    
   </head>
   <body>
-	<?php print file_get_contents("http://cursos-de-bolsa.com.ar/mainBullMenu.html")?>
+	  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     
     <div class="info">
     	<div class="container">

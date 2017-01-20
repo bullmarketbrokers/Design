@@ -25,7 +25,7 @@
     </script> 
   </head>
   <body>
-  	<?php print file_get_contents("http://inversionesenbolsa.com.ar/mainBullMenu.html")?>
+  	<?php print file_get_contents("http://invertirenlebacs.com.ar/mainBullMenu.html")?>
     <div class="top">
         <div class="container">
 			<h1 class="slogan">Invertir en acciones, aprendé a comprar y operar acciones</h1>
