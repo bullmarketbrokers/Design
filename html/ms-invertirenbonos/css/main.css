@@ -98,6 +98,16 @@ table.lebacs tr:nth-child(even) {background: #f4f4f4}
 .recItem p {font-size:18px}
 .recItem ul li {padding:6px 0;font-size:18px}
 .recItem ul li i {margin-right:8px;font-size:21px}
+.accordionPanel {float:left;width:100%}
+.panel-group .panel-heading+.panel-collapse>.list-group, .panel-group .panel-heading+.panel-collapse>.panel-body {border:none;padding-right:57px;padding-top:0;border-right:42px solid #000068;font-size:16px}
+.panel-group .panel+.panel {margin-top:10px}
+.accordionPanel .panel {border-radius:0;text-align:left}
+.accordionPanel .panel-default>.panel-heading {padding:0;position:relative;border-radius:0;background:#fff;height:42px}
+.panel-body h4 {margin:20px 0 6px;font-size:16px}
+.accordionPanel .panel-default>.panel-heading span {position:absolute;top:0;right:0;background:#000068;width:42px;height:42px}
+.accordionPanel .panel-default>.panel-heading i {color:#fff;position:absolute;top:4px;right:10px;font-size:30px}
+.accordionPanel .panel-default>.panel-heading a {display:block;padding:10px 50px 6px 15px;text-decoration:none;font-weight:600;color:#002e5f;font-size:16px;position:relative;z-index:2}
+.panel-body hr {margin:0 0 10px;padding:0}
 @media (max-width: 959px) {
 	.recItem img {object-fit: contain;width:auto}	
 }
@@ -115,6 +125,7 @@ table.lebacs tr:nth-child(even) {background: #f4f4f4}
 @media only screen and (min-width : 992px) {
 	.benefitItem p {font-size:18px}
 	.benefitItem.small p {font-size:14px}		
+	.accordionPanel .panel-default>.panel-heading a {font-size:20px}
 }
 
 @media only screen and (min-width : 1200px) {

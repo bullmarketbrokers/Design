@@ -46,23 +46,224 @@
     <div class="course blueBg">
     	<div class="container">
             <h2 class="main-title">Preguntas frecuentes</h2>
-            <h3>¿Qué es un bono?</h3>
-            <p>Un título público, también conocido como bono, es una emisión de deuda por parte de un estado, nacional, provincial o municipal.</p>
-            <hr>
-            <h3>¿Cómo se componen los títulos públicos?</h3> 
-            <p>Cada título emitido tiene un valor nominal, un interés y un plazo. La periodicidad con la que se paga el interés depende del título, puede ser mensual, semestral, etc. También existe la alternativa deque el bono devuelva el capital periódicamente o al vencimiento.</p>            
-            <hr>
-            <h3>¿Cómo cotizan?</h3>
-            <p>Los títulos públicos cotizan cada 100 nominales, esto implica que el precio que vemos en el mercado es por cada 100 con lo cual para calcular la cantidad a comprar se debe dividir por 100 el precio.</p>
-            <hr>
-            <h3>¿Qué puedo hacer con los títulos públicos?</h3>
-            <p>Existen dos alternativas, o bien se mantienen hasta el vencimiento cobrando renta y amortización o también se puede comprarlos para hacer una diferencia de precio y venderlos.</p>
-            <hr>
-            <h3>¿Cómo operan los títulos públicos en dólares?</h3>
-            <p>Los títulos en emitidos en dólares se pueden comprar y vender en pesos o en dólares. Independientemente de la moneda en la que se haga la operación, tanto la renta como la amortización se paga en dólar billete, que se puede retirar en efectivo o por transferencia bancaria a una cuenta en dólares.</p>
-            <hr>
-            <h3>¿Qué es la paridad?</h3>
-            <p>Se dice que los títulos cotizan sobre la par cuando su precio está por encima del 100% del valor residual, cotizan a la par cuando el valor está en el 100% y cotizan bajo la par cuando el precio de mercado es inferior al 100% del valor nominal residual.</p>
+			<div class="panel-group accordionPanel" id="accordion">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> 1. ¿Cuáles son las características principales de un bono? </a><span><i class="fa indicator pull-right fa-angle-up"></i></span> </h4>
+                  </div>
+                  <div id="collapseOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Una de las principales características de los bonos es que el emisor puede fijar las condiciones según sus necesidades de financiamiento. Por esto hay títulos emitidos en diferentes monedas y plazos, a tasa fija o variable, con amortización (devolución del capital) al vencimiento o durante la vida del bono, y diferente periodicidad en el pago de intereses. <br>Los bonos otorgan una renta fija, ya que si se compran y se mantienen hasta el vencimiento, el inversor sabe exactamente cuál va a ser su ganancia. También pueden venderse en el mercado secundario anticipadamente, y así obtener una ganancia ante la suba de precio del título.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"> 2. ¿Qué es el Valor Nominal de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseTwo" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>El valor nominal de un bono es la cantidad que el emisor se compromete a devolver al vencimiento.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"> 3. ¿Cómo cotizan los bonos? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseThree" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Los bonos cotizan cada 100 de valor nominal, lo que implica que para calcular la cantidad a comprar se debe dividir por 100 el precio.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"> 4. ¿Qué significa que un bono cotice ex cupón? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseFour" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Un bono que cotiza ex cupón es aquel que no incluye los derechos de cobro sobre el próximo cupón. Generalmente el bono “corta cupón” 72 horas antes de la fecha de pago de renta y comienza a cotizar sin el derecho de cobro.</p>                  
+                    </div>
+                </div>
+                </div>        
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"> 5. ¿Qué es el Valor Residual de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseFive" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>El valor residual es la proporción del capital del bono aún no amortizado. Esto es, el valor nominal del título menos lo que ya amortizó.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"> 6. ¿Qué son los Intereses Corridos? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseSix" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Los intereses corridos son aquellos que se devengaron desde el último pago de cupón a la fecha actual. En el inicio de cada período de renta son iguales a cero.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"> 7. ¿Qué es el Valor Técnico de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseSeven" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>El valor técnico de un bono el valor de rescate del título al momento actual, esto es, el valor residual más los intereses corridos.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight"> 8. ¿Qué es la cotización DIRTY (sucia) y CLEAN (limpia)? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseEight" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Cuando un precio cotiza con los intereses corridos incluidos se dice que cotiza “SUCIO” o DIRTY, mientras que si el precio excluye intereses corridos, se dice que cotiza “LIMPIO” o CLEAN.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNine"> 9. ¿Qué es la cotización DIRTY (sucia) y CLEAN (limpia)? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseNine" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Cuando un precio cotiza con los intereses corridos incluidos se dice que cotiza “SUCIO” o DIRTY, mientras que si el precio excluye intereses corridos, se dice que cotiza “LIMPIO” o CLEAN.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen"> 10. ¿Qué es la Paridad de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseTen" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Es la relación entre el valor de mercado del bono y el Valor Técnico.
+						<br>Paridad (%)= Precio del título / Valor Técnico
+						<br>Cuando la paridad del bono es del 100% se dice que cotiza a la par. Si es mayor al 100% sobre la par y si es menor, bajo la par.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven"> 11. ¿Qué es la fecha de liquidación? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseEleven" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>La fecha de liquidación es el momento en el que se hace efectiva la operación, esto significa que es el momento en el que se paga el precio pactado y se recibe el título o, en su caso, se cobra el precio pactado y se entrega el título.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve"> 12. ¿Qué es un bono Bullet? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapseTwelve" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Un bono se denomina “Bullet” cuando devuelve el capital en una única cuota al vencimiento.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse13"> 13. ¿Qué es un bono Cupón Cero? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse13" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Son aquellos bonos que no pagan renta ni amortización a lo largo de su vida. Son emitidos bajo la par, por un precio inferior a su valor nominal (a descuento), y al vencimiento amortiza por su valor nominal. Se obtiene un rendimiento por la diferencia entre el valor de inversión y el de amortización.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse14"> 14. ¿Qué es la TIR de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse14" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>La TIR o Tasa Interna de Retorno, es la tasa de rendimiento que iguala el valor presente de los flujos (rentas y amortizaciones), con el precio actual del bono. Cuanto mayor sea el precio, menor será la TIR. Hay que tener en cuenta que la TIR es un rendimiento esperado, que depende de estos dos supuestos:</p>
+                        <ol>
+                        	<li>Mantener la inversión al vencimiento</li>
+                            <li>Reinvertir la renta a la misma tasa de la TIR</li>
+                        </ol>
+                        <p>Si no se mantiene el título al vencimiento, el precio de venta modifica el retorno final obtenido. Lo mismo ocurre si no se reinvierten los cupones a la misma tasa de la TIR, lo que en la práctica es difícil de lograr.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse15"> 15. ¿Qué es la Duration de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse15" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>La Duration muestra cuánto tiempo, en años, tarda un bono en repagar su precio, de acuerdo a su flujo de fondos. Es una medida importante a tener en cuenta, ya que bonos con una Duration mayor tienen un riesgo más alto porque sus precios tienen una mayor volatilidad.
+						<br>En un bono cupón cero, la Duration es igual a su plazo de vencimiento.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse16"> 16. ¿Qué es la Modified Duration de un bono? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse16" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>La Modified Duration es una medida de sensibilidad del precio ante cambios en la TIR. Un valor muy alto indica una alta sensibilidad de precio ante variaciones de TIR. Por ejemplo, si un bono tiene una Modified Duration de 5, significa que el precio subirá un 5% si la TIR se cae en un 1%.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse17"> 17. ¿Cómo se interpreta una curva de rendimientos? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse17" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+                        <p>Una curva de rendimientos es un gráfico construido en base a  la TIR y Duration de una serie de bonos con características similares.  En la mayoría de los casos, la curva tiene pendiente positiva y muestra que a mayor plazo, mayor será la rentabilidad. Si la curva tiene pendiente negativa, significa que a mayor plazo, menor será la rentabilidad, lo que sugiere una desaceleración del crecimiento de la economía. Se utiliza con el fin de realizar arbitrajes de bonos: los que se encuentran por encima de la curva son una oportunidad, al contrario de los que se ubican por debajo de la misma.</p>
+                  </div>
+                </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse18"> 18. ¿Cuáles son los riesgos asociados a la inversión en bonos? </a><span><i class="fa fa-angle-down indicator pull-right"></i></span> </h4>
+                  </div>
+                  <div id="collapse18" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <hr>
+						<ul>
+                        	<li>Riesgo de reinversión: Riesgo de no poder reinvertir los cupones a la misma tasa que la TIR.</li>
+                            <li>Riesgo de tasa de interés: Al subir las tasas, cae el precio de los bonos. Genera un riesgo al no saber a qué precio se podrá vender el bono en el futuro ante una suba de tasas.</li>
+                            <li>Riesgo de default: Riesgo de que el emisor no cumpla con el pago de renta o amortización.</li>
+                            <li>Riesgo de iliquidez: Riesgo de no encontrar liquidez suficiente en el mercado secundario a la hora de querer vender el título. Para mitigar este riesgo, es recomendable operar bonos de alta liquidez en el mercado.</li>
+                            <li>Riesgo de inflación: Riesgo que la tasa de inflación sea mayor que la tasa de interés obtenida en la inversión.</li>
+                            <li>Riesgo de devaluación: Similar al riesgo de inflación, al realizar una inversión se desconoce el tipo de cambio futuro y una devaluación puede reducir la rentabilidad final de la inversión.</li>
+                            <li>Riesgo de rescate anticipado o call: Hay bonos que cuentan con la cláusula que estipula que pueden ser rescatados por el emisor antes del vencimiento, a la par o encima de la par. Estos bonos tienen un mayor rendimiento que los que no tienen esta opción, ya que le genera al inversor un riesgo adicional, debido a que pueden ser recatados anticipadamente y el tenedor debe buscar otra inversión para colocar esos fondos.</li>
+                        </ul>
+                  </div>
+                </div>
+                </div>
+        </div>            
+            
+            
             <a href="https://www.bullmarketbrokers.com/ComienceOperar" class="btn cyanBg" target="_blank">Comenzá ahora con un asesor! <i class="fa fa-user"></i></a>
             <span href="#" class="btn magBg" target="_blank">Comunicate al 0.800.345.0223 <i class="fa fa-phone"></i></span>
         </div>
@@ -351,6 +552,14 @@
 				callback(response);
 			});
 		}		
+		function toggleChevron(e) {
+			$(e.target)
+				.prev('.panel-heading')
+				.find("i.indicator")
+				.toggleClass('fa-angle-up fa-angle-down');
+		}
+		$('#accordion').on('hidden.bs.collapse', toggleChevron);
+		$('#accordion').on('shown.bs.collapse', toggleChevron);				
         jQuery(document).ready(function ($) {
                      //owl footer brands carousel start
 		   
